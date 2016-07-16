@@ -1,6 +1,6 @@
 # Awesome Hyperterm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://cdn.rawgit.com/zeit/hyperterm-website/master/static/card.png" align="right" width="140">](https://hyperterm.now.sh)
+[<img src="https://cdn.rawgit.com/zeit/hyperterm-website/master/static/card.png" align="right" width="140">](https://hyperterm.org)
 
 > A curated list of sweet Hyperterm [packages](#packages), [themes](#themes), and [resources](#resources).
 
@@ -8,7 +8,7 @@
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
-**Check out the official [Hyperterm site](https://hyperterm.now.sh), checkout [Zeit](https://zeit.co), and their interesting Hosting product, [Now](https://zeit.co/now) or say to me *hi* on [Twitter](https://twitter.com/bitandbang).**
+**Check out the official [Hyperterm site](https://hyperterm.org), checkout [Zeit](https://zeit.co), and their interesting Hosting product, [Now](https://zeit.co/now) or say to me *hi* on [Twitter](https://twitter.com/bitandbang).**
 
 Want to add your awesome Hyperterm package, theme, or resource? [Create an issue](https://github.com/bnb/awesome-hyperterm/issues/new) or send a PR!
 
@@ -36,7 +36,7 @@ Want to add your awesome Hyperterm package, theme, or resource? [Create an issue
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
-* [Hyperterm Website](hyperterm.now.sh) - The official Hyperterm website.
+* [Hyperterm Website](hyperterm.org) - The official Hyperterm website.
 * Know of another Hyperterm resource? [Share the love!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 
