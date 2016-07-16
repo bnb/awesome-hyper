@@ -36,7 +36,7 @@ Want to add your awesome Hyperterm package, theme, or resource? [Create an issue
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
-*[hyperterm-deep-space](https://www.npmjs.com/package/hyperterm-deep-space) - Dark - Dark, muted theme with good color matching.
+* [Hyperterm Website](hyperterm.now.sh) - The official Hyperterm website.
 * Know of another Hyperterm resource? [Share the love!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 
