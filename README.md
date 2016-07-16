@@ -37,7 +37,7 @@ Want to add your awesome Hyperterm package, theme, or resource? [Create an issue
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
-* [Hyperterm Website](hyperterm.org) - The official Hyperterm website.
+* [Hyperterm Website](https://hyperterm.org/) - The official Hyperterm website.
 * Know of another Hyperterm resource? [Share the love!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 
