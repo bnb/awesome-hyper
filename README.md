@@ -2,7 +2,7 @@
 
 [<img src="https://cdn.rawgit.com/zeit/hyperterm-website/master/static/card.png" align="right" width="140">](https://hyperterm.now.sh)
 
-> A curated list of sweet Hyperterm [packages](#packages) and [resources](#resources).
+> A curated list of sweet Hyperterm [packages](#packages), [themes](#themes), and [resources](#resources).
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-node](https://github.com/sindresorhus/awesome-node) and [awesome-npm](https://github.com/sindresorhus/awesome-npm), which both have CLI stuffs you can use with Hyperterm!*
 
