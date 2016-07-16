@@ -27,7 +27,7 @@ Want to add your awesome Hyperterm package, theme, or resource? [Create an issue
 
 # Packages
 * [Hypertheme](https://www.npmjs.com/package/hypertheme) - A theme manager for Hyperterm, published right off the bat. You should import your favorite text-editor or terminal theme and [add it to awesome-hyperterm](https://github.com/bnb/awesome-hyperterm/issues/new)!
-* [Hyperpower](https://www.npmjs.com/package/hyperpower) - Add a pinch of kick-arse raw POWER to your Hyperterm! Adds the pixel-explosion and shake effect that's been implemented in several text editors. 
+* [Hyperpower](https://www.npmjs.com/package/hyperpower) - Add a pinch of kick-arse raw POWER to your Hyperterm! Adds the pixel-explosion and shake effect that's been implemented in several text editors.
 * Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Themes
@@ -37,7 +37,7 @@ Want to add your awesome Hyperterm package, theme, or resource? [Create an issue
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
-* [Hyperterm Website](hyperterm.org) - The official Hyperterm website.
+* [Hyperterm Website](https://hyperterm.org) - The official Hyperterm website.
 * Know of another Hyperterm resource? [Share the love!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 
