@@ -33,6 +33,7 @@ Want to add your awesome Hyperterm package, theme, or resource? [Create an issue
 # Themes
 * [hyperterm-atom-dark](https://www.npmjs.com/package/hyperterm-atom-dark) - Dark - Really beautiful import of Atom One Dark theme from the [official Atom theme](https://github.com/atom/one-dark-syntax).
 * [hyperterm-deep-space](https://www.npmjs.com/package/hyperterm-deep-space) - Dark - Dark, muted theme with good color matching.
+* [hyperterm-colors](https://www.npmjs.com/package/hyperterm-deep-space) - Dark - Sweet dark color scheme with a chocolate-y brown background and a pretty set of muted colors!
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
