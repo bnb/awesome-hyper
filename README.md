@@ -8,10 +8,11 @@
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
-**Check out the official [Hyperterm site](https://hyperterm.org), checkout [Zeit](https://zeit.co), and their interesting Hosting product, [Now](https://zeit.co/now) or say to me *hi* on [Twitter](https://twitter.com/bitandbang).**
+**Check out the official [Hyperterm site](https://hyperterm.org), checkout [Zeit](https://zeit.co), and their interesting Hosting product, [Now](https://zeit.co/now).**
 
 Want to add your awesome Hyperterm package, theme, or resource? [Create an issue](https://github.com/bnb/awesome-hyperterm/issues/new) or send a PR!
 
+Like `awesome-hypperterm`? Reach out to me and say *hi* on [Twitter](https://twitter.com/bitandbang)! 👋
 
 <!-- AWESOME ITEM TEMPLATE --
 
