@@ -1,6 +1,6 @@
 # Awesome Hyperterm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://cdn.rawgit.com/zeit/hyperterm-website/master/static/card.png" align="right" width="140">](https://hyperterm.org)
+[<img src="https://cdn.rawgit.com/zeit/hyperterm-website/master/static/card.png" align="right" width="320">](https://hyperterm.org)
 
 > A curated list of sweet Hyperterm [packages](#packages), [themes](#themes), and [resources](#resources).
 
