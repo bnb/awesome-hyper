@@ -36,6 +36,7 @@ Want to add your awesome Hyperterm package, theme, or resource? [Create an issue
 * [hyperterm-solarized-dark](https://github.com/Ghosh/hyperterm-solarized-dark) - Dark - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) pallete.
 * [hyperterm-colors](https://www.npmjs.com/package/hyperterm-colors) - Dark - Sweet dark color scheme with a chocolate-y brown background and a pretty set of muted colors!
 * [hyperterm-snazzy](https://github.com/sindresorhus/hyperterm-snazzy) - Dark - Elegant theme with bright colors.
+* [hyperterm-gruvbox-dark](https://github.com/mcchrish/hyperterm-gruvbox-dark) - Dark - retro groove colors.
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
