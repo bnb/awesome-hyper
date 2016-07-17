@@ -29,6 +29,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 # Packages
 * [Hypertheme](https://www.npmjs.com/package/hypertheme) - A theme manager for Hyperterm, published right off the bat. You should import your favorite text-editor or terminal theme and [add it to awesome-hyperterm](https://github.com/bnb/awesome-hyperterm/issues/new)!
 * [Hyperpower](https://www.npmjs.com/package/hyperpower) - Add a pinch of kick-arse raw POWER to your Hyperterm! Adds the pixel-explosion and shake effect that's been implemented in several text editors. 
+* [Hyperline](https://www.npmjs.com/package/hyperline) - A status line at the bottom of your Hyperterm!
 * Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Themes
