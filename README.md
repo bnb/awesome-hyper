@@ -4,7 +4,7 @@
 
 > A curated list of sweet Hyperterm [packages](#packages), [themes](#themes), and [resources](#resources).
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-node](https://github.com/sindresorhus/awesome-node) and [awesome-npm](https://github.com/sindresorhus/awesome-npm), which both have CLI stuffs you can use with Hyperterm!*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-node](https://github.com/sindresorhus/awesome-nodejs) and [awesome-npm](https://github.com/sindresorhus/awesome-npm), which both have CLI stuffs you can use with Hyperterm!*
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
