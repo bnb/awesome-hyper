@@ -31,6 +31,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperpower](https://www.npmjs.com/package/hyperpower) - Add a pinch of kick-arse raw POWER to your Hyperterm! Adds the pixel-explosion and shake effect that's been implemented in several text editors.
 * [hyperline](https://www.npmjs.com/package/hyperline) - A status line at the bottom of your Hyperterm!
 * [hyperterm-blink](https://www.npmjs.com/package/hyperterm-blink) - Make your cursor blink.
+* [hyperborder](https://github.com/webmatze/hyperborder) - Add a gradient border with the same colors as in the Hyperterm logo
 * Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Themes
