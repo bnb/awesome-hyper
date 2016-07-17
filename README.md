@@ -32,6 +32,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperline](https://www.npmjs.com/package/hyperline) - A status line at the bottom of your Hyperterm!
 * [hyperterm-blink](https://www.npmjs.com/package/hyperterm-blink) - Make your cursor blink.
 * [hyperborder](https://github.com/webmatze/hyperborder) - Add a gradient border with the same colors as in the Hyperterm logo
+* [hyperterm-transparent-bg](https://www.npmjs.com/package/hyperterm-transparent-bg) - add a transparent background to your Hyperterm through an interesting HTML hack.
 * Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Themes
