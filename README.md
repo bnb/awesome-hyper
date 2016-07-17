@@ -39,6 +39,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-colors](https://www.npmjs.com/package/hyperterm-colors) - Dark - Sweet dark color scheme with a chocolate-y brown background and a pretty set of muted colors!
 * [hyperterm-snazzy](https://github.com/sindresorhus/hyperterm-snazzy) - Dark - Elegant theme with bright colors.
 * [hyperterm-gruvbox-dark](https://github.com/mcchrish/hyperterm-gruvbox-dark) - Dark - Hyperterm theme with retro, earthy groove colors.
+* [hyperpanic](https://www.npmjs.com/package/hyperpanic) - Dark - A very pretty theme close to the Panic theme's colors. Dark blue background with very bright highlight colors.
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
