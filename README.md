@@ -12,7 +12,7 @@
 
 Want to add your awesome Hyperterm package, theme, or resource? [Create an issue](https://github.com/bnb/awesome-hyperterm/issues/new) or send a PR!
 
-Like `awesome-hypperterm`? Reach out to me and say *hi* on [Twitter](https://twitter.com/bitandbang)! 👋
+Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twitter.com/bitandbang)! 👋
 
 <!-- AWESOME ITEM TEMPLATE --
 
