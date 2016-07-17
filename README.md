@@ -28,7 +28,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 
 # Packages
 * [Hypertheme](https://www.npmjs.com/package/hypertheme) - A theme manager for Hyperterm, published right off the bat. You should import your favorite text-editor or terminal theme and [add it to awesome-hyperterm](https://github.com/bnb/awesome-hyperterm/issues/new)!
-* [Hyperpower](https://www.npmjs.com/package/hyperpower) - Add a pinch of kick-arse raw POWER to your Hyperterm! Adds the pixel-explosion and shake effect that's been implemented in several text editors. 
+* [Hyperpower](https://www.npmjs.com/package/hyperpower) - Add a pinch of kick-arse raw POWER to your Hyperterm! Adds the pixel-explosion and shake effect that's been implemented in several text editors.
 * [Hyperline](https://www.npmjs.com/package/hyperline) - A status line at the bottom of your Hyperterm!
 * Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
@@ -38,7 +38,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-solarized-dark](https://github.com/Ghosh/hyperterm-solarized-dark) - Dark - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) pallete.
 * [hyperterm-colors](https://www.npmjs.com/package/hyperterm-colors) - Dark - Sweet dark color scheme with a chocolate-y brown background and a pretty set of muted colors!
 * [hyperterm-snazzy](https://github.com/sindresorhus/hyperterm-snazzy) - Dark - Elegant theme with bright colors.
-* [hyperterm-gruvbox-dark](https://github.com/mcchrish/hyperterm-gruvbox-dark) - Dark - Hyperterm theme with retro, earthy groove colors.
+* [hyperterm-gruvbox-dark](https://github.com/mcchrish/hyperterm-gruvbox-dark) - Dark - Hyperterm theme with retro, earthy groove colors based on the [gruvbox](https://github.com/morhetz/gruvbox) vim color scheme.
 * [hyperpanic](https://www.npmjs.com/package/hyperpanic) - Dark - A very pretty theme close to the Panic theme's colors. Dark blue background with very bright highlight colors.
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
