@@ -43,10 +43,9 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-gruvbox-dark](https://www.npmjs.com/package/hyperterm-gruvbox-dark) - Dark - Hyperterm theme with retro, earthy groove colors based on the [gruvbox](https://github.com/morhetz/gruvbox) vim color scheme.
 * [hyperpanic](https://www.npmjs.com/package/hyperpanic) - Dark - A very pretty theme close to the Panic theme's colors. Dark blue background with very bright highlight colors.
 * [hyperterm-tomorrow-night](https://www.npmjs.com/package/hyperterm-tomorrow-night) - Dark - Port of the popular Tomorrow Night theme.
+* [hyperseti](https://www.npmjs.com/package/hyperseti) - Dark - It's a theme based on [Seti](https://github.com/jesseweed/seti-ui), a subtle dark colored UI theme for Atom.
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
 * [Official Hyperterm Website](https://hyperterm.org/) - The official Hyperterm website.
 * Know of another Hyperterm resource? [Share the love!](https://github.com/bnb/awesome-hyperterm/issues/new)
-
-
