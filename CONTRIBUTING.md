@@ -20,8 +20,9 @@ Please ensure your pull request adheres to the following guidelines:
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
 - Make an individual pull request for each suggestion.
-- Use [title-casing](http://titlecapitalization.com) (AP style).
-- Use the following format: `[List Name](link)`
+- For Hyperterm **package** and **theme** names, plese use the title of package's name as is is published to npm, as displayed in the URI of the package. Example: Title of `https://www.npmjs.com/package/hyperterm-snazzy` would be `hyperterm-snazzy`
+- For Hyperterm **resources**, use [title-casing](http://titlecapitalization.com) (AP style).
+- Use the following format: `[List Name](link) - Your awesome description`
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
