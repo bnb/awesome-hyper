@@ -49,6 +49,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-tomorrow-night](https://www.npmjs.com/package/hyperterm-tomorrow-night) - Dark - Port of the popular Tomorrow Night theme.
 * [hyperseti](https://www.npmjs.com/package/hyperseti) - Dark - It's a theme based on [Seti](https://github.com/jesseweed/seti-ui), a subtle dark colored UI theme for Atom.
 * [hyperterm-oceanic-next](https://github.com/kasperlewau/hyperterm-oceanic-next) - Dark blue theme optimised for ES2015. Ported from [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme).
+* [hyperterm-wp-theme](https://www.npmjs.com/package/hyperterm-wp-theme) - Dark - It's a theme based on JetBrains Dragula theme
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
