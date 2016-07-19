@@ -37,6 +37,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-1password](https://www.npmjs.com/package/hyperterm-1password) - Integration with 1Password (password manager).
 * [hyperterm-visor](https://github.com/CWSpear/hyperterm-visor) - Show/hide your HyperTerm terminal with a global hotkey & more.
 * [hyperterm-open-devtools](https://www.npmjs.com/package/hyperterm-open-devtools) - Open DevTools for currently showing web page with a hotkey.
+* [hyperterm-close-on-left](https://www.npmjs.com/package/hyperterm-close-on-left) - Positions the close tab button on the left.
 * Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Themes
