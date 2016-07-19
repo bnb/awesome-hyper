@@ -61,7 +61,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-wp-theme](https://www.npmjs.com/package/hyperterm-wp-theme) - An adaptation of the popular JetBrains Darcula Theme with support for colored tabs
 * [hyperterm-monokai](https://www.npmjs.com/package/hyperterm-monokai) - Dark - A port of the popular monokai theme. The colors are warm, relaxing and pleasing to the eyes.
 * [hyperterm-spacegray](https://npmjs.com/package/hyperterm-spacegray) – Port of the popular Spacegray theme, optimized for terminal usage.
-* [hyperterm-maclite](https://www.npmjs.com/package/hyperterm-maclite) - Light - Bright clean theme inspired by the subtle gradients and drop shadows of macOS. With tab close buttons on the left.
+* [hyperterm-maclite](https://www.npmjs.com/package/hyperterm-maclite) - Light - Bright clean theme inspired by the subtle gradients and drop shadows of macOS, with tab close buttons on the left.
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
