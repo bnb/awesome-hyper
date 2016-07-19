@@ -52,7 +52,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperseti](https://www.npmjs.com/package/hyperseti) - Dark - It's a theme based on [Seti](https://github.com/jesseweed/seti-ui), a subtle dark colored UI theme for Atom.
 * [hyperterm-oceanic-next](https://github.com/kasperlewau/hyperterm-oceanic-next) - Dark blue theme optimised for ES2015. Ported from [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme).
 * [hyperterm-spacegray](https://npmjs.com/package/hyperterm-spacegray) – Port of the popular Spacegray theme, optimized for terminal usage.
-* [hyperterm-maclite](https://www.npmjs.com/package/hyperterm-maclite) - Light - Bright clean theme inspired by the subtle gradients and drop shadows of macOS. With tab close buttons on the left.
+* [hyperterm-maclite](https://www.npmjs.com/package/hyperterm-maclite) - Light - Bright clean theme inspired by the subtle gradients and drop shadows of macOS, with tab close buttons on the left.
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
