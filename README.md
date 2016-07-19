@@ -1,14 +1,14 @@
-# Awesome Hyperterm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome HyperTerm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/bnb/awesome-hyperterm/master/Hyperterm-Mark-Large.png" align="right" width="240">](https://hyperterm.org)
 
-> A curated list of sweet Hyperterm [packages](#packages), [themes](#themes), and [resources](#resources).
+> A curated list of sweet HyperTerm [packages](#packages), [themes](#themes), and [resources](#resources).
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-node](https://github.com/sindresorhus/awesome-nodejs) and [awesome-npm](https://github.com/sindresorhus/awesome-npm), which both have CLI stuffs you can use with Hyperterm!*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-node](https://github.com/sindresorhus/awesome-nodejs) and [awesome-npm](https://github.com/sindresorhus/awesome-npm), which both have CLI stuffs you can use with HyperTerm!*
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
-**Check out the official [Hyperterm site](https://hyperterm.org), checkout [Zeit](https://zeit.co), and their interesting Hosting product, [Now](https://zeit.co/now).**
+**Check out the official [HyperTerm site](https://hyperterm.org), checkout [Zeit](https://zeit.co), and their interesting Hosting product, [Now](https://zeit.co/now).**
 
 Want to add your awesome Hyperterm package, theme, or resource? [Create an issue](https://github.com/bnb/awesome-hyperterm/issues/new) or send a PR!
 
