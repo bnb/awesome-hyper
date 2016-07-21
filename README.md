@@ -64,6 +64,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-monokai](https://www.npmjs.com/package/hyperterm-monokai) - Dark - A port of the popular monokai theme. The colors are warm, relaxing and pleasing to the eyes.
 * [hyperterm-spacegray](https://npmjs.com/package/hyperterm-spacegray) – Port of the popular Spacegray theme, optimized for terminal usage.
 * [hyperterm-electron-highlighter](https://github.com/mmcbride1007/hyperterm-electron-highlighter) - Dark - Port of Atom One Dark syntax colors with more vibrant colors.
+* [hyperterm-electron-highlighter](https://www.npmjs.com/package/hyperterm-electron-highlighter) - Dark - Port of Atom One Dark syntax colors with more vibrant colors.
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
