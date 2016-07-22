@@ -58,6 +58,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-title](https://www.npmjs.com/package/hyperterm-title) – Set the title of your tabs to what your shell suggests.
 * [hyperpunk](https://www.npmjs.com/package/hyperpunk) - Hyperterm extension to make your terminal look Cyberpunk / Sci-fi
 * [hyperterm-one-light](https://www.npmjs.com/package/hyperterm-one-light) - Light - A very cute theme with extra light background based on the [Atom One Light](https://github.com/atom/one-light-syntax) pallete.
+* [hyperterm-duotone-darkspace](https://www.npmjs.com/package/hyperterm-duotone-darkspace) - Dark/Orange - A beautiful dark theme inspired by [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes) by [Simurai](http://simurai.com/). More color variations can be found [here](https://www.npmjs.com/search?q=hyperterm-duotone-*).
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
