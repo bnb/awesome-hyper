@@ -65,6 +65,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-spacegray](https://npmjs.com/package/hyperterm-spacegray) – Port of the popular Spacegray theme, optimized for terminal usage.
 * [hyperterm-electron-highlighter](https://github.com/mmcbride1007/hyperterm-electron-highlighter) - Dark - Port of Atom One Dark syntax colors with more vibrant colors.
 * [hyperterm-electron-highlighter](https://www.npmjs.com/package/hyperterm-electron-highlighter) - Dark - Port of Atom One Dark syntax colors with more vibrant colors.
+* [hyperterm-duotone-darkspace](https://www.npmjs.com/package/hyperterm-duotone-darkspace) - Dark/Orange - A beautiful dark theme inspired by [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes) by [Simurai](http://simurai.com/). More color variations can be found [here](https://www.npmjs.com/search?q=hyperterm-duotone-*).
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
