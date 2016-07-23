@@ -68,4 +68,5 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 # Resources
 * [Official Hyperterm Website](https://hyperterm.org/) - The official Hyperterm website.
 * [hpm](https://github.com/matheuss/hpm) - A plugin manager for HyperTerm
+* [hyperzsh](https://www.npmjs.com/package/hyperzsh) - Zsh for HyperTerm
 * Know of another Hyperterm resource? [Share the love!](https://github.com/bnb/awesome-hyperterm/issues/new)
