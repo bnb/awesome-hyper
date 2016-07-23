@@ -58,6 +58,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-title](https://www.npmjs.com/package/hyperterm-title) – Set the title of your tabs to what your shell suggests.
 * [hyperpunk](https://www.npmjs.com/package/hyperpunk) - Hyperterm extension to make your terminal look Cyberpunk / Sci-fi
 * [hyperterm-one-light](https://www.npmjs.com/package/hyperterm-one-light) - Light - A very cute theme with extra light background based on the [Atom One Light](https://github.com/atom/one-light-syntax) pallete.
+* [hyperterm-wp-theme](https://www.npmjs.com/package/hyperterm-wp-theme) - An adaptation of the popular JetBrains Darcula Theme with support for colored tabs
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
