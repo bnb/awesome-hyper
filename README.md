@@ -41,7 +41,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-close-on-left](https://www.npmjs.com/package/hyperterm-close-on-left) - Positions the close tab button on the left.
 * [hyperterm-sync-settings](https://www.npmjs.com/package/hyperterm-sync-settings) - Easy way to backup and restore HyperTerm settings to Github.
 * [hyperterm-mactabs](https://www.npmjs.com/package/hyperterm-mactabs) - Better tab styles, with macOS-inspired design and close buttons on the left, compatible with most themes.
-* [hyperterm-bold-tab](https://github.com/dawsonbotsford/hyperterm-bold-tab) - Bold's your active tab text. Makes keeping track of your current tab painless.
+* [hyperterm-bold-tab](https://npmjs.com/package/hyperterm-bold-tab) - Bold's your active tab text. Makes keeping track of your current tab painless.
 * Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Themes
