@@ -39,6 +39,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-open-devtools](https://www.npmjs.com/package/hyperterm-open-devtools) - Open DevTools for currently showing web page with a hotkey.
 * [hyperterm-close-on-left](https://www.npmjs.com/package/hyperterm-close-on-left) - Positions the close tab button on the left.
 * [hyperterm-sync-settings](https://www.npmjs.com/package/hyperterm-sync-settings) - Easy way to backup and restore HyperTerm settings to Github.
+* [hyperterm-mactabs](https://www.npmjs.com/package/hyperterm-mactabs) - Better tab styles, with macOS-inspired design and close buttons on the left, compatible with most themes.
 * Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Themes
