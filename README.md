@@ -41,7 +41,6 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-close-on-left](https://www.npmjs.com/package/hyperterm-close-on-left) - Positions the close tab button on the left.
 * [hyperterm-sync-settings](https://www.npmjs.com/package/hyperterm-sync-settings) - Easy way to backup and restore HyperTerm settings to Github.
 * [hyperterm-mactabs](https://www.npmjs.com/package/hyperterm-mactabs) - Better tab styles, with macOS-inspired design and close buttons on the left, compatible with most themes.
-* [hyperterm-bold-tab](https://npmjs.com/package/hyperterm-bold-tab) - Bold's your active tab text. Makes keeping track of your current tab painless.
 * Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Themes
@@ -66,6 +65,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-monokai](https://www.npmjs.com/package/hyperterm-monokai) - Dark - A port of the popular monokai theme. The colors are warm, relaxing and pleasing to the eyes.
 * [hyperterm-electron-highlighter](https://www.npmjs.com/package/hyperterm-electron-highlighter) - Dark - Port of Atom One Dark syntax colors with more vibrant colors.
 * [hyperterm-duotone-darkspace](https://www.npmjs.com/package/hyperterm-duotone-darkspace) - Dark/Orange - A beautiful dark theme inspired by [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes) by [Simurai](http://simurai.com/). More color variations can be found [here](https://www.npmjs.com/search?q=hyperterm-duotone-*).
+* [hyperterm-bold-tab](https://npmjs.com/package/hyperterm-bold-tab) - Bold's your active tab text. Makes keeping track of your current tab painless.
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
