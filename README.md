@@ -42,6 +42,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-sync-settings](https://www.npmjs.com/package/hyperterm-sync-settings) - Easy way to backup and restore HyperTerm settings to Github.
 * [hyperterm-mactabs](https://www.npmjs.com/package/hyperterm-mactabs) - Better tab styles, with macOS-inspired design and close buttons on the left, compatible with most themes.
 * [hyperterm-final-say](https://www.npmjs.com/package/hyperterm-final-say) - Allows user-set overrides of any plugin or theme settings applied on top of the defaults `./.hyperterm.js`.
+* [hyperterm-overlay](https://www.npmjs.com/package/hyperterm-overlay) - A complete and customizable solution for overlay window in your HyperTerm.
 * Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Themes
