@@ -44,6 +44,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-final-say](https://www.npmjs.com/package/hyperterm-final-say) - Allows user-set overrides of any plugin or theme settings applied on top of the defaults `./.hyperterm.js`.
 * [hyperterm-overlay](https://www.npmjs.com/package/hyperterm-overlay) - A complete and customizable solution for overlay window in your HyperTerm.
 * [hyperterm-install-devtools](https://www.npmjs.com/package/hyperterm-install-devtools) - Use Chrome DevTools extension on HyperTerm.
+* [hyperterm-tab-icons](https://www.npmjs.com/package/hyperterm-tab-icons) - Add icons to the header tabs for the current running process in HyperTerm.
 * Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Themes
