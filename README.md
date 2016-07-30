@@ -70,6 +70,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-electron-highlighter](https://www.npmjs.com/package/hyperterm-electron-highlighter) - Dark - Port of Atom One Dark syntax colors with more vibrant colors.
 * [hyperterm-duotone-darkspace](https://www.npmjs.com/package/hyperterm-duotone-darkspace) - Dark/Orange - A beautiful dark theme inspired by [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes) by [Simurai](http://simurai.com/). More color variations can be found [here](https://www.npmjs.com/search?q=hyperterm-duotone-*).
 * [hyperambient](https://www.npmjs.com/package/hyperambient) – Dark/Light - A theme that reacts to ambient light changes.
+* [config-hyperterm](https://www.npmjs.com/package/config-hyperterm) - Easily set/get `hyperterm` config.
 * [hyperterm-bold-tab](https://www.npmjs.com/package/hyperterm-bold-tab) - Bold's your active tab text. Makes keeping track of your current tab painless.
 * [hyperterm-base16-tomorrow-dark](https://www.npmjs.com/package/hyperterm-base16-tomorrow-dark) – Dark - Hyperterm port of Atom's `Base16 Tomorrow Dark` Theme.
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
