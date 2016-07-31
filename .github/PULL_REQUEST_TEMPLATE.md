@@ -7,4 +7,5 @@
 - [ ] The title for my package or theme uses its npm title (hyperterm-plugin-example)
 - [ ] The link for my package or theme uses the npmjs.com link (https://npmjs.com/package/hyperterm-plugin-example)
 - [ ] There is a visual representation of what my plugin does in the repo. (Plugin: screenshot or gif || Theme: screenshot of the colors within HyperTerm)
+- [ ] Put your awesome item at the **BOTTOM** of the correct (plugin, theme, or resource) list.
 - [ ] **VERY IMPORTANT:** I've written a short (one sentence) description for my package or theme of why it's awesome and deserves to be on the list.
