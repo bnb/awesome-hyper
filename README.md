@@ -46,6 +46,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-install-devtools](https://www.npmjs.com/package/hyperterm-install-devtools) - Use Chrome DevTools extension on HyperTerm.
 * [hyperterm-tab-icons](https://www.npmjs.com/package/hyperterm-tab-icons) - Add icons to the header tabs for the current running process in HyperTerm.
 * [config-hyperterm](https://www.npmjs.com/package/config-hyperterm) - Easily set/get `hyperterm` config.
+* [is-hyperterm](https://www.npmjs.com/package/is-hyperterm) - Check if your Node.js script is running in HyperTerm.
 * Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Themes
