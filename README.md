@@ -76,6 +76,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-base16-tomorrow-dark](https://www.npmjs.com/package/hyperterm-base16-tomorrow-dark) – Dark - Hyperterm port of Atom's `Base16 Tomorrow Dark` Theme.
 * [hyperterm-firewatch](https://www.npmjs.com/package/hyperterm-firewatch) – Dark – Inspired by the [Firewatch game](http://www.firewatchgame.com/) & [atom syntax theme](https://atom.io/themes/firewatch-syntax).
 * [hyperterm-dark-macos](https://www.npmjs.com/package/hyperterm-dark-macos) - A theme that pairs nicely with macOS dark mode.
+* [hyperterm-dark-dracule](https://www.npmjs.com/package/hyperterm-dark-dracula) - A dark dracula theme for Hyperterm on based [Dracula theme](https://github.com/dracula/dracula-theme).
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
