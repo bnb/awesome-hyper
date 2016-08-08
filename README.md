@@ -81,7 +81,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperambient](https://www.npmjs.com/package/hyperambient) – Dark/Light - A theme that reacts to ambient light changes.
 * [hyperterm-bold-tab](https://www.npmjs.com/package/hyperterm-bold-tab) - Bold's your active tab text. Makes keeping track of your current tab painless.
 * [hyperterm-base16-tomorrow-dark](https://www.npmjs.com/package/hyperterm-base16-tomorrow-dark) – Dark - Hyperterm port of Atom's `Base16 Tomorrow Dark` Theme, with a pretty muted pastel pallette.
-* [hyperterm-firewatch](https://www.npmjs.com/package/hyperterm-firewatch) – Dark – Inspired by the [Firewatch game](http://www.firewatchgame.com/) & [atom syntax theme](https://atom.io/themes/firewatch-syntax).
+* [hyperterm-firewatch](https://www.npmjs.com/package/hyperterm-firewatch) – Dark – Glowing, dark theme heavily inspired by the [Firewatch game](http://www.firewatchgame.com/) and the [atom syntax theme](https://atom.io/themes/firewatch-syntax) based on it.
 * [hyperterm-dark-macos](https://www.npmjs.com/package/hyperterm-dark-macos) - A theme that pairs nicely with macOS dark mode.
 * [hyperterm-material](https://www.npmjs.com/package/hyperterm-material) - Dark - Brings the famous Material Design colors scheme in hyperterm.
 * [hyperterm-sourcerer](https://www.npmjs.com/package/hyperterm-sourcerer) - A 16-bit dark theme based on [xero/sourcerer](https://github.com/xero/sourcerer).
