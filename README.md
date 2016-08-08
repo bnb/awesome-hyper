@@ -27,12 +27,12 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 - [Resources](#resources)
 
 # Packages
-* [hpm-cli](https://www.npmjs.com/package/hpm-cli) - A plugin manager for HyperTerm
+* [hpm-cli](https://www.npmjs.com/package/hpm-cli) - A plugin manager for HyperTerm.
 * [hypertheme](https://www.npmjs.com/package/hypertheme) - A theme manager for Hyperterm, published right off the bat. You should import your favorite text-editor or terminal theme and [add it to awesome-hyperterm](https://github.com/bnb/awesome-hyperterm/issues/new)!
 * [hyperpower](https://www.npmjs.com/package/hyperpower) - Add a pinch of kick-arse raw POWER to your Hyperterm! Adds the pixel-explosion and shake effect that's been implemented in several text editors.
 * [hyperline](https://www.npmjs.com/package/hyperline) - A status line at the bottom of your Hyperterm!
 * [hyperterm-blink](https://www.npmjs.com/package/hyperterm-blink) - Make your cursor blink.
-* [hyperborder](https://github.com/webmatze/hyperborder) - Add a gradient border with the same colors as in the Hyperterm logo
+* [hyperborder](https://github.com/webmatze/hyperborder) - Add a gradient border with the same colors as in the Hyperterm logo.
 * [hyperterm-transparent-bg](https://www.npmjs.com/package/hyperterm-transparent-bg) - add a transparent background to your Hyperterm through an interesting HTML hack.
 * [hypercwd](https://www.npmjs.com/package/hypercwd) - Open new tabs with the same directory as your current tab.
 * [hyperterm-1password](https://www.npmjs.com/package/hyperterm-1password) - Integration with 1Password (password manager).
@@ -51,7 +51,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-tab-icons](https://www.npmjs.com/package/hyperterm-tab-icons) - Add icons to the header tabs for the current running process in HyperTerm.
 * [config-hyperterm](https://www.npmjs.com/package/config-hyperterm) - Easily set/get `hyperterm` config.
 * [is-hyperterm](https://www.npmjs.com/package/is-hyperterm) - Check if your Node.js script is running in HyperTerm.
-* [hyperterm-paste](https://www.npmjs.com/package/hyperterm-paste) - Pasting into terminal made safe and easy
+* [hyperterm-paste](https://www.npmjs.com/package/hyperterm-paste) - Pasting into terminal made safe and easy.
 * [hyperterm-alternatescroll](https://www.npmjs.com/package/hyperterm-alternatescroll) - Mousewheel/trackpad scrolling for alternate screen. (less, git log, nano, etc...)
 * [hyperterm-lastpass](https://www.npmjs.com/package/hyperterm-lastpass) - Lastpass plugin for autofilling passwords in HyperTerm.
 * Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
@@ -72,9 +72,9 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperhue](https://www.npmjs.com/package/hyperhue) – Dark/Rainbow - A theme that reacts to the colors of your Philips Hue lights.
 * [hyperterm-hybrid](https://www.npmjs.com/package/hyperterm-hybrid) – Dark - Beautiful theme, based on [vim-hybrid](https://github.com/w0ng/vim-hybrid), that combines [Tomorrow-Night](https://github.com/chriskempson/vim-tomorrow-theme), [Codecademy](https://www.codecademy.com/), [Jellybeans](https://github.com/nanotech/jellybeans.vim), and [Solarized](https://github.com/altercation/vim-colors-solarized) themes together.
 * [hyperterm-title](https://www.npmjs.com/package/hyperterm-title) – Set the title of your tabs to what your shell suggests.
-* [hyperpunk](https://www.npmjs.com/package/hyperpunk) - Hyperterm extension to make your terminal look Cyberpunk / Sci-fi
+* [hyperpunk](https://www.npmjs.com/package/hyperpunk) - Hyperterm extension to make your terminal look Cyberpunk / Sci-fi.
 * [hyperterm-one-light](https://www.npmjs.com/package/hyperterm-one-light) - Light - A very cute theme with extra light background based on the [Atom One Light](https://github.com/atom/one-light-syntax) pallete.
-* [hyperterm-wp-theme](https://www.npmjs.com/package/hyperterm-wp-theme) - An adaptation of the popular JetBrains Darcula Theme with support for colored tabs
+* [hyperterm-wp-theme](https://www.npmjs.com/package/hyperterm-wp-theme) - An adaptation of the popular JetBrains Darcula Theme with support for colored tabs.
 * [hyperterm-monokai](https://www.npmjs.com/package/hyperterm-monokai) - Dark - A port of the popular monokai theme. The colors are warm, relaxing and pleasing to the eyes.
 * [hyperterm-electron-highlighter](https://www.npmjs.com/package/hyperterm-electron-highlighter) - Dark - Port of Atom One Dark syntax colors with more vibrant colors.
 * [hyperterm-duotone-darkspace](https://www.npmjs.com/package/hyperterm-duotone-darkspace) - Dark/Orange - A beautiful dark theme inspired by [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes) by [Simurai](http://simurai.com/). More color variations can be found [here](https://www.npmjs.com/search?q=hyperterm-duotone-*).
@@ -84,7 +84,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-firewatch](https://www.npmjs.com/package/hyperterm-firewatch) – Dark – Inspired by the [Firewatch game](http://www.firewatchgame.com/) & [atom syntax theme](https://atom.io/themes/firewatch-syntax).
 * [hyperterm-dark-macos](https://www.npmjs.com/package/hyperterm-dark-macos) - A theme that pairs nicely with macOS dark mode.
 * [hyperterm-material](https://www.npmjs.com/package/hyperterm-material) - Dark - Brings the famous Material Design colors scheme in hyperterm.
-* [hyperterm-sourcerer](https://www.npmjs.com/package/hyperterm-sourcerer) - A 16-bit dark theme based on [xero/sourcerer](https://github.com/xero/sourcerer)
+* [hyperterm-sourcerer](https://www.npmjs.com/package/hyperterm-sourcerer) - A 16-bit dark theme based on [xero/sourcerer](https://github.com/xero/sourcerer).
 * [hyperterm-dark-dracule](https://www.npmjs.com/package/hyperterm-dark-dracula) - A dark dracula theme for Hyperterm on based [Dracula theme](https://github.com/dracula/dracula-theme).
 * [hyperterm-panda](https://www.npmjs.com/package/hyperterm-panda) — Panda syntax theme a superminimal, dark Syntax Theme — HyperTerm port.
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
