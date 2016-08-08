@@ -49,6 +49,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [config-hyperterm](https://www.npmjs.com/package/config-hyperterm) - Easily set/get `hyperterm` config.
 * [is-hyperterm](https://www.npmjs.com/package/is-hyperterm) - Check if your Node.js script is running in HyperTerm.
 * [hyperterm-paste](https://www.npmjs.com/package/hyperterm-paste) - Pasting into terminal made safe and easy
+* [hyperterm-lastpass](https://www.npmjs.com/package/hyperterm-lastpass) - Lastpass plugin for autofilling passwords in HyperTerm.
 * Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Themes
