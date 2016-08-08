@@ -45,6 +45,14 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-overlay](https://www.npmjs.com/package/hyperterm-overlay) - A complete and customizable solution for overlay window in your HyperTerm.
 * [hyperterm-install-devtools](https://www.npmjs.com/package/hyperterm-install-devtools) - Use Chrome DevTools extension on HyperTerm.
 * [hyperterm-tab-icons](https://www.npmjs.com/package/hyperterm-tab-icons) - Add icons to the header tabs for the current running process in HyperTerm.
+* [hyperterm-summon](https://www.npmjs.com/package/hyperterm-summon) - Summon your Hyperterm windows with a system-wide hotkey.
+* [hyperterm-overlay](https://www.npmjs.com/package/hyperterm-overlay) - A complete and customizable solution for overlay window in your HyperTerm.
+* [hyperterm-install-devtools](https://www.npmjs.com/package/hyperterm-install-devtools) - Use Chrome DevTools extension on HyperTerm.
+* [hyperterm-tab-icons](https://www.npmjs.com/package/hyperterm-tab-icons) - Add icons to the header tabs for the current running process in HyperTerm.
+* [config-hyperterm](https://www.npmjs.com/package/config-hyperterm) - Easily set/get `hyperterm` config.
+* [is-hyperterm](https://www.npmjs.com/package/is-hyperterm) - Check if your Node.js script is running in HyperTerm.
+* [hyperterm-paste](https://www.npmjs.com/package/hyperterm-paste) - Pasting into terminal made safe and easy
+* [hyperterm-alternatescroll](https://www.npmjs.com/package/hyperterm-alternatescroll) - Mousewheel/trackpad scrolling for alternate screen. (less, git log, nano, etc...)
 * Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Themes
@@ -71,6 +79,12 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-duotone-darkspace](https://www.npmjs.com/package/hyperterm-duotone-darkspace) - Dark/Orange - A beautiful dark theme inspired by [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes) by [Simurai](http://simurai.com/). More color variations can be found [here](https://www.npmjs.com/search?q=hyperterm-duotone-*).
 * [hyperambient](https://www.npmjs.com/package/hyperambient) – Dark/Light - A theme that reacts to ambient light changes.
 * [hyperterm-bold-tab](https://www.npmjs.com/package/hyperterm-bold-tab) - Bold's your active tab text. Makes keeping track of your current tab painless.
+* [hyperterm-base16-tomorrow-dark](https://www.npmjs.com/package/hyperterm-base16-tomorrow-dark) – Dark - Hyperterm port of Atom's `Base16 Tomorrow Dark` Theme.
+* [hyperterm-firewatch](https://www.npmjs.com/package/hyperterm-firewatch) – Dark – Inspired by the [Firewatch game](http://www.firewatchgame.com/) & [atom syntax theme](https://atom.io/themes/firewatch-syntax).
+* [hyperterm-dark-macos](https://www.npmjs.com/package/hyperterm-dark-macos) - A theme that pairs nicely with macOS dark mode.
+* [hyperterm-material](https://www.npmjs.com/package/hyperterm-material) - Dark - Brings the famous Material Design colors scheme in hyperterm.
+* [hyperterm-sourcerer](https://www.npmjs.com/package/hyperterm-sourcerer) - A 16-bit dark theme based on [xero/sourcerer](https://github.com/xero/sourcerer)
+* [hyperterm-dark-dracule](https://www.npmjs.com/package/hyperterm-dark-dracula) - A dark dracula theme for Hyperterm on based [Dracula theme](https://github.com/dracula/dracula-theme).
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
