@@ -81,7 +81,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-material](https://www.npmjs.com/package/hyperterm-material) - Dark - Brings the famous Material Design colors scheme in hyperterm.
 * [hyperterm-sourcerer](https://www.npmjs.com/package/hyperterm-sourcerer) - A 16-bit dark theme based on [xero/sourcerer](https://github.com/xero/sourcerer)
 * [hyperterm-dark-dracule](https://www.npmjs.com/package/hyperterm-dark-dracula) - A dark dracula theme for Hyperterm on based [Dracula theme](https://github.com/dracula/dracula-theme).
-* [hyperterm-unlease](https://www.npmjs.com/package/hyperterm-unlease) - A fresh theme for Hyperterm.
+* [hyperterm-unlease](https://www.npmjs.com/package/hyperterm-unlease) - A fresh theme for Hyperterm that makes you feel like there's one of those pine tree car air fresheners hanging from your terminal.
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
