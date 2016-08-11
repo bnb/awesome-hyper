@@ -57,6 +57,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 # Themes
 * [hyperterm-atom-dark](https://www.npmjs.com/package/hyperterm-atom-dark) - Dark - Really beautiful import of Atom One Dark theme from the [official Atom theme](https://github.com/atom/one-dark-syntax).
 * [hyperblue](https://www.npmjs.com/package/hyperblue) – Dark, cool hues. Turns HyperTerm blue.
+* [hyperterm-cobatl2-theme](https://github.com/wesbos/hyperterm-cobalt2-theme) - Dusty Blue, dark with vibrant pops of colour for the important stuff. Goes well with Cobalt2 ZSH theme.
 * [hyperterm-deep-space](https://www.npmjs.com/package/hyperterm-deep-space) - Dark - Dark, muted theme with good color matching.
 * [hyperterm-solarized-dark](https://www.npmjs.com/package/hyperterm-solarized-dark) - Dark - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) pallete.
 * [hyperterm-colors](https://www.npmjs.com/package/hyperterm-colors) - Dark - Sweet dark color scheme with a chocolate-y brown background and a pretty set of muted colors!
