@@ -52,6 +52,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-paste](https://www.npmjs.com/package/hyperterm-paste) - Pasting into terminal made safe and easy.
 * [hyperterm-alternatescroll](https://www.npmjs.com/package/hyperterm-alternatescroll) - Mousewheel/trackpad scrolling for alternate screen. (less, git log, nano, etc...)
 * [hyperterm-lastpass](https://www.npmjs.com/package/hyperterm-lastpass) - Lastpass plugin for autofilling passwords in HyperTerm.
+* [hyperterm-dibdabs](https://github.com/supercrabtree/hyperterm-dibdabs) - Unique colored dot on the left of the tab is added for quick identification of commonly used tabs based on its title.
 * Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Themes
