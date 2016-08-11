@@ -47,8 +47,6 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-tab-icons](https://www.npmjs.com/package/hyperterm-tab-icons) - Add icons to the header tabs for the current running process in HyperTerm.
 * [hyperterm-summon](https://www.npmjs.com/package/hyperterm-summon) - Summon your Hyperterm windows with a system-wide hotkey.
 * [hyperterm-overlay](https://www.npmjs.com/package/hyperterm-overlay) - A complete and customizable solution for overlay window in your HyperTerm.
-* [hyperterm-install-devtools](https://www.npmjs.com/package/hyperterm-install-devtools) - Use Chrome DevTools extension on HyperTerm.
-* [hyperterm-tab-icons](https://www.npmjs.com/package/hyperterm-tab-icons) - Add icons to the header tabs for the current running process in HyperTerm.
 * [config-hyperterm](https://www.npmjs.com/package/config-hyperterm) - Easily set/get `hyperterm` config.
 * [is-hyperterm](https://www.npmjs.com/package/is-hyperterm) - Check if your Node.js script is running in HyperTerm.
 * [hyperterm-paste](https://www.npmjs.com/package/hyperterm-paste) - Pasting into terminal made safe and easy.
