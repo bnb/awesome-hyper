@@ -90,6 +90,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-unlease](https://www.npmjs.com/package/hyperterm-unlease) - A fresh theme for Hyperterm that makes you feel like there's one of those pine tree car air fresheners hanging from your terminal.
 * [hyperterm-materialshell](https://www.npmjs.com/package/hyperterm-materialshell) - A dark material design theme with a good contrast and color pops at the important parts. Designed to be easy on the eyes, based on [materialshell](https://github.com/carloscuesta/materialshell).
 * [hyperterm-zenburn2](https://www.npmjs.com/package/hyperterm-zenburn2) - A classic low-contrast theme originally made for vim adapted for Hyperterm
+* [hypersolar-dark](https://www.npmjs.com/package/hypersolar-dark) - A dark theme based loosely on Solarized Dark.
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
