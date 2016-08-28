@@ -54,6 +54,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-dibdabs](https://www.npmjs.com/package/hyperterm-dibdabs) - Unique colored dot on the left of the tab is added for quick identification of commonly used tabs based on its title.
 * [hyperterm-tabs](https://www.npmjs.com/package/hyperterm-tabs) - Rearrange tabs by drag&dropping them
 * [hyperterm-focus-reporting](https://www.npmjs.com/package/hyperterm-focus-reporting) - Adds focus reporting to hyperterm - similar to iterm2.
+* [hyperlinks](https://www.npmjs.com/package/hyperlinks) - Extension for HyperTerm that automatically links URLs.
 * Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 
