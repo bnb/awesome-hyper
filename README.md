@@ -57,6 +57,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperlinks](https://www.npmjs.com/package/hyperlinks) - Extension for HyperTerm that automatically links URLs.
 * [hyperfull](https://www.npmjs.com/package/hyperfull) - Will start HyperTerm in full screen.
 * [hyperterm-crosshair](https://www.npmjs.com/package/hyperterm-crosshair) - Shows the cursor position with an horizontal and vertical highlight/ruler.
+* [hyperterm-cursor](https://www.npmjs.com/package/hyperterm-cursor) - Allows seeing the char behind your cursor by a color difference.
 * Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Themes
