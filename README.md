@@ -99,7 +99,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-earthsong](https://www.npmjs.com/package/hyperterm-earthsong) - A natural and calming theme for HyperTerm. Ported from iTerm's Earthsong theme
 * [hyperterm-retro](https://www.npmjs.com/package/hyperterm-retro) - A retro HyperTerm theme inspired by the [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) terminal emulator.
 * [hyperterm-base16-ocean-saturated](https://www.npmjs.com/package/hyperterm-base16-ocean-saturated) - Dark - Elegant theme with saturated colors.
-* [hyperterm-adventurious](https://github.com/cgsawtell/hyperterm-adventurous) - An adventure time inspired theme based on the Adventurious Atom theme.
+* [hyperterm-adventurious](https://www.npmjs.com/package/hyperterm-adventurous) - An adventure time inspired theme based on the Adventurious Atom theme.
 * Know of another really awesome theme? [Get it on awesome-hyperterm!](https://github.com/bnb/awesome-hyperterm/issues/new)
 
 # Resources
