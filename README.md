@@ -47,7 +47,7 @@ Like `awesome-hyper`? Reach out to me and say *hi* on [Twitter](https://twitter.
 * [hyperterm-tab-icons](https://www.npmjs.com/package/hyperterm-tab-icons) - Add icons to the header tabs for the current running process in Hyper.
 * [hyperterm-summon](https://www.npmjs.com/package/hyperterm-summon) - Summon your Hyper windows with a system-wide hotkey.
 * [config-hyperterm](https://www.npmjs.com/package/config-hyperterm) - Easily set/get `Hyper` config.
-* [is-hyperterm](https://www.npmjs.com/package/is-hyperterm) - Check if your Node.js script is running in Hyper.
+* [is-hyper](https://www.npmjs.com/package/is-hyper) - Check if your Node.js script is running in Hyper.
 * [hyperterm-paste](https://www.npmjs.com/package/hyperterm-paste) - Pasting into terminal made safe and easy.
 * [hyperterm-alternatescroll](https://www.npmjs.com/package/hyperterm-alternatescroll) - Mousewheel/trackpad scrolling for alternate screen. (less, git log, nano, etc...)
 * [hyperterm-lastpass](https://www.npmjs.com/package/hyperterm-lastpass) - Lastpass plugin for autofilling passwords in Hyper.
