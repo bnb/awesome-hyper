@@ -27,7 +27,7 @@ Like `awesome-hyper`? Reach out to me and say *hi* on [Twitter](https://twitter.
 - [Resources](#resources)
 
 # Packages
-* [hpm-cli](https://www.npmjs.com/package/hpm-cli) - A plugin manager for HyperHyper.
+* [hpm-cli](https://www.npmjs.com/package/hpm-cli) - A plugin manager for Hyper.
 * [hypertheme](https://www.npmjs.com/package/hypertheme) - A theme manager for Hyper, published right off the bat. You should import your favorite text-editor or terminal theme and [add it to awesome-hyper](https://github.com/bnb/awesome-hyper/issues/new)!
 * [hyperpower](https://www.npmjs.com/package/hyperpower) - Add a pinch of kick-arse raw POWER to your Hyper! Adds the pixel-explosion and shake effect that's been implemented in several text editors.
 * [hyperline](https://www.npmjs.com/package/hyperline) - A status line at the bottom of your Hyper!
