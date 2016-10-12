@@ -104,6 +104,7 @@ Like `awesome-hyper`? Reach out to me and say *hi* on [Twitter](https://twitter.
 * [hyperterm-adventurious](https://www.npmjs.com/package/hyperterm-adventurous) - An adventure time inspired theme based on the Adventurious Atom theme.
 * [hyperterm-hipster](https://www.npmjs.com/package/hyperterm-hipster) - A hipster theme based on the hipster-syntax theme for Atom.
 * [hyper-flat](https://www.npmjs.com/package/hyper-flat) - A Flat theme for Hyper.
+* [hyperterm-vmc-dark](https://www.npmjs.com/package/hyperterm-vmc-dark) - A Dark theme - Based on the color palette of monokai with a great interface.
 * Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Resources
