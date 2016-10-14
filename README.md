@@ -95,7 +95,7 @@ Like `awesome-hyper`? Reach out to me and say *hi* on [Twitter](https://twitter.
 * [hyperterm-panda](https://www.npmjs.com/package/hyperterm-panda) — Panda syntax theme a superminimal, dark Syntax Theme — Hyper port.
 * [hyperterm-cobalt2-theme](https://www.npmjs.com/package/hyperterm-cobalt2-theme) - Dusty Blue, dark with vibrant pops of colour for the important stuff. Goes well with Cobalt2 ZSH theme.
 * [hyperterm-unlease](https://www.npmjs.com/package/hyperterm-unlease) - A fresh theme for Hyper that makes you feel like there's one of those pine tree car air fresheners hanging from your terminal.
-* [hyperterm-materialshell](https://www.npmjs.com/package/hyperterm-materialshell) - A dark material design theme with a good contrast and color pops at the important parts. Designed to be easy on the eyes, based on [materialshell](https://github.com/carloscuesta/materialshell).
+* [hyper-materialshell](https://www.npmjs.com/package/hyper-materialshell) - A dark material design theme with a good contrast and color pops at the important parts. Designed to be easy on the eyes, based on [materialshell](https://github.com/carloscuesta/materialshell).
 * [hyperterm-zenburn2](https://www.npmjs.com/package/hyperterm-zenburn2) - A classic low-contrast theme originally made for vim adapted for Hyper
 * [hypersolar-dark](https://www.npmjs.com/package/hypersolar-dark) - A dark theme based loosely on Solarized Dark, with a fix for the usual solarized dark colours with blacks that actually show up in your terminal!
 * [hyperterm-earthsong](https://www.npmjs.com/package/hyperterm-earthsong) - A natural and calming theme for Hyper. Ported from iTerm's Earthsong theme
