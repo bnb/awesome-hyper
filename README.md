@@ -91,7 +91,7 @@ Like `awesome-hyper`? Reach out to me and say *hi* on [Twitter](https://twitter.
 * [hyperterm-dark-macos](https://www.npmjs.com/package/hyperterm-dark-macos) - A theme that pairs nicely with macOS dark mode.
 * [hyperterm-material](https://www.npmjs.com/package/hyperterm-material) - Dark - Brings the famous Material Design colors scheme in Hyper.
 * [hyperterm-sourcerer](https://www.npmjs.com/package/hyperterm-sourcerer) - A 16-bit dark theme based on [xero/sourcerer](https://github.com/xero/sourcerer).
-* [hyper-dark-dracule](https://www.npmjs.com/package/hyper-dark-dracula) - A dark dracula theme for Hyper on based [Dracula theme](https://github.com/dracula/dracula-theme).
+* [hyper-dark-dracula](https://www.npmjs.com/package/hyper-dark-dracula) - A dark dracula theme for Hyper on based [Dracula theme](https://github.com/dracula/dracula-theme).
 * [hyperterm-panda](https://www.npmjs.com/package/hyperterm-panda) — Panda syntax theme a superminimal, dark Syntax Theme — Hyper port.
 * [hyperterm-cobalt2-theme](https://www.npmjs.com/package/hyperterm-cobalt2-theme) - Dusty Blue, dark with vibrant pops of colour for the important stuff. Goes well with Cobalt2 ZSH theme.
 * [hyperterm-unlease](https://www.npmjs.com/package/hyperterm-unlease) - A fresh theme for Hyper that makes you feel like there's one of those pine tree car air fresheners hanging from your terminal.
