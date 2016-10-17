@@ -60,10 +60,9 @@ Like `awesome-hyper`? Reach out to me and say *hi* on [Twitter](https://twitter.
 * [hyperterm-cursor](https://www.npmjs.com/package/hyperterm-cursor) - Allows seeing the char behind your cursor by a color difference.
 * [htyt](https://www.npmjs.com/package/htyt) - Search and play youtube videos in Hyper.
 * [hyperterm-tab-cwd](https://www.npmjs.com/package/hyperterm-tab-cwd) - Add the current working directory to the header tabs in Hyper
-* Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
 * [htyt](https://www.npmjs.com/package/htyt) - Search and play youtube videos in Hyperterm.
 * [hypersixteen](https://www.npmjs.com/package/hypersixteen) - A base16 loader for HyperTerm.
-* Know of another Hyperterm package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
+* Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Themes
 * [hyperterm-atom-dark](https://www.npmjs.com/package/hyperterm-atom-dark) - Dark - Really beautiful import of Atom One Dark theme from the [official Atom theme](https://github.com/atom/one-dark-syntax).
