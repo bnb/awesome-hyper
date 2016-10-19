@@ -107,6 +107,7 @@ Like `awesome-hyper`? Reach out to me and say *hi* on [Twitter](https://twitter.
 * [hyperterm-hipster](https://www.npmjs.com/package/hyperterm-hipster) - A hipster theme based on the hipster-syntax theme for Atom.
 * [hyper-flat](https://www.npmjs.com/package/hyper-flat) - A Flat theme for Hyper.
 * [hyper-atom-dark-transparent](https://www.npmjs.com/package/hyper-atom-dark-transparent) - Hyper theme based on the hyperterm-atom-dark, but with transparency.
+* [hyperterm-material-spacegray](https://www.npmjs.com/package/hyperterm-material-spacegray) - A port of the low-contrast Material Spacegray theme.
 * Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Resources
