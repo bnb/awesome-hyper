@@ -61,6 +61,7 @@ Like `awesome-hyper`? Reach out to me and say *hi* on [Twitter](https://twitter.
 * [htyt](https://www.npmjs.com/package/htyt) - Search and play youtube videos in Hyper.
 * [hyperterm-tab-cwd](https://www.npmjs.com/package/hyperterm-tab-cwd) - Add the current working directory to the header tabs in Hyper
 * [hypersixteen](https://www.npmjs.com/package/hypersixteen) - A base16 loader for HyperTerm.
+* [hyper-stylesheet](https://www.npmjs.com/package/hyper-stylesheet) - Adds support for an external hyper stylesheet
 * Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Themes
