@@ -12,7 +12,7 @@
 
 Want to add your awesome Hyper package, theme, or resource? [Create an issue](https://github.com/bnb/awesome-hyper/issues/new) or send a PR!
 
-Like `awesome-hyper`? Reach out to me and say *hi* on [Twitter](https://twitter.com/bitandbang)! 👋
+Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang) or [@matheusfrndes](https://twitter.com/matheusfrndes) and say *hi*! 👋
 
 <!-- AWESOME ITEM TEMPLATE --
 
