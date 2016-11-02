@@ -115,4 +115,5 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 # Resources
 * [Official Hyper Website](https://hyper.is/) - The official Hyper website.
 * [hyperzsh](https://www.npmjs.com/package/hyperzsh) - Zsh for Hyper
+* [HyperThemes](https://hyperthemes.matthi.coffee) - Browse all themes for Hyper, with screenshots
 * Know of another Hyper resource? [Share the love!](https://github.com/bnb/awesome-hyper/issues/new)
