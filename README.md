@@ -103,7 +103,7 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyperterm-earthsong](https://www.npmjs.com/package/hyperterm-earthsong) - A natural and calming theme for Hyper. Ported from iTerm's Earthsong theme
 * [hyperterm-retro](https://www.npmjs.com/package/hyperterm-retro) - A retro Hyper theme inspired by the [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) terminal emulator.
 * [hyperterm-base16-ocean-saturated](https://www.npmjs.com/package/hyperterm-base16-ocean-saturated) - Dark - Elegant theme with saturated colors.
-* [hyperterm-adventurious](https://www.npmjs.com/package/hyperterm-adventurous) - An adventure time inspired theme based on the Adventurious Atom theme.
+* [hyperterm-adventurous](https://www.npmjs.com/package/hyperterm-adventurous) - An adventure time inspired theme based on the Adventurous Atom theme.
 * [hyperterm-hipster](https://www.npmjs.com/package/hyperterm-hipster) - A hipster theme based on the hipster-syntax theme for Atom.
 * [hyper-flat](https://www.npmjs.com/package/hyper-flat) - A Flat theme for Hyper.
 * [hyper-atom-dark-transparent](https://www.npmjs.com/package/hyper-atom-dark-transparent) - Hyper theme based on the hyperterm-atom-dark, but with transparency.
