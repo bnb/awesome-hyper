@@ -62,6 +62,8 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyperterm-tab-cwd](https://www.npmjs.com/package/hyperterm-tab-cwd) - Add the current working directory to the header tabs in Hyper
 * [hypersixteen](https://www.npmjs.com/package/hypersixteen) - A base16 loader for HyperTerm.
 * [hyper-stylesheet](https://www.npmjs.com/package/hyper-stylesheet) - Adds support for an external hyper stylesheet
+* [hyper-john](https://www.npmjs.com/package/hyper-john) - Brings John Cena to Hyper
+
 * Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Themes
