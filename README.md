@@ -31,7 +31,7 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hypertheme](https://www.npmjs.com/package/hypertheme) - A theme manager for Hyper, published right off the bat. You should import your favorite text-editor or terminal theme and [add it to awesome-hyper](https://github.com/bnb/awesome-hyper/issues/new)!
 * [hyperpower](https://www.npmjs.com/package/hyperpower) - Add a pinch of kick-arse raw POWER to your Hyper! Adds the pixel-explosion and shake effect that's been implemented in several text editors.
 * [hyperline](https://www.npmjs.com/package/hyperline) - A status line at the bottom of your Hyper!
-* [hyperterm-blink](https://www.npmjs.com/package/hyperterm-blink) - Make your cursor blink.
+* [hyper-blink](https://www.npmjs.com/package/hyper-blink) - Make your cursor blink.
 * [hyperborder](https://github.com/webmatze/hyperborder) - Add a gradient border with the same colors as in the Hyper logo.
 * [hyperterm-transparent-bg](https://www.npmjs.com/package/hyperterm-transparent-bg) - add a transparent background to your Hyper through an interesting HTML hack.
 * [hypercwd](https://www.npmjs.com/package/hypercwd) - Open new tabs with the same directory as your current tab.
