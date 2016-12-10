@@ -112,7 +112,7 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyperterm-material-spacegray](https://www.npmjs.com/package/hyperterm-material-spacegray) - A port of the low-contrast Material Spacegray theme.
 * [hyper-criollo](https://www.npmjs.com/package/hyper-criollo) - Theme based in vaporwave colors.
 * [hyperganymede](https://www.npmjs.com/package/hyperganymede) - A color scheme inspired by the icy coldness of the moons of Jupiter
-* [hyperterm-ayu](https://www.npmjs.com/package/hyperterm-ayu) - Hyperterm theme based on the Ayu Theme for Sublime Text
+* [hyper-ayu](https://www.npmjs.com/package/hyper-ayu) - Theme based on the Ayu Theme for Sublime Text
 * Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Resources
