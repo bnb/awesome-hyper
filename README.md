@@ -108,10 +108,12 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyperterm-adventurous](https://www.npmjs.com/package/hyperterm-adventurous) - An adventure time inspired theme based on the Adventurous Atom theme.
 * [hyperterm-hipster](https://www.npmjs.com/package/hyperterm-hipster) - A hipster theme based on the hipster-syntax theme for Atom.
 * [hyper-flat](https://www.npmjs.com/package/hyper-flat) - A Flat theme for Hyper.
+* [hyper-flat-2](https://www.npmjs.com/package/hyper-flat-2) - Another Flat theme for Hyper based on Flat theme for Terminal.
 * [hyper-atom-dark-transparent](https://www.npmjs.com/package/hyper-atom-dark-transparent) - Hyper theme based on the hyperterm-atom-dark, but with transparency.
 * [hyperterm-material-spacegray](https://www.npmjs.com/package/hyperterm-material-spacegray) - A port of the low-contrast Material Spacegray theme.
 * [hyper-criollo](https://www.npmjs.com/package/hyper-criollo) - Theme based in vaporwave colors.
 * [hyperganymede](https://www.npmjs.com/package/hyperganymede) - A color scheme inspired by the icy coldness of the moons of Jupiter
+* [an-old-hype](https://www.npmjs.com/package/an-old-hype) - A Hyper theme inspired by a galaxy far far away... and by Jesse Leites [atom syntax theme](https://atom.io/themes/an-old-hope-syntax)
 * [hyper-aww](https://www.npmjs.com/package/hyper-aww) - A theme that changes the terminal background to a different cute animal gif each time you open Hyper.
 * Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
