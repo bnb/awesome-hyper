@@ -114,6 +114,7 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyper-criollo](https://www.npmjs.com/package/hyper-criollo) - Theme based in vaporwave colors.
 * [hyperganymede](https://www.npmjs.com/package/hyperganymede) - A color scheme inspired by the icy coldness of the moons of Jupiter
 * [an-old-hype](https://www.npmjs.com/package/an-old-hype) - A Hyper theme inspired by a galaxy far far away... and by Jesse Leites [atom syntax theme](https://atom.io/themes/an-old-hope-syntax)
+* [hyper-aww](https://www.npmjs.com/package/hyper-aww) - A theme that changes the terminal background to a different cute animal gif each time you open Hyper.
 * Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Resources
