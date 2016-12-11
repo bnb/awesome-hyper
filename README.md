@@ -12,7 +12,7 @@
 
 Want to add your awesome Hyper package, theme, or resource? [Create an issue](https://github.com/bnb/awesome-hyper/issues/new) or send a PR!
 
-Like `awesome-hyper`? Reach out to me and say *hi* on [Twitter](https://twitter.com/bitandbang)! 👋
+Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang) or [@matheusfrndes](https://twitter.com/matheusfrndes) and say *hi*! 👋
 
 <!-- AWESOME ITEM TEMPLATE --
 
@@ -27,11 +27,11 @@ Like `awesome-hyper`? Reach out to me and say *hi* on [Twitter](https://twitter.
 - [Resources](#resources)
 
 # Packages
-* [hpm-cli](https://www.npmjs.com/package/hpm-cli) - A plugin manager for HyperHyper.
+* [hpm-cli](https://www.npmjs.com/package/hpm-cli) - A plugin manager for Hyper.
 * [hypertheme](https://www.npmjs.com/package/hypertheme) - A theme manager for Hyper, published right off the bat. You should import your favorite text-editor or terminal theme and [add it to awesome-hyper](https://github.com/bnb/awesome-hyper/issues/new)!
 * [hyperpower](https://www.npmjs.com/package/hyperpower) - Add a pinch of kick-arse raw POWER to your Hyper! Adds the pixel-explosion and shake effect that's been implemented in several text editors.
 * [hyperline](https://www.npmjs.com/package/hyperline) - A status line at the bottom of your Hyper!
-* [hyperterm-blink](https://www.npmjs.com/package/hyperterm-blink) - Make your cursor blink.
+* [hyper-blink](https://www.npmjs.com/package/hyper-blink) - Make your cursor blink.
 * [hyperborder](https://github.com/webmatze/hyperborder) - Add a gradient border with the same colors as in the Hyper logo.
 * [hyperterm-transparent-bg](https://www.npmjs.com/package/hyperterm-transparent-bg) - add a transparent background to your Hyper through an interesting HTML hack.
 * [hypercwd](https://www.npmjs.com/package/hypercwd) - Open new tabs with the same directory as your current tab.
@@ -60,13 +60,18 @@ Like `awesome-hyper`? Reach out to me and say *hi* on [Twitter](https://twitter.
 * [hyperterm-cursor](https://www.npmjs.com/package/hyperterm-cursor) - Allows seeing the char behind your cursor by a color difference.
 * [htyt](https://www.npmjs.com/package/htyt) - Search and play youtube videos in Hyper.
 * [hyperterm-tab-cwd](https://www.npmjs.com/package/hyperterm-tab-cwd) - Add the current working directory to the header tabs in Hyper
-* Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyperterm/issues/new)
+* [hypersixteen](https://www.npmjs.com/package/hypersixteen) - A base16 loader for HyperTerm.
+* [hyper-stylesheet](https://www.npmjs.com/package/hyper-stylesheet) - Adds support for an external hyper stylesheet
+* [hyper-john](https://www.npmjs.com/package/hyper-john) - A 10% chance of getting hit with the John Cena theme when opening tabs, windows and splits.
+* [hyperlayout](https://www.npmjs.com/package/hyperlayout) - Layout presets for Hyper.app.
+* [hyper-autohide-tabs](https://www.npmjs.com/package/hyper-autohide-tabs) - Autohide tab bar when there is only one tab.
+* Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Themes
 * [hyperterm-atom-dark](https://www.npmjs.com/package/hyperterm-atom-dark) - Dark - Really beautiful import of Atom One Dark theme from the [official Atom theme](https://github.com/atom/one-dark-syntax).
 * [hyperblue](https://www.npmjs.com/package/hyperblue) – Dark, cool hues. Turns Hyper blue.
 * [hyperterm-deep-space](https://www.npmjs.com/package/hyperterm-deep-space) - Dark - Dark, muted theme with good color matching.
-* [hyperterm-solarized-dark](https://www.npmjs.com/package/hyperterm-solarized-dark) - Dark - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) pallete.
+* [hyper-solarized-dark](https://www.npmjs.com/package/hyper-solarized-dark) - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) pallete.
 * [hyperterm-colors](https://www.npmjs.com/package/hyperterm-colors) - Dark - Sweet dark color scheme with a chocolate-y brown background and a pretty set of muted colors!
 * [hyper-snazzy](https://www.npmjs.com/package/hyper-snazzy) - Dark - Elegant theme with bright colors.
 * [hyperterm-gruvbox-dark](https://www.npmjs.com/package/hyperterm-gruvbox-dark) - Dark - Hyper theme with retro, earthy groove colors based on the [gruvbox](https://github.com/morhetz/gruvbox) vim color scheme.
@@ -77,6 +82,7 @@ Like `awesome-hyper`? Reach out to me and say *hi* on [Twitter](https://twitter.
 * [hyperterm-spacegray](https://www.npmjs.com/package/hyperterm-spacegray) – Port of the popular Spacegray theme, optimized for terminal usage.
 * [hyperhue](https://www.npmjs.com/package/hyperhue) – Dark/Rainbow - A theme that reacts to the colors of your Philips Hue lights.
 * [hyperterm-hybrid](https://www.npmjs.com/package/hyperterm-hybrid) – Dark - Beautiful theme, based on [vim-hybrid](https://github.com/w0ng/vim-hybrid), that combines [Tomorrow-Night](https://github.com/chriskempson/vim-tomorrow-theme), [Codecademy](https://www.codecademy.com/), [Jellybeans](https://github.com/nanotech/jellybeans.vim), and [Solarized](https://github.com/altercation/vim-colors-solarized) themes together.
+* [hyper-hybrid-reduced-contrast](https://www.npmjs.com/package/hyper-hybrid-reduced-contrast) - A port of the reduced contrast version of [vim-hybrid](https://github.com/w0ng/vim-hybrid).
 * [hyperterm-title](https://www.npmjs.com/package/hyperterm-title) – Set the title of your tabs to what your shell suggests.
 * [hyperpunk](https://www.npmjs.com/package/hyperpunk) - Hyper extension to make your terminal look Cyberpunk / Sci-fi.
 * [hyper-one-light](https://www.npmjs.com/package/hyper-one-light) - Light - A very cute theme with extra light background based on the [Atom One Light](https://github.com/atom/one-light-syntax) pallete.
@@ -91,17 +97,17 @@ Like `awesome-hyper`? Reach out to me and say *hi* on [Twitter](https://twitter.
 * [hyperterm-dark-macos](https://www.npmjs.com/package/hyperterm-dark-macos) - A theme that pairs nicely with macOS dark mode.
 * [hyperterm-material](https://www.npmjs.com/package/hyperterm-material) - Dark - Brings the famous Material Design colors scheme in Hyper.
 * [hyperterm-sourcerer](https://www.npmjs.com/package/hyperterm-sourcerer) - A 16-bit dark theme based on [xero/sourcerer](https://github.com/xero/sourcerer).
-* [hyper-dark-dracule](https://www.npmjs.com/package/hyper-dark-dracula) - A dark dracula theme for Hyper on based [Dracula theme](https://github.com/dracula/dracula-theme).
+* [hyper-dark-dracula](https://www.npmjs.com/package/hyper-dark-dracula) - A dark dracula theme for Hyper on based [Dracula theme](https://github.com/dracula/dracula-theme).
 * [hyperterm-panda](https://www.npmjs.com/package/hyperterm-panda) — Panda syntax theme a superminimal, dark Syntax Theme — Hyper port.
 * [hyperterm-cobalt2-theme](https://www.npmjs.com/package/hyperterm-cobalt2-theme) - Dusty Blue, dark with vibrant pops of colour for the important stuff. Goes well with Cobalt2 ZSH theme.
 * [hyperterm-unlease](https://www.npmjs.com/package/hyperterm-unlease) - A fresh theme for Hyper that makes you feel like there's one of those pine tree car air fresheners hanging from your terminal.
-* [hyperterm-materialshell](https://www.npmjs.com/package/hyperterm-materialshell) - A dark material design theme with a good contrast and color pops at the important parts. Designed to be easy on the eyes, based on [materialshell](https://github.com/carloscuesta/materialshell).
+* [hyper-materialshell](https://www.npmjs.com/package/hyper-materialshell) - A dark material design theme with a good contrast and color pops at the important parts. Designed to be easy on the eyes, based on [materialshell](https://github.com/carloscuesta/materialshell).
 * [hyperterm-zenburn2](https://www.npmjs.com/package/hyperterm-zenburn2) - A classic low-contrast theme originally made for vim adapted for Hyper
 * [hypersolar-dark](https://www.npmjs.com/package/hypersolar-dark) - A dark theme based loosely on Solarized Dark, with a fix for the usual solarized dark colours with blacks that actually show up in your terminal!
 * [hyperterm-earthsong](https://www.npmjs.com/package/hyperterm-earthsong) - A natural and calming theme for Hyper. Ported from iTerm's Earthsong theme
 * [hyperterm-retro](https://www.npmjs.com/package/hyperterm-retro) - A retro Hyper theme inspired by the [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) terminal emulator.
 * [hyperterm-base16-ocean-saturated](https://www.npmjs.com/package/hyperterm-base16-ocean-saturated) - Dark - Elegant theme with saturated colors.
-* [hyperterm-adventurious](https://www.npmjs.com/package/hyperterm-adventurous) - An adventure time inspired theme based on the Adventurious Atom theme.
+* [hyperterm-adventurous](https://www.npmjs.com/package/hyperterm-adventurous) - An adventure time inspired theme based on the Adventurous Atom theme.
 * [hyperterm-hipster](https://www.npmjs.com/package/hyperterm-hipster) - A hipster theme based on the hipster-syntax theme for Atom.
 * [hyper-flat](https://www.npmjs.com/package/hyper-flat) - A Flat theme for Hyper.
 * [hyperterm-vmc-dark](https://www.npmjs.com/package/hyperterm-vmc-dark) - A Dark theme - Based on the color palette of monokai with a great interface.
@@ -110,4 +116,13 @@ Like `awesome-hyper`? Reach out to me and say *hi* on [Twitter](https://twitter.
 # Resources
 * [Official Hyper Website](https://hyper.is/) - The official Hyper website.
 * [hyperzsh](https://www.npmjs.com/package/hyperzsh) - Zsh for Hyper
+* [hyper-flat-2](https://www.npmjs.com/package/hyper-flat-2) - Another Flat theme for Hyper based on Flat theme for Terminal.
+* [hyper-atom-dark-transparent](https://www.npmjs.com/package/hyper-atom-dark-transparent) - Hyper theme based on the hyperterm-atom-dark, but with transparency.
+* [hyperterm-material-spacegray](https://www.npmjs.com/package/hyperterm-material-spacegray) - A port of the low-contrast Material Spacegray theme.
+* [hyper-criollo](https://www.npmjs.com/package/hyper-criollo) - Theme based in vaporwave colors.
+* [hyperganymede](https://www.npmjs.com/package/hyperganymede) - A color scheme inspired by the icy coldness of the moons of Jupiter
+* [an-old-hype](https://www.npmjs.com/package/an-old-hype) - A Hyper theme inspired by a galaxy far far away... and by Jesse Leites [atom syntax theme](https://atom.io/themes/an-old-hope-syntax)
+* [hyper-aww](https://www.npmjs.com/package/hyper-aww) - A theme that changes the terminal background to a different cute animal gif each time you open Hyper.
+* [hyper-darkmatter](https://www.npmjs.com/package/hyper-darkmatter) - Dark - Darkmatter theme for Hyper, inspired by [Sublime Darkmatter](https://github.com/patrickemuller/Sublime-Darkmatter-Theme)
+* [hyper-ayu](https://www.npmjs.com/package/hyper-ayu) - Theme based on the Ayu Theme for Sublime Text
 * Know of another Hyper resource? [Share the love!](https://github.com/bnb/awesome-hyper/issues/new)
