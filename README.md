@@ -64,6 +64,7 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyper-stylesheet](https://www.npmjs.com/package/hyper-stylesheet) - Adds support for an external hyper stylesheet
 * [hyper-john](https://www.npmjs.com/package/hyper-john) - A 10% chance of getting hit with the John Cena theme when opening tabs, windows and splits.
 * [hyperlayout](https://www.npmjs.com/package/hyperlayout) - Layout presets for Hyper.app.
+* [hyper-autohide-tabs](https://www.npmjs.com/package/hyper-autohide-tabs) - Autohide tab bar when there is only one tab.
 * Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Themes
