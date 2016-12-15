@@ -123,5 +123,5 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyper-ramda](https://www.npmjs.com/package/hyper-ramda) - Theme inspired by the RamdaJS REPL
 * [hyper-peacock](https://www.npmjs.com/package/hyper-peacock) - A Peacock theme for Hyper.
 * [hyper-sierra](https://github.com/licatajustin/hyper-sierra) - A dark theme for Hyper inspired by the Sierra Nevada.
-* [hyper-sierra-vibrancy](https://github.com/licatajustin/hyper-sierra-vibrancy) - A dark theme with vibrancy for Hyper inspired by the Sierra Nevada.
+* [hyper-sierra-vibrancy](https://github.com/licatajustin/hyper-sierra-vibrancy) - hyper-sierra with vibrancy.
 
