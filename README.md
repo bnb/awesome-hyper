@@ -127,3 +127,4 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyper-sierra-vibrancy](https://www.npmjs.com/package/hyper-sierra-vibrancy) - hyper-sierra with vibrancy.
 * [hyper-thirtyone](https://www.npmjs.com/package/hyper-thirtyone) - A slightly modified classic linux terminal theme for Hyper.
 * [hyper-material-theme](https://www.npmjs.com/package/hyper-material-theme) - Dark - The most epic material theme now on Hyper App.
+
