@@ -70,7 +70,6 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Themes
-* [hyper-material-theme](https://github.com/equinusocio/hyper-material-theme) - Dark - The most epic material theme now on Hyper App.
 * [hyperterm-atom-dark](https://www.npmjs.com/package/hyperterm-atom-dark) - Dark - Really beautiful import of Atom One Dark theme from the [official Atom theme](https://github.com/atom/one-dark-syntax).
 * [hyperblue](https://www.npmjs.com/package/hyperblue) – Dark, cool hues. Turns Hyper blue.
 * [hyperterm-deep-space](https://www.npmjs.com/package/hyperterm-deep-space) - Dark - Dark, muted theme with good color matching.
@@ -127,4 +126,4 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyper-sierra](https://www.npmjs.com/package/hyper-sierra) - A dark theme for Hyper inspired by the Sierra Nevada.
 * [hyper-sierra-vibrancy](https://www.npmjs.com/package/hyper-sierra-vibrancy) - hyper-sierra with vibrancy.
 * [hyper-thirtyone](https://www.npmjs.com/package/hyper-thirtyone) - A slightly modified classic linux terminal theme for Hyper.
-
+* [hyper-material-theme](https://github.com/equinusocio/hyper-material-theme) - Dark - The most epic material theme now on Hyper App.
