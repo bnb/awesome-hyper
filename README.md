@@ -59,7 +59,6 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyperterm-crosshair](https://www.npmjs.com/package/hyperterm-crosshair) - Shows the cursor position with an horizontal and vertical highlight/ruler.
 * [hyperterm-cursor](https://www.npmjs.com/package/hyperterm-cursor) - Allows seeing the char behind your cursor by a color difference.
 * [htyt](https://www.npmjs.com/package/htyt) - Search and play youtube videos in Hyper.
-* [hyperterm-tab-cwd](https://www.npmjs.com/package/hyperterm-tab-cwd) - Add the current working directory to the header tabs in Hyper
 * [hypersixteen](https://www.npmjs.com/package/hypersixteen) - A base16 loader for HyperTerm.
 * [hyper-stylesheet](https://www.npmjs.com/package/hyper-stylesheet) - Adds support for an external hyper stylesheet
 * [hyper-john](https://www.npmjs.com/package/hyper-john) - A 10% chance of getting hit with the John Cena theme when opening tabs, windows and splits.
