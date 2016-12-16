@@ -66,6 +66,7 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyperlayout](https://www.npmjs.com/package/hyperlayout) - Layout presets for Hyper.app.
 * [hyper-autohide-tabs](https://www.npmjs.com/package/hyper-autohide-tabs) - Autohide tab bar when there is only one tab.
 * [hyper-statusline](https://www.npmjs.com/package/hyper-statusline) - Status line showing current cwd and git branch status.
+* [hyperminimal](https://www.npmjs.com/package/hyperminimal) - Removes the window header for more space and less distraction.
 * Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Themes
