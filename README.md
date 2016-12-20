@@ -2,7 +2,7 @@
 
 [<img src="https://raw.githubusercontent.com/bnb/awesome-hyper/master/Hyper-Mark-Large.png" align="right" width="240">](https://hyper.is)
 
-> A curated list of sweet Hyper [packages](#packages), [themes](#themes), and [resources](#resources).
+> A curated list of sweet Hyper [packages](#packages) and [themes](#themes).
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-node](https://github.com/sindresorhus/awesome-nodejs) and [awesome-npm](https://github.com/sindresorhus/awesome-npm), which both have CLI stuff you can use with Hyper!*
 
@@ -24,7 +24,6 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 
 - [Packages](#packages)
 - [Themes](#themes)
-- [Resources](#resources)
 
 # Packages
 * [hpm-cli](https://www.npmjs.com/package/hpm-cli) - A plugin manager for Hyper.
@@ -70,6 +69,9 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Themes
+
+> *Also check the [Hyper Themes screenshot browser](https://hyperthemes.matthi.coffee)*
+
 * [hyperterm-atom-dark](https://www.npmjs.com/package/hyperterm-atom-dark) - Dark - Really beautiful import of Atom One Dark theme from the [official Atom theme](https://github.com/atom/one-dark-syntax).
 * [hyperblue](https://www.npmjs.com/package/hyperblue) – Dark, cool hues. Turns Hyper blue.
 * [hyperterm-deep-space](https://www.npmjs.com/package/hyperterm-deep-space) - Dark - Dark, muted theme with good color matching.
