@@ -128,4 +128,10 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyper-sierra-vibrancy](https://www.npmjs.com/package/hyper-sierra-vibrancy) - hyper-sierra with vibrancy.
 * [hyper-thirtyone](https://www.npmjs.com/package/hyper-thirtyone) - A slightly modified classic linux terminal theme for Hyper.
 * [hyperterm-gooey](https://www.npmjs.com/package/hyperterm-gooey) - A dark theme with striking green and purple, based off atom-dark.
+* [hyper-zigorat](https://www.npmjs.com/package/hyper-zigorat) - A minimal syntax theme for Hyper.
+* Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
+# Resources
+* [Official Hyper Website](https://hyper.is/) - The official Hyper website.
+* [hyperzsh](https://www.npmjs.com/package/hyperzsh) - Zsh for Hyper
+* Know of another Hyper resource? [Share the love!](https://github.com/bnb/awesome-hyper/issues/new)
