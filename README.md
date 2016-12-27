@@ -134,4 +134,5 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 # Resources
 * [Official Hyper Website](https://hyper.is/) - The official Hyper website.
 * [hyperzsh](https://www.npmjs.com/package/hyperzsh) - Zsh for Hyper
+* [Extending Hyper](https://www.youtube.com/watch?v=q_O-VEermsk&list=PL31ehRjJCA6Ez9Y_dZWymd_LDV7Ydc_0D&index=2) - A talk by Matthew Conlen (@mathisonian) at EmpireNode 2016.
 * Know of another Hyper resource? [Share the love!](https://github.com/bnb/awesome-hyper/issues/new)
