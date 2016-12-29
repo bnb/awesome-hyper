@@ -12,7 +12,7 @@
 
 Want to add your awesome Hyper package, theme, or resource? [Create an issue](https://github.com/bnb/awesome-hyper/issues/new) or send a PR!
 
-Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang) or [@matheusfrndes](https://twitter.com/matheusfrndes) and say *hi*! 👋
+Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang), [@matheusfrndes](https://twitter.com/matheusfrndes), and [@iamstarkov](https://twitter.com/iamstarkov) on Twitter and say *hi*! 👋
 
 <!-- AWESOME ITEM TEMPLATE --
 
@@ -72,6 +72,7 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 # Themes
 * [hyperterm-atom-dark](https://www.npmjs.com/package/hyperterm-atom-dark) - Dark - Really beautiful import of Atom One Dark theme from the [official Atom theme](https://github.com/atom/one-dark-syntax).
 * [hyperblue](https://www.npmjs.com/package/hyperblue) – Dark, cool hues. Turns Hyper blue.
+* [hyperblue-vibrancy](https://www.npmjs.com/package/hyperblue-vibrancy) - The same cool tones from hyperblue, now with vibrancy!
 * [hyperterm-deep-space](https://www.npmjs.com/package/hyperterm-deep-space) - Dark - Dark, muted theme with good color matching.
 * [hyper-solarized-dark](https://www.npmjs.com/package/hyper-solarized-dark) - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) pallete.
 * [hyperterm-colors](https://www.npmjs.com/package/hyperterm-colors) - Dark - Sweet dark color scheme with a chocolate-y brown background and a pretty set of muted colors!
@@ -127,4 +128,12 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyper-sierra-vibrancy](https://www.npmjs.com/package/hyper-sierra-vibrancy) - hyper-sierra with vibrancy.
 * [hyper-thirtyone](https://www.npmjs.com/package/hyper-thirtyone) - A slightly modified classic linux terminal theme for Hyper.
 * [hyper-material-theme](https://www.npmjs.com/package/hyper-material-theme) - Dark - The most epic material theme now on Hyper App.
+* [hyperterm-gooey](https://www.npmjs.com/package/hyperterm-gooey) - A dark theme with striking green and purple, based off atom-dark.
+* [hyper-zigorat](https://www.npmjs.com/package/hyper-zigorat) - A minimal syntax theme for Hyper.
+* Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
+# Resources
+* [Official Hyper Website](https://hyper.is/) - The official Hyper website.
+* [hyperzsh](https://www.npmjs.com/package/hyperzsh) - Zsh for Hyper
+* [Extending Hyper](https://www.youtube.com/watch?v=q_O-VEermsk&list=PL31ehRjJCA6Ez9Y_dZWymd_LDV7Ydc_0D&index=2) - A talk by Matthew Conlen ([@mathisonian](https://github.com/mathisonian)) at EmpireNode 2016.
+* Know of another Hyper resource? [Share the love!](https://github.com/bnb/awesome-hyper/issues/new)
