@@ -69,6 +69,7 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyperminimal](https://www.npmjs.com/package/hyperminimal) - Removes the window header for more space and less distraction.
 * [hyper-command-gifs](https://www.npmjs.com/package/hyper-command-gifs) - Gives you matching GIFs for your terminal commands.
 * [hypernpm](https://www.npmjs.com/package/hypernpm) - Use keyboard shortcuts to run npm script commands.
+* [hyper-autoprofile](https://www.npmjs.com/package/hyper-autoprofile) - Change terminal appearance (backgroundColor, font...) according to current shell prompt.
 * Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Themes
