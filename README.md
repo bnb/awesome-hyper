@@ -69,7 +69,6 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyperminimal](https://www.npmjs.com/package/hyperminimal) - Removes the window header for more space and less distraction.
 * [hyper-command-gifs](https://www.npmjs.com/package/hyper-command-gifs) - Gives you matching GIFs for your terminal commands.
 * [hypernpm](https://www.npmjs.com/package/hypernpm) - Use keyboard shortcuts to run npm script commands.
-* [hypernasa](https://www.npmjs.com/package/hypernasa) - Replaces the terminal background with NASA's Picture of the Day.
 * Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Themes
@@ -133,6 +132,7 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyper-material-theme](https://www.npmjs.com/package/hyper-material-theme) - Dark - The most epic material theme now on Hyper App.
 * [hyperterm-gooey](https://www.npmjs.com/package/hyperterm-gooey) - A dark theme with striking green and purple, based off atom-dark.
 * [hyper-zigorat](https://www.npmjs.com/package/hyper-zigorat) - A minimal syntax theme for Hyper.
+* [hypernasa](https://www.npmjs.com/package/hypernasa) - A theme which replaces the terminal background with NASA's Picture of the Day.
 * Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Resources
