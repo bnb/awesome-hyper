@@ -132,6 +132,7 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyper-material-theme](https://www.npmjs.com/package/hyper-material-theme) - Dark - The most epic material theme now on Hyper App.
 * [hyperterm-gooey](https://www.npmjs.com/package/hyperterm-gooey) - A dark theme with striking green and purple, based off atom-dark.
 * [hyper-zigorat](https://www.npmjs.com/package/hyper-zigorat) - A minimal syntax theme for Hyper.
+* [hypernasa](https://www.npmjs.com/package/hypernasa) - A theme which replaces the terminal background with NASA's Picture of the Day.
 * Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Resources
