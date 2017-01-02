@@ -8,7 +8,7 @@
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
-**Check out the official [Hyper site](https://hyper.is), checkout [Zeit](https://zeit.co), and their interesting Hosting product, [Now](https://zeit.co/now).**
+**Check out the official [Hyper site](https://hyper.is), check out [Zeit](https://zeit.co), and their interesting Hosting product, [Now](https://zeit.co/now).**
 
 Want to add your awesome Hyper package, theme, or resource? [Create an issue](https://github.com/bnb/awesome-hyper/issues/new) or send a PR!
 
