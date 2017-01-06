@@ -134,6 +134,7 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyperterm-gooey](https://www.npmjs.com/package/hyperterm-gooey) - A dark theme with striking green and purple, based off atom-dark.
 * [hyper-zigorat](https://www.npmjs.com/package/hyper-zigorat) - A minimal syntax theme for Hyper.
 * [hypernasa](https://www.npmjs.com/package/hypernasa) - A theme which replaces the terminal background with NASA's Picture of the Day.
+* [hyperterm-mild-dark](https://www.npmjs.com/package/hyperterm-mild-dark) - A mild dark theme for Hyper.
 * Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Resources
