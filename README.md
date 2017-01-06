@@ -70,6 +70,7 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hypernpm](https://www.npmjs.com/package/hypernpm) - Use keyboard shortcuts to run npm script commands.
 * [hyper-startup](https://www.npmjs.com/package/hyper-startup) - Executes any configured commands when Hyper loads.
 * [hyper-autoprofile](https://www.npmjs.com/package/hyper-autoprofile) - Change terminal appearance (backgroundColor, font...) according to current shell prompt.
+* [hyper-tabs-enhanced](https://www.npmjs.com/package/hyper-tabs-enhanced) - Configurable enhanced tabs with tab icons and more.
 * Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Themes
