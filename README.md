@@ -78,6 +78,7 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 * [hyperblue-vibrancy](https://www.npmjs.com/package/hyperblue-vibrancy) - The same cool tones from hyperblue, now with vibrancy!
 * [hyperterm-deep-space](https://www.npmjs.com/package/hyperterm-deep-space) - Dark - Dark, muted theme with good color matching.
 * [hyper-solarized-dark](https://www.npmjs.com/package/hyper-solarized-dark) - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) pallete.
+* [hyper-solarized-light](https://www.npmjs.com/package/hyper-solarized-light) - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) pallete
 * [hyperterm-colors](https://www.npmjs.com/package/hyperterm-colors) - Dark - Sweet dark color scheme with a chocolate-y brown background and a pretty set of muted colors!
 * [hyper-snazzy](https://www.npmjs.com/package/hyper-snazzy) - Dark - Elegant theme with bright colors.
 * [hyperterm-gruvbox-dark](https://www.npmjs.com/package/hyperterm-gruvbox-dark) - Dark - Hyper theme with retro, earthy groove colors based on the [gruvbox](https://github.com/morhetz/gruvbox) vim color scheme.
