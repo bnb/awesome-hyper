@@ -73,6 +73,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-autohide-tabs](https://www.npmjs.com/package/hyper-autohide-tabs) - Autohide tab bar when there is only one tab.
 * [hyperminimal](https://www.npmjs.com/package/hyperminimal) - Removes the window header for more space and less distraction.
 * [hyper-autoprofile](https://www.npmjs.com/package/hyper-autoprofile) - Change terminal appearance (backgroundColor, font...) according to current shell prompt.
+* [hyper-tabs-enhanced](https://www.npmjs.com/package/hyper-tabs-enhanced) - Configurable enhanced tabs with tab icons and more.
 * [hyper-terminal-tabs](https://www.npmjs.com/package/hyper-terminal-tabs) - Brings Terminal.app look and feel to Hyper.
 
 ## Development
@@ -150,6 +151,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-zigorat](https://www.npmjs.com/package/hyper-zigorat) - A minimal syntax theme for Hyper.
 * [hypernasa](https://www.npmjs.com/package/hypernasa) - A theme which replaces the terminal background with NASA's Picture of the Day.
 * [hyperterm-mild-dark](https://www.npmjs.com/package/hyperterm-mild-dark) - A mild dark theme for Hyper.
+* [hyper-papercolor](https://www.npmjs.com/package/hyper-papercolor) - [PaperColor](https://github.com/NLKNguyen/papercolor-theme) theme for Hyper.
 * Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
 # Resources
