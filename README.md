@@ -129,7 +129,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hypersolar-dark](https://www.npmjs.com/package/hypersolar-dark) - A dark theme based loosely on Solarized Dark, with a fix for the usual solarized dark colours with blacks that actually show up in your terminal!
 * [hyperterm-earthsong](https://www.npmjs.com/package/hyperterm-earthsong) - A natural and calming theme for Hyper. Ported from iTerm's Earthsong theme
 * [hyperterm-retro](https://www.npmjs.com/package/hyperterm-retro) - A retro Hyper theme inspired by the [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) terminal emulator.
-* [hyperterm-base16-ocean-saturated](https://www.npmjs.com/package/hyperterm-base16-ocean-saturated) - Dark - Elegant theme with saturated colors.
+* [hyper-oceans16](https://www.npmjs.com/package/hyper-oceans16) - Saturated theme based on Base16 Ocean syntax.
 * [hyperterm-adventurous](https://www.npmjs.com/package/hyperterm-adventurous) - An adventure time inspired theme based on the Adventurous Atom theme.
 * [hyperterm-hipster](https://www.npmjs.com/package/hyperterm-hipster) - A hipster theme based on the hipster-syntax theme for Atom.
 * [hyper-flat](https://www.npmjs.com/package/hyper-flat) - A Flat theme for Hyper.
