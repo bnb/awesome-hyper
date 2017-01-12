@@ -74,6 +74,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyperminimal](https://www.npmjs.com/package/hyperminimal) - Removes the window header for more space and less distraction.
 * [hyper-autoprofile](https://www.npmjs.com/package/hyper-autoprofile) - Change terminal appearance (backgroundColor, font...) according to current shell prompt.
 * [hyper-tabs-enhanced](https://www.npmjs.com/package/hyper-tabs-enhanced) - Configurable enhanced tabs with tab icons and more.
+* [hyper-arc-dark-controls](https://www.npmjs.com/package/hyper-arc-dark-controls) - Pretty window controls from the Arc Dark theme for hyper
 * [hyper-mac-controls](https://www.npmjs.com/package/hyper-mac-controls) - Mac-like window controls for Hyper.
 
 ## Development
