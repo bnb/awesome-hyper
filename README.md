@@ -76,6 +76,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-tabs-enhanced](https://www.npmjs.com/package/hyper-tabs-enhanced) - Configurable enhanced tabs with tab icons and more.
 * [hyper-arc-dark-controls](https://www.npmjs.com/package/hyper-arc-dark-controls) - Pretty window controls from the Arc Dark theme for Hyper.
 * [hyper-mac-controls](https://www.npmjs.com/package/hyper-mac-controls) - Mac-like window controls for Hyper.
+* [hyper-terminal-tabs](https://www.npmjs.com/package/hyper-terminal-tabs) - Brings Terminal.app look and feel to Hyper.
 
 ## Development
 * [hyperterm-open-devtools](https://www.npmjs.com/package/hyperterm-open-devtools) - Open DevTools for currently showing web page with a hotkey.
