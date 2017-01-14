@@ -52,6 +52,8 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hypernpm](https://www.npmjs.com/package/hypernpm) - Use keyboard shortcuts to run npm script commands.
 * [hyper-startup](https://www.npmjs.com/package/hyper-startup) - Executes any configured commands when Hyper loads.
 
+[⬆ Back to top](#contents)
+
 ## Customization
 * [hpm-cli](https://www.npmjs.com/package/hpm-cli) - A plugin manager for Hyper.
 * [hypertheme](https://www.npmjs.com/package/hypertheme) - A theme manager for Hyper, published right off the bat. You should import your favorite text editor or terminal theme and [add it to awesome-hyper](https://github.com/bnb/awesome-hyper/issues/new)!
@@ -78,16 +80,22 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-mac-controls](https://www.npmjs.com/package/hyper-mac-controls) - Mac-like window controls for Hyper.
 * [hyper-terminal-tabs](https://www.npmjs.com/package/hyper-terminal-tabs) - Brings Terminal.app look and feel to Hyper.
 
+[⬆ Back to top](#contents)
+
 ## Development
 * [hyperterm-open-devtools](https://www.npmjs.com/package/hyperterm-open-devtools) - Open DevTools for currently showing web page with a hotkey.
 * [hyperterm-install-devtools](https://www.npmjs.com/package/hyperterm-install-devtools) - Use Chrome DevTools extension on Hyper.
 * [is-hyper](https://www.npmjs.com/package/is-hyper) - Check if your Node.js script is running in Hyper.
+
+[⬆ Back to top](#contents)
 
 ## Fun
 * [hyperpower](https://www.npmjs.com/package/hyperpower) - Add a pinch of kick-arse raw POWER to your Hyper! Adds the pixel-explosion and shake effect that's been implemented in several text editors.
 * [htyt](https://www.npmjs.com/package/htyt) - Search and play youtube videos in Hyper.
 * [hyper-john](https://www.npmjs.com/package/hyper-john) - A 10% chance of getting hit with the John Cena theme when opening tabs, windows and splits.
 * [hyper-command-gifs](https://www.npmjs.com/package/hyper-command-gifs) - Gives you matching GIFs for your terminal commands.
+
+[⬆ Back to top](#contents)
 
 # Themes
 * [hyperterm-atom-dark](https://www.npmjs.com/package/hyperterm-atom-dark) - Dark - Really beautiful import of Atom One Dark theme from the [official Atom theme](https://github.com/atom/one-dark-syntax).
@@ -157,9 +165,13 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-chesterish](https://www.npmjs.com/package/hyper-chesterish) - Saturated theme based on Chester syntax.
 * Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
+[⬆ Back to top](#contents)
+
 # Resources
 * [Official Hyper Website](https://hyper.is/) - The official Hyper website.
 * [hyperzsh](https://www.npmjs.com/package/hyperzsh) - Zsh for Hyper.
 * [Extending Hyper](https://www.youtube.com/watch?v=q_O-VEermsk&list=PL31ehRjJCA6Ez9Y_dZWymd_LDV7Ydc_0D&index=2) - A talk by Matthew Conlen ([@mathisonian](https://github.com/mathisonian)) at EmpireNode 2016.
 * [Hyper Themes screenshot browser](https://hyperthemes.matthi.coffee) by [@MatthiasWinkelmann](https://github.com/MatthiasWinkelmann) to visually browse screenshots of Hyper themes.
 * Know of another Hyper resource? [Share the love!](https://github.com/bnb/awesome-hyper/issues/new)
+
+[⬆ Back to top](#contents)
