@@ -38,7 +38,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hypercwd](https://www.npmjs.com/package/hypercwd) - Open new tabs with the same directory as your current tab.
 * [hyperterm-1password](https://www.npmjs.com/package/hyperterm-1password) - Integration with 1Password (password manager).
 * [hyperterm-visor](https://github.com/CWSpear/hyperterm-visor) - Show/hide your Hyper terminal with a global hotkey & more.
-* [hyperterm-sync-settings](https://www.npmjs.com/package/hyperterm-sync-settings) - Easy way to backup and restore Hyper settings to Github.
+* [hyper-sync-settings](https://www.npmjs.com/package/hyper-sync-settings) - Easy way to backup and restore Hyper settings to Github.
 * [hyperterm-summon](https://www.npmjs.com/package/hyperterm-summon) - Summon your Hyper windows with a system-wide hotkey.
 * [hyperterm-paste](https://www.npmjs.com/package/hyperterm-paste) - Pasting into terminal made safe and easy.
 * [hyperterm-alternatescroll](https://www.npmjs.com/package/hyperterm-alternatescroll) - Mousewheel/trackpad scrolling for alternate screen (less, git log, nano, etc...).
