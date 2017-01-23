@@ -51,7 +51,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-statusline](https://www.npmjs.com/package/hyper-statusline) - Status line showing current cwd and git branch status.
 * [hypernpm](https://www.npmjs.com/package/hypernpm) - Use keyboard shortcuts to run npm script commands.
 * [hyper-startup](https://www.npmjs.com/package/hyper-startup) - Executes any configured commands when Hyper loads.
-* [hyper-fileio](https://www.npmjs.com/package/hyper-fileio) - Ephemeral file sharing direct from Hyper
+* [hyper-fileio](https://www.npmjs.com/package/hyper-fileio) - Ephemeral file sharing direct from Hyper.
 
 [⬆ Back to top](#contents)
 
