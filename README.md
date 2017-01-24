@@ -47,7 +47,6 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyperterm-tabs](https://www.npmjs.com/package/hyperterm-tabs) - Rearrange tabs by drag&dropping them.
 * [hyperterm-focus-reporting](https://www.npmjs.com/package/hyperterm-focus-reporting) - Adds focus reporting to Hyper - similar to iTerm2.
 * [hyperlinks](https://www.npmjs.com/package/hyperlinks) - Extension for Hyper that automatically links URLs.
-* [hyperterm-tab-cwd](https://www.npmjs.com/package/hyperterm-tab-cwd) - Add the current working directory to the header tabs in Hyper.
 * [hyper-statusline](https://www.npmjs.com/package/hyper-statusline) - Status line showing current cwd and git branch status.
 * [hypernpm](https://www.npmjs.com/package/hypernpm) - Use keyboard shortcuts to run npm script commands.
 * [hyper-startup](https://www.npmjs.com/package/hyper-startup) - Executes any configured commands when Hyper loads.
