@@ -96,6 +96,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [htyt](https://www.npmjs.com/package/htyt) - Search and play youtube videos in Hyper.
 * [hyper-john](https://www.npmjs.com/package/hyper-john) - A 10% chance of getting hit with the John Cena theme when opening tabs, windows and splits.
 * [hyper-command-gifs](https://www.npmjs.com/package/hyper-command-gifs) - Gives you matching GIFs for your terminal commands.
+* [hyper-cat](https://www.npmjs.com/package/hyper-cat) - Turn your terminal into nyan cat while typing.
 
 [⬆ Back to top](#contents)
 
