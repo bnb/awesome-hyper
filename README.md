@@ -166,6 +166,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyperterm-mild-dark](https://www.npmjs.com/package/hyperterm-mild-dark) - A mild dark theme for Hyper.
 * [hyper-papercolor](https://www.npmjs.com/package/hyper-papercolor) - [PaperColor](https://github.com/NLKNguyen/papercolor-theme) theme for Hyper.
 * [hyper-chesterish](https://www.npmjs.com/package/hyper-chesterish) - Saturated theme based on Chester syntax.
+* [hyperterm-dark-fusion](https://www.npmjs.com/package/hyperterm-dark-fusion) - Hyperterm theme based on atom-dark-fusion.
 * Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
 [⬆ Back to top](#contents)
