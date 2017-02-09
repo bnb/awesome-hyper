@@ -81,6 +81,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-mac-controls](https://www.npmjs.com/package/hyper-mac-controls) - Mac-like window controls for Hyper.
 * [hyper-terminal-tabs](https://www.npmjs.com/package/hyper-terminal-tabs) - Brings Terminal.app look and feel to Hyper.
 * [hyper-dark-scrollbar](https://www.npmjs.com/package/hyper-dark-scrollbar) - Pretty scrollbar for Hyper.
+* [hyper-pane](https://www.npmjs.com/package/hyper-pane) - Enhanced pane navigation.
 
 [⬆ Back to top](#contents)
 
