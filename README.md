@@ -170,6 +170,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-nord](https://www.npmjs.com/package/hyper-nord) - Nord theme for Hyper.
 * [hyper-captain-sweetheart](https://www.npmjs.com/package/hyper-captain-sweetheart) - Tuff but sweet Hyper theme.
 * [hyper-midnight](https://www.npmjs.com/package/hyper-midnight) - A minimalist theme for the Hyper terminal.
+* [hyperterm-gruvbox](https://www.npmjs.com/package/hyperterm-gruvbox) - Theme based on gruvbox with dark, light styles and contrast options.
 * Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
 [⬆ Back to top](#contents)
