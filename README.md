@@ -36,6 +36,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 ## Productivity
 * [hyperline](https://www.npmjs.com/package/hyperline) - A status line at the bottom of your Hyper!
 * [hypercwd](https://www.npmjs.com/package/hypercwd) - Open new tabs with the same directory as your current tab.
+* [hyperterm-working-directory](https://www.npmjs.com/package/hyperterm-working-directory) - Open new tabs with a custom directory. _<sub>Compatible with `hypercwd`!</sub>_
 * [hyperterm-1password](https://www.npmjs.com/package/hyperterm-1password) - Integration with 1Password (password manager).
 * [hyperterm-visor](https://github.com/CWSpear/hyperterm-visor) - Show/hide your Hyper terminal with a global hotkey & more.
 * [hyper-sync-settings](https://www.npmjs.com/package/hyper-sync-settings) - Easy way to backup and restore Hyper settings to Github.
