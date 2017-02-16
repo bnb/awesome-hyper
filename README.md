@@ -102,6 +102,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 [⬆ Back to top](#contents)
 
 # Themes
+Browse all themes with this [Theme Browser](https://hyperthemes.matthi.coffee/).
 * [hyperterm-atom-dark](https://www.npmjs.com/package/hyperterm-atom-dark) - Dark - Really beautiful import of Atom One Dark theme from the [official Atom theme](https://github.com/atom/one-dark-syntax).
 * [hyperblue](https://www.npmjs.com/package/hyperblue) – Dark, cool hues. Turns Hyper blue.
 * [hyperblue-vibrancy](https://www.npmjs.com/package/hyperblue-vibrancy) - The same cool tones from hyperblue, now with vibrancy!
