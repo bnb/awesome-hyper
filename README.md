@@ -116,6 +116,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyperseti](https://www.npmjs.com/package/hyperseti) - Dark - It's a theme based on [Seti](https://github.com/jesseweed/seti-ui), a subtle dark colored UI theme for Atom.
 * [hyperterm-oceanic-next](https://github.com/kasperlewau/hyperterm-oceanic-next) - Dark blue theme optimised for ES2015. Ported from [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme).
 * [hyperterm-spacegray](https://www.npmjs.com/package/hyperterm-spacegray) – Port of the popular Spacegray theme, optimized for terminal usage.
+* [hyperterm-chester-dark](https://www.npmjs.com/package/hyperterm-chester-dark) – Port of the popular Chester dark theme, optimized for terminal usage.
 * [hyperhue](https://www.npmjs.com/package/hyperhue) – Dark/Rainbow - A theme that reacts to the colors of your Philips Hue lights.
 * [hyperterm-hybrid](https://www.npmjs.com/package/hyperterm-hybrid) – Dark - Beautiful theme, based on [vim-hybrid](https://github.com/w0ng/vim-hybrid), that combines [Tomorrow-Night](https://github.com/chriskempson/vim-tomorrow-theme), [Codecademy](https://www.codecademy.com/), [Jellybeans](https://github.com/nanotech/jellybeans.vim), and [Solarized](https://github.com/altercation/vim-colors-solarized) themes together.
 * [hyper-hybrid-reduced-contrast](https://www.npmjs.com/package/hyper-hybrid-reduced-contrast) - A port of the reduced contrast version of [vim-hybrid](https://github.com/w0ng/vim-hybrid).
