@@ -172,6 +172,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-midnight](https://www.npmjs.com/package/hyper-midnight) - A minimalist theme for the Hyper terminal.
 * [hyperterm-gruvbox](https://www.npmjs.com/package/hyperterm-gruvbox) - Theme based on gruvbox with dark, light styles and contrast options.
 * [hyper-macos](https://www.npmjs.com/package/hyper-macos) - Native macOS theme with vibrancy support.
+* [hyper-frontend-delight](https://www.npmjs.com/package/hyper-frontend-delight) - Dark - Based on Frontend Delight iTerm2 color scheme.
 * Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
 [⬆ Back to top](#contents)
