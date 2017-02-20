@@ -173,6 +173,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyperterm-gruvbox](https://www.npmjs.com/package/hyperterm-gruvbox) - Theme based on gruvbox with dark, light styles and contrast options.
 * [hyper-macos](https://www.npmjs.com/package/hyper-macos) - Native macOS theme with vibrancy support.
 * [hyper-frontend-delight](https://www.npmjs.com/package/hyper-frontend-delight) - Dark - Based on Frontend Delight iTerm2 color scheme.
+* [hypermaterial-vibrancy](https://www.npmjs.com/package/hypermaterial-vibrancy) - Dark - Beautiful material theme with vibrancy.
 * Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
 [⬆ Back to top](#contents)
