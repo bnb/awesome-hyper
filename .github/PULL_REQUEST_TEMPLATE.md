@@ -1,11 +1,13 @@
 <!--- Provide a general summary of your changes in the Title above -->
 
 ## Checklist for submitting an `awesome` plugin, theme, or resource:
+
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- More detailed instructions are in the CONTRIBUTING.md document - please read it if you have a question!-->
 <!--- If you're still unsure about any of these, don't hesitate to ask. We're here to help! -->
-- [ ] The title for my package or theme uses its npm title (`hyper-plugin-example`)
-- [ ] The link for my package or theme uses the npmjs.com link (https://www.npmjs.com/package/hyper-plugin-example)
-- [ ] There is a visual representation of what my plugin or theme does in the repo. (Plugin: screenshot or gif || Theme: screenshot of the theme applied to Hyper)
-- [ ] Put your awesome item at the **BOTTOM** of the correct (plugin, theme, or resource) list.
-- [ ] **VERY IMPORTANT:** I've written a short (one sentence) description for my package or theme as the description of the awesome plugin, theme, or resource in the README.md file I'm submitting in the PR.
+
+- [ ] The title for my package/theme uses its npm title (eg. `hyper-example`)
+- [ ] The link for my package/theme uses its npmjs.com link (eg. https://www.npmjs.com/package/hyper-example)
+- [ ] There is a screenshot in my repo showing what Hyper looks like when my plugin/theme is applied.
+- [ ] If it's a plugin or resource, put your awesome item at the **BOTTOM** of the correct section; if it's a theme, insert it according to the alphabetical order.
+- [ ] **VERY IMPORTANT:** I've written a short (one sentence) description for the awesome item I'm submitting.
