@@ -9,6 +9,6 @@
 - [ ] The title for my package/theme uses its npm title (eg. `hyper-example`)
 - [ ] The link for my package/theme uses its npmjs.com link (eg. https://www.npmjs.com/package/hyper-example)
 - [ ] There is a screenshot in my repo showing what Hyper looks like when my plugin/theme is applied.
-- [ ] If it's a plugin or resource, put your awesome item at the **BOTTOM** of the correct section
+- [ ] If it's a plugin or resource, put your awesome item at the **BOTTOM** of the correct section.
 - [ ] If it's a theme, insert it according to the **ALPHABETICAL** order.
 - [ ] **VERY IMPORTANT:** I've written a short (one sentence) description for the awesome item I'm submitting.
