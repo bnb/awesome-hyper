@@ -105,6 +105,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 # Themes
 * [an-old-hype](https://www.npmjs.com/package/an-old-hype) - A Hyper theme inspired by a galaxy far far away... and by Jesse Leites [atom syntax theme](https://atom.io/themes/an-old-hope-syntax).
 * [hyper-atom-dark-transparent](https://www.npmjs.com/package/hyper-atom-dark-transparent) - Hyper theme based on the hyperterm-atom-dark, but with transparency.
+* [hyperatompunk](https://www.npmjs.com/package/hyperatompunk) - Hyper extension to make your terminal look like a CRT in Fallout.
 * [hyper-aww](https://www.npmjs.com/package/hyper-aww) - A theme that changes the terminal background to a different cute animal gif each time you open Hyper.
 * [hyper-ayu](https://www.npmjs.com/package/hyper-ayu) - Theme based on the Ayu Theme for Sublime Text.
 * [hyper-captain-sweetheart](https://www.npmjs.com/package/hyper-captain-sweetheart) - Tuff but sweet Hyper theme.
@@ -142,7 +143,6 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hypernasa](https://www.npmjs.com/package/hypernasa) - A theme which replaces the terminal background with NASA's Picture of the Day.
 * [hyperpanic](https://www.npmjs.com/package/hyperpanic) - Dark - A very pretty theme close to the Panic theme's colors. Dark blue background with very bright highlight colors.
 * [hyperpunk](https://www.npmjs.com/package/hyperpunk) - Hyper extension to make your terminal look Cyberpunk / Sci-fi.
-* [hyperatompunk](https://www.npmjs.com/package/hyperatompunk) - Hyper extension to make your terminal look like a CRT in Fallout.
 * [hyperseti](https://www.npmjs.com/package/hyperseti) - Dark - It's a theme based on [Seti](https://github.com/jesseweed/seti-ui), a subtle dark colored UI theme for Atom.
 * [hypersolar-dark](https://www.npmjs.com/package/hypersolar-dark) - A dark theme based loosely on Solarized Dark, with a fix for the usual solarized dark colours with blacks that actually show up in your terminal!
 * [hyperterm-adventurous](https://www.npmjs.com/package/hyperterm-adventurous) - An adventure time inspired theme based on the Adventurous Atom theme.
