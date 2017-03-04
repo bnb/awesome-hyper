@@ -81,7 +81,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-mac-controls](https://www.npmjs.com/package/hyper-mac-controls) - Mac-like window controls for Hyper.
 * [hyper-terminal-tabs](https://www.npmjs.com/package/hyper-terminal-tabs) - Brings Terminal.app look and feel to Hyper.
 * [hyper-dark-scrollbar](https://www.npmjs.com/package/hyper-dark-scrollbar) - Pretty scrollbar for Hyper.
-* [hyper-pane](https://www.npmjs.com/package/hyper-pane) - Navigate through panes with arrows or jump directly to a specific pane with digit.
+* [hyper-pane](https://www.npmjs.com/package/hyper-pane) - Navigate through panes with arrows, jump directly to a specific pane with digit or change focus on mouse hover.
 * [hyper-always-on-top](https://www.npmjs.com/package/hyper-always-on-top) - Add a menu item to keep application windows always on top.
 
 [⬆ Back to top](#contents)
