@@ -105,7 +105,6 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 # Themes
 * [an-old-hype](https://www.npmjs.com/package/an-old-hype) - A Hyper theme inspired by a galaxy far far away... and by Jesse Leites [atom syntax theme](https://atom.io/themes/an-old-hope-syntax).
 * [hyper-atom-dark-transparent](https://www.npmjs.com/package/hyper-atom-dark-transparent) - Hyper theme based on the hyperterm-atom-dark, but with transparency.
-* [hyperatompunk](https://www.npmjs.com/package/hyperatompunk) - Hyper extension to make your terminal look like a CRT in Fallout.
 * [hyper-aww](https://www.npmjs.com/package/hyper-aww) - A theme that changes the terminal background to a different cute animal gif each time you open Hyper.
 * [hyper-ayu](https://www.npmjs.com/package/hyper-ayu) - Theme based on the Ayu Theme for Sublime Text.
 * [hyper-captain-sweetheart](https://www.npmjs.com/package/hyper-captain-sweetheart) - Tuff but sweet Hyper theme.
@@ -136,6 +135,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-zenburn](https://www.npmjs.com/package/hyper-zenburn) - A classic low-contrast theme originally made for vim adapted for Hyper.
 * [hyper-zigorat](https://www.npmjs.com/package/hyper-zigorat) - A minimal syntax theme for Hyper.
 * [hyperambient](https://www.npmjs.com/package/hyperambient) – Dark/Light - A theme that reacts to ambient light changes.
+* [hyperatompunk](https://www.npmjs.com/package/hyperatompunk) - Hyper extension to make your terminal look like a CRT in Fallout.
 * [hyperblue-vibrancy](https://www.npmjs.com/package/hyperblue-vibrancy) - The same cool tones from hyperblue, now with vibrancy!
 * [hyperblue](https://www.npmjs.com/package/hyperblue) – Dark, cool hues. Turns Hyper blue.
 * [hyperganymede](https://www.npmjs.com/package/hyperganymede) - A color scheme inspired by the icy coldness of the moons of Jupiter.
