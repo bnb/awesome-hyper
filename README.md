@@ -52,6 +52,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-startup](https://www.npmjs.com/package/hyper-startup) - Executes any configured commands when Hyper loads.
 * [hyper-fileio](https://www.npmjs.com/package/hyper-fileio) - Ephemeral file sharing direct from Hyper.
 * [hyper-history](https://www.npmjs.com/package/hyper-history) - Show a list of history commands.
+* [hyper-alt-click](https://www.npmjs.com/package/hyper-alt-click) - Allows moving the cursor by alt+click'ing where you want it to go.
 
 [⬆ Back to top](#contents)
 
