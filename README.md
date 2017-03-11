@@ -37,7 +37,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyperline](https://www.npmjs.com/package/hyperline) - A status line at the bottom of your Hyper!
 * [hypercwd](https://www.npmjs.com/package/hypercwd) - Open new tabs with the same directory as your current tab.
 * [hyperterm-1password](https://www.npmjs.com/package/hyperterm-1password) - Integration with 1Password (password manager).
-* [hyperterm-visor](https://github.com/CWSpear/hyperterm-visor) - Show/hide your Hyper terminal with a global hotkey & more.
+* [hyperterm-visor](https://www.npmjs.com/package/hyperterm-visor) - Show/hide your Hyper terminal with a global hotkey & more.
 * [hyper-sync-settings](https://www.npmjs.com/package/hyper-sync-settings) - Easy way to backup and restore Hyper settings to Github.
 * [hyperterm-summon](https://www.npmjs.com/package/hyperterm-summon) - Summon your Hyper windows with a system-wide hotkey.
 * [hyperterm-paste](https://www.npmjs.com/package/hyperterm-paste) - Pasting into terminal made safe and easy.
@@ -60,7 +60,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hpm-cli](https://www.npmjs.com/package/hpm-cli) - A plugin manager for Hyper.
 * [hypertheme](https://www.npmjs.com/package/hypertheme) - A theme manager for Hyper, published right off the bat. You should import your favorite text editor or terminal theme and [add it to awesome-hyper](https://github.com/bnb/awesome-hyper/issues/new)!
 * [hyper-blink](https://www.npmjs.com/package/hyper-blink) - Make your cursor blink.
-* [hyperborder](https://github.com/webmatze/hyperborder) - Add a gradient border with the same colors as in the Hyper logo.
+* [hyperborder](https://www.npmjs.com/package/hyperborder) - Add a gradient border with the same colors as in the Hyper logo.
 * [hyperterm-transparent-bg](https://www.npmjs.com/package/hyperterm-transparent-bg) - Add a transparent background to your Hyper through an interesting HTML hack.
 * [hyperterm-close-on-left](https://www.npmjs.com/package/hyperterm-close-on-left) - Positions the close tab button on the left.
 * [hyperterm-mactabs](https://www.npmjs.com/package/hyperterm-mactabs) - Better tab styles, with macOS-inspired design and close buttons on the left, compatible with most themes.
@@ -168,7 +168,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyperterm-material](https://www.npmjs.com/package/hyperterm-material) - Dark - Brings the famous Material Design colors scheme in Hyper.
 * [hyperterm-mild-dark](https://www.npmjs.com/package/hyperterm-mild-dark) - A mild dark theme for Hyper.
 * [hyperterm-monokai](https://www.npmjs.com/package/hyperterm-monokai) - Dark - A port of the popular monokai theme. The colors are warm, relaxing and pleasing to the eyes.
-* [hyperterm-oceanic-next](https://github.com/kasperlewau/hyperterm-oceanic-next) - Dark blue theme optimised for ES2015. Ported from [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme).
+* [hyperterm-oceanic-next](https://www.npmjs.com/package/hyperterm-oceanic-next) - Dark blue theme optimised for ES2015. Ported from [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme).
 * [hyperterm-panda](https://www.npmjs.com/package/hyperterm-panda) — Panda syntax theme a superminimal, dark Syntax Theme — Hyper port.
 * [hyperterm-retro](https://www.npmjs.com/package/hyperterm-retro) - A retro Hyper theme inspired by the [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) terminal emulator.
 * [hyperterm-sourcerer](https://www.npmjs.com/package/hyperterm-sourcerer) - A 16-bit dark theme based on [xero/sourcerer](https://github.com/xero/sourcerer).
