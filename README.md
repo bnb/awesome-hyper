@@ -182,7 +182,6 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 
 # Resources
 * [Official Hyper Website](https://hyper.is/) - The official Hyper website.
-* [hyperzsh](https://www.npmjs.com/package/hyperzsh) - Zsh for Hyper.
 * [Extending Hyper](https://www.youtube.com/watch?v=q_O-VEermsk&list=PL31ehRjJCA6Ez9Y_dZWymd_LDV7Ydc_0D&index=2) - A talk by Matthew Conlen ([@mathisonian](https://github.com/mathisonian)) at EmpireNode 2016.
 * [Hyper Themes screenshot browser](https://hyperthemes.matthi.coffee) by [@MatthiasWinkelmann](https://github.com/MatthiasWinkelmann) to visually browse screenshots of Hyper themes.
 * Know of another Hyper resource? [Share the love!](https://github.com/bnb/awesome-hyper/issues/new)
