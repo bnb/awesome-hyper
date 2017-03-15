@@ -177,6 +177,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyperterm-tomorrow-night](https://www.npmjs.com/package/hyperterm-tomorrow-night) - Dark - Port of the popular Tomorrow Night theme.
 * [hyperterm-unlease](https://www.npmjs.com/package/hyperterm-unlease) - A fresh theme for Hyper that makes you feel like there's one of those pine tree car air fresheners hanging from your terminal.
 * [hyperterm-wp-theme](https://www.npmjs.com/package/hyperterm-wp-theme) - An adaptation of the popular JetBrains Darcula Theme with support for colored tabs.
+* [hyper-white-theme](www.npmjs.com/package/hyper-white-theme) - White & Purple theme for Hyper.
 * Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
 [⬆ Back to top](#contents)
