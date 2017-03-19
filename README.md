@@ -134,6 +134,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-solarized-dark](https://www.npmjs.com/package/hyper-solarized-dark) - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) palette.
 * [hyper-solarized-light](https://www.npmjs.com/package/hyper-solarized-light) - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) palette.
 * [hyper-thirtyone](https://www.npmjs.com/package/hyper-thirtyone) - A slightly modified classic linux terminal theme for Hyper.
+* [hyper-white-theme](https://www.npmjs.com/package/hyper-white-theme) - White & Purple theme for Hyper.
 * [hyper-zenburn](https://www.npmjs.com/package/hyper-zenburn) - A classic low-contrast theme originally made for vim adapted for Hyper.
 * [hyper-zigorat](https://www.npmjs.com/package/hyper-zigorat) - A minimal syntax theme for Hyper.
 * [hyperambient](https://www.npmjs.com/package/hyperambient) – Dark/Light - A theme that reacts to ambient light changes.
