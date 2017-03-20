@@ -122,6 +122,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-material-theme](https://www.npmjs.com/package/hyper-material-theme) - Dark - The most epic material theme now on Hyper App.
 * [hyper-materialshell](https://www.npmjs.com/package/hyper-materialshell) - A dark material design theme with a good contrast and color pops at the important parts. Designed to be easy on the eyes, based on [materialshell](https://github.com/carloscuesta/materialshell).
 * [hyper-midnight](https://www.npmjs.com/package/hyper-midnight) - A minimalist theme for the Hyper terminal.
+* [hyper-monochrome](https://www.npmjs.com/package/hyper-monochrome) - Monochrome theme, based on [vim-monochrome](https://github.com/fxn/vim-monochrome).
 * [hyper-nord](https://www.npmjs.com/package/hyper-nord) - Nord theme for Hyper.
 * [hyper-oceans16](https://www.npmjs.com/package/hyper-oceans16) - Saturated theme based on Base16 Ocean syntax.
 * [hyper-one-light](https://www.npmjs.com/package/hyper-one-light) - Light - A very cute theme with extra light background based on the [Atom One Light](https://github.com/atom/one-light-syntax) pallete.
