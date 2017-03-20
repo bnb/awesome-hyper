@@ -7,29 +7,31 @@
   "title": "Awesome Hyper",
   "branch": "master",
   "style": {
-    "name": "Swiss",
+    "name": "Material",
     "componentSet": {
-      "nav": "nav/BasicNav",
-      "header": "header/SwissHeader",
-      "article": "article/SwissArticle",
+      "nav": "nav/DarkAbsoluteNav",
+      "header": "header/GradientHeader",
+      "article": "article/BasicArticle",
       "footer": "footer/BasicFooter"
     },
-    "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "fontFamily": "Roboto, sans-serif",
     "heading": {
-      "fontWeight": 700,
+      "fontWeight": 500,
       "letterSpacing": "-0.01em"
     },
-    "layout": {
-      "fluid": true
-    },
     "colors": {
-      "text": "#000",
+      "text": "#212121",
       "background": "#fff",
-      "primary": "#05a",
-      "secondary": "#444",
-      "highlight": "#f30",
-      "border": "#ccc",
-      "muted": "#eee"
+      "primary": "#2196f3",
+      "secondary": "#1565c0",
+      "highlight": "#ff4081",
+      "border": "#e0e0e0",
+      "muted": "#f5f5f5"
+    },
+    "layout": {
+      "centered": true,
+      "bannerHeight": "80vh",
+      "maxWidth": 896
     }
   },
   "content": [
