@@ -78,8 +78,23 @@
         {
           "href": "https://github.com/bnb",
           "text": "bnb"
+        },
+        {
+          "href": "https://github.com/matheuss",
+          "text": "matheuss"
+        },
+        {
+          "href": "https://github.com/darahak",
+          "text": "darahak"
+        },
+        {
+          "href": "https://github.com/iamstarkov",
+          "text": "iamstarkov"
         }
-      ]
+      ],
+      "image": "http://imgur.com/a/MkqD9",
+      "meta": "Awesome Hyper - a curated list of sweet Hyper packages, themes, and resources.",
+      "heading": ""
     }
   ]
 }
