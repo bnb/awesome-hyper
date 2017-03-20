@@ -36,15 +36,6 @@
   },
   "content": [
     {
-      "component": "nav",
-      "links": [
-        {
-          "href": "https://github.com/bnb/awesome-hyper",
-          "text": "GitHub"
-        }
-      ]
-    },
-    {
       "component": "header",
       "heading": "awesome-hyper",
       "subhead": "🖥 Delightful Hyper plugins, themes, and resources",
