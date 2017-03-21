@@ -111,6 +111,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-ayu](https://www.npmjs.com/package/hyper-ayu) - Theme based on the Ayu Theme for Sublime Text.
 * [hyper-captain-sweetheart](https://www.npmjs.com/package/hyper-captain-sweetheart) - Tuff but sweet Hyper theme.
 * [hyper-chesterish](https://www.npmjs.com/package/hyper-chesterish) - Saturated theme based on Chester syntax.
+* [hyper-clean](https://www.npmjs.com/package/hyper-clean) - A clean theme with [IBM Design colors](https://github.com/IBM-Design/colors)
 * [hyper-criollo](https://www.npmjs.com/package/hyper-criollo) - Theme based in vaporwave colors.
 * [hyper-dark-dracula](https://www.npmjs.com/package/hyper-dark-dracula) - A dark dracula theme for Hyper on based [Dracula theme](https://github.com/dracula/dracula-theme).
 * [hyper-darkmatter](https://www.npmjs.com/package/hyper-darkmatter) - Dark - Darkmatter theme for Hyper, inspired by [Sublime Darkmatter](https://github.com/patrickemuller/Sublime-Darkmatter-Theme).
