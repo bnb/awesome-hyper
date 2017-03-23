@@ -53,6 +53,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-fileio](https://www.npmjs.com/package/hyper-fileio) - Ephemeral file sharing direct from Hyper.
 * [hyper-history](https://www.npmjs.com/package/hyper-history) - Show a list of history commands.
 * [hyper-alt-click](https://www.npmjs.com/package/hyper-alt-click) - Allows moving the cursor by alt+click'ing where you want it to go.
+* [hyper-copycat](https://www.npmjs.com/package/hyper-copycat) - Duplicate text input across all sessions in a tab.
 
 [⬆ Back to top](#contents)
 
