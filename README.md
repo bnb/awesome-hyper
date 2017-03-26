@@ -53,7 +53,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-fileio](https://www.npmjs.com/package/hyper-fileio) - Ephemeral file sharing direct from Hyper.
 * [hyper-history](https://www.npmjs.com/package/hyper-history) - Show a list of history commands.
 * [hyper-alt-click](https://www.npmjs.com/package/hyper-alt-click) - Allows moving the cursor by alt+click'ing where you want it to go.
-* [hyperterm-safepaste](https://www.npmjs.com/package/hyperterm-safepaste) - Makes pasting into hyperterm safe
+* [hyperterm-safepaste](https://www.npmjs.com/package/hyperterm-safepaste) - Makes pasting multiple lines into hyperterm safe
 
 [⬆ Back to top](#contents)
 
