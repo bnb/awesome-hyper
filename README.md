@@ -41,6 +41,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-sync-settings](https://www.npmjs.com/package/hyper-sync-settings) - Easy way to backup and restore Hyper settings to Github.
 * [hyperterm-summon](https://www.npmjs.com/package/hyperterm-summon) - Summon your Hyper windows with a system-wide hotkey.
 * [hyperterm-paste](https://www.npmjs.com/package/hyperterm-paste) - Pasting into terminal made safe and easy.
+* [hyperterm-safepaste](https://www.npmjs.com/package/hyperterm-safepaste) - Makes pasting into hyperterm safe
 * [hyperterm-alternatescroll](https://www.npmjs.com/package/hyperterm-alternatescroll) - Mousewheel/trackpad scrolling for alternate screen (less, git log, nano, etc...).
 * [hyperterm-lastpass](https://www.npmjs.com/package/hyperterm-lastpass) - LastPass plugin for autofilling passwords in Hyper.
 * [hyperterm-dibdabs](https://www.npmjs.com/package/hyperterm-dibdabs) - Unique colored dot on the left of the tab is added for quick identification of commonly used tabs based on its title.
