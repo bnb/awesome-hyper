@@ -85,6 +85,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-pane](https://www.npmjs.com/package/hyper-pane) - Navigate through panes with arrows, jump directly to a specific pane with digit or change focus on mouse hover.
 * [hyper-always-on-top](https://www.npmjs.com/package/hyper-always-on-top) - Add a menu item to keep application windows always on top.
 * [hyper-transparent-dynamic](https://www.npmjs.com/package/hyper-transparent-dynamic) - Dynamically set transparent background based on current theming.
+* [hyper-vsplit-fix](https://www.npmjs.com/package/hyper-vsplit-fix) - Fixes the vertical split border height in hyper.
 
 [⬆ Back to top](#contents)
 
