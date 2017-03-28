@@ -129,7 +129,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hyper-papercolor](https://www.npmjs.com/package/hyper-papercolor) - [PaperColor](https://github.com/NLKNguyen/papercolor-theme) theme for Hyper.
 * [hyper-peacock](https://www.npmjs.com/package/hyper-peacock) - A Peacock theme for Hyper.
 * [hyper-ramda](https://www.npmjs.com/package/hyper-ramda) - Theme inspired by the RamdaJS REPL.
-* [hyper-seashells](https://www.npmjs.com/package/hyper-seashells) - A Hyper port of the [iTerm2 SeaShells](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/screenshots/sea_shells.png) color scheme
+* [hyper-seashells](https://www.npmjs.com/package/hyper-seashells) - A Hyper port of the [iTerm2 SeaShells](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/screenshots/sea_shells.png) color scheme.
 * [hyper-sierra-vibrancy](https://www.npmjs.com/package/hyper-sierra-vibrancy) - hyper-sierra with vibrancy.
 * [hyper-sierra](https://www.npmjs.com/package/hyper-sierra) - A dark theme for Hyper inspired by the Sierra Nevada.
 * [hyper-snazzy](https://www.npmjs.com/package/hyper-snazzy) - Dark - Elegant theme with bright colors.
