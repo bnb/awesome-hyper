@@ -150,6 +150,14 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 * [hypernasa](https://www.npmjs.com/package/hypernasa) - A theme which replaces the terminal background with NASA's Picture of the Day.
 * [hyperpanic](https://www.npmjs.com/package/hyperpanic) - Dark - A very pretty theme close to the Panic theme's colors. Dark blue background with very bright highlight colors.
 * [hyperpunk](https://www.npmjs.com/package/hyperpunk) - Hyper extension to make your terminal look Cyberpunk / Sci-fi.
+* [hyperatompunk](https://www.npmjs.com/package/hyperatompunk) - Hyper extension to make your terminal look like a CRT in Fallout.
+* [hyper-one-light](https://www.npmjs.com/package/hyper-one-light) - Light - A very cute theme with extra light background based on the [Atom One Light](https://github.com/atom/one-light-syntax) pallete.
+* [hyperterm-wp-theme](https://www.npmjs.com/package/hyperterm-wp-theme) - An adaptation of the popular JetBrains Darcula Theme with support for colored tabs.
+* [hyperterm-monokai](https://www.npmjs.com/package/hyperterm-monokai) - Dark - A port of the popular monokai theme. The colors are warm, relaxing and pleasing to the eyes.
+* [hyperterm-electron-highlighter](https://www.npmjs.com/package/hyperterm-electron-highlighter) - Dark - Port of Atom One Dark syntax colors with more vibrant colors.
+* [hyperterm-duotone-darkspace](https://www.npmjs.com/package/hyperterm-duotone-darkspace) - Dark/Orange - A beautiful dark theme inspired by [Duotone Themes](http://simurai.com/projects/2016/01/01/duotone-themes) by [Simurai](http://simurai.com/). More color variations can be found [here](https://www.npmjs.com/search?q=hyperterm-duotone-*).
+* [hyperambient](https://www.npmjs.com/package/hyperambient) – Dark/Light - A theme that reacts to ambient light changes.
+* [hyperterm-bold-tab](https://www.npmjs.com/package/hyperterm-bold-tab) - Bold's your active tab text. Makes keeping track of your current tab painless.
 * [hyperseti](https://www.npmjs.com/package/hyperseti) - Dark - It's a theme based on [Seti](https://github.com/jesseweed/seti-ui), a subtle dark colored UI theme for Atom.
 * [hypersolar-dark](https://www.npmjs.com/package/hypersolar-dark) - A dark theme based loosely on Solarized Dark, with a fix for the usual solarized dark colours with blacks that actually show up in your terminal!
 * [hyperterm-adventurous](https://www.npmjs.com/package/hyperterm-adventurous) - An adventure time inspired theme based on the Adventurous Atom theme.
