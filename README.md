@@ -198,27 +198,6 @@ Name and description | Downloads
 [hyperterm-wp-theme](https://www.npmjs.com/package/hyperterm-wp-theme) - An adaptation of the popular JetBrains Darcula Theme with support for colored tabs. | [![npm](https://img.shields.io/npm/dm/hyperterm-wp-theme.svg?label=DL)]()
 
 Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
-=======
-* [an-old-hype](https://www.npmjs.com/package/an-old-hype) - A Hyper theme inspired by a galaxy far far away... and by Jesse Leites [atom syntax theme](https://atom.io/themes/an-old-hope-syntax).
-* [hyper-atom-dark-transparent](https://www.npmjs.com/package/hyper-atom-dark-transparent) - Hyper theme based on the hyperterm-atom-dark, but with transparency.
-* [hyper-aww](https://www.npmjs.com/package/hyper-aww) - A theme that changes the terminal background to a different cute animal gif each time you open Hyper.
-* [hyper-ayu](https://www.npmjs.com/package/hyper-ayu) - Theme based on the Ayu Theme for Sublime Text.
-* [hyper-captain-sweetheart](https://www.npmjs.com/package/hyper-captain-sweetheart) - Tuff but sweet Hyper theme.
-* [hyper-chesterish](https://www.npmjs.com/package/hyper-chesterish) - Saturated theme based on Chester syntax.
-* [hyper-clean](https://www.npmjs.com/package/hyper-clean) - A clean theme with [IBM Design colors](https://github.com/IBM-Design/colors).
-* [hyper-criollo](https://www.npmjs.com/package/hyper-criollo) - Theme based in vaporwave colors.
-* [hyper-dark-dracula](https://www.npmjs.com/package/hyper-dark-dracula) - A dark dracula theme for Hyper on based [Dracula theme](https://github.com/dracula/dracula-theme).
-* [hyper-darkmatter](https://www.npmjs.com/package/hyper-darkmatter) - Dark - Darkmatter theme for Hyper, inspired by [Sublime Darkmatter](https://github.com/patrickemuller/Sublime-Darkmatter-Theme).
-* [hyper-flat-2](https://www.npmjs.com/package/hyper-flat-2) - Another Flat theme for Hyper based on Flat theme for Terminal.
-* [hyper-flat](https://www.npmjs.com/package/hyper-flat) - A Flat theme for Hyper.
-* [hyper-frontend-delight](https://www.npmjs.com/package/hyper-frontend-delight) - Dark - Based on Frontend Delight iTerm2 color scheme.
-* [hyper-hybrid-reduced-contrast](https://www.npmjs.com/package/hyper-hybrid-reduced-contrast) - A port of the reduced contrast version of [vim-hybrid](https://github.com/w0ng/vim-hybrid).
-* [hyper-macos](https://www.npmjs.com/package/hyper-macos) - Native macOS theme with vibrancy support.
-* [hyper-material-theme](https://www.npmjs.com/package/hyper-material-theme) - Dark - The most epic material theme now on Hyper App.
-* [hyper-materialshell](https://www.npmjs.com/package/hyper-materialshell) - A dark material design theme with a good contrast and color pops at the important parts. Designed to be easy on the eyes, based on [materialshell](https://github.com/carloscuesta/materialshell).
-* [hyper-midnight](https://www.npmjs.com/package/hyper-midnight) - A minimalist theme for the Hyper terminal.
-* [hyper-monochrome](https://www.npmjs.com/package/hyper-monochrome) - Monochrome theme, based on [vim-monochrome](https://github.com/fxn/vim-monochrome).
-* [hyper-nord](https://www.npmjs.com/package/hyper-nord) - Nord theme for Hyper.
 
 [⬆ Back to top](#contents)
 
