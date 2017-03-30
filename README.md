@@ -57,6 +57,7 @@ Name and description | Downloads
 [hyper-history](https://www.npmjs.com/package/hyper-history) - Show a list of history commands. | [![npm](https://img.shields.io/npm/dm/hyper-history.svg?label=DL)]()
 [hyper-alt-click](https://www.npmjs.com/package/hyper-alt-click) - Allows moving the cursor by alt+click'ing where you want it to go. | [![npm](https://img.shields.io/npm/dm/hyper-alt-click.svg?label=DL)]()
 [hyperterm-safepaste](https://www.npmjs.com/package/hyperterm-safepaste) - Edit your pastes before executing them. | [![npm](https://img.shields.io/npm/dm/hyperterm-safepaste.svg?label=DL)]()
+[hyper-copycat](https://www.npmjs.com/package/hyper-copycat) - Duplicate text input across all sessions in a tab. | [![npm](https://img.shields.io/npm/dm/hyper-copycat.svg?label=DL)]()
 
 [⬆ Back to top](#contents)
 
