@@ -20,10 +20,12 @@ Please ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion to `awesome-hyper`.
 - For Hyper **package** and **theme** names, please use the package name as published on npm, and as displayed in the URI of the package. 
   - As an example, the title of `https://www.npmjs.com/package/hyper-snazzy` would be `hyper-snazzy`
-- For new suggestions, use the following formatting `[hyper-plugin-name](link) - Your awesome description`
+- For new suggestions, use the following formatting `[hyper-plugin-name](link) - Your awesome description | [![npm](https://img.shields.io/npm/dm/hyper-plugin-name.svg?label=DL)]()`
   - As an example, here's how `hyper-snazzy` would be formatted:
-  - `[hyper-snazzy](https://www.npmjs.com/package/hyper-snazzy) - A super snazzy theme for Hyper, with muted off-neon colors.`
-- Link additions should be added to the **bottom** of the relevant category or sub-category.
+  - `[hyper-snazzy](https://www.npmjs.com/package/hyper-snazzy) - A super snazzy theme for Hyper, with muted off-neon colors. | [![npm](https://img.shields.io/npm/dm/hyper-snazzy.svg?label=DL)]()`
+- Link additions should be added to the **BOTTOM** or inserted according to the **ALPHABETICAL** order:
+  - If it's a plugin or resource, put your awesome item at the **BOTTOM** of the correct section.
+  - If it's a theme, insert it according to the **ALPHABETICAL** order.
 - New categories or improvements to the existing categorization are _always_ welcome.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
