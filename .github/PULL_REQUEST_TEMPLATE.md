@@ -13,3 +13,4 @@
   - If it's a plugin or resource, put your awesome item at the **BOTTOM** of the correct section.
   - If it's a theme, insert it according to the **ALPHABETICAL** order.
 - [ ] **Description:** I've written a short (one sentence) description for the addition in the README.md.
+- [ ] **Downloads:** I've added a download stats badge in the second column (`[![npm](https://img.shields.io/npm/dm/hyper-example.svg?label=DL)]()`)
