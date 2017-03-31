@@ -136,6 +136,7 @@ Name and description | Downloads
 [hyper-flat](https://www.npmjs.com/package/hyper-flat) - A Flat theme for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-flat.svg?label=DL)]()
 [hyper-frontend-delight](https://www.npmjs.com/package/hyper-frontend-delight) - Dark - Based on Frontend Delight iTerm2 color scheme. | [![npm](https://img.shields.io/npm/dm/hyper-frontend-delight.svg?label=DL)]()
 [hyper-hybrid-reduced-contrast](https://www.npmjs.com/package/hyper-hybrid-reduced-contrast) - A port of the reduced contrast version of [vim-hybrid](https://github.com/w0ng/vim-hybrid). | [![npm](https://img.shields.io/npm/dm/hyper-hybrid-reduced-contrast.svg?label=DL)]()
+[hyper-loved](https://www.npmjs.com/package/hyper-loved) - A dark, elegant theme. | [![npm](https://img.shields.io/npm/dm/hyper-loved.svg?label=DL)]()
 [hyper-macos](https://www.npmjs.com/package/hyper-macos) - Native macOS theme with vibrancy support. | [![npm](https://img.shields.io/npm/dm/hyper-macos.svg?label=DL)]()
 [hyper-material-theme](https://www.npmjs.com/package/hyper-material-theme) - Dark - The most epic material theme now on Hyper App. | [![npm](https://img.shields.io/npm/dm/hyper-material-theme.svg?label=DL)]()
 [hyper-materialshell](https://www.npmjs.com/package/hyper-materialshell) - A dark material design theme with a good contrast and color pops at the important parts. Designed to be easy on the eyes, based on [materialshell](https://github.com/carloscuesta/materialshell). | [![npm](https://img.shields.io/npm/dm/hyper-materialshell.svg?label=DL)]()
