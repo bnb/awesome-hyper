@@ -130,7 +130,7 @@ Name and description | Downloads
 [hyper-chesterish](https://www.npmjs.com/package/hyper-chesterish) - Saturated theme based on Chester syntax. | [![npm](https://img.shields.io/npm/dm/hyper-chesterish.svg?label=DL)]()
 [hyper-clean](https://www.npmjs.com/package/hyper-clean) - A clean theme with [IBM Design colors](https://github.com/IBM-Design/colors). | [![npm](https://img.shields.io/npm/dm/hyper-clean.svg?label=DL)]()
 [hyper-criollo](https://www.npmjs.com/package/hyper-criollo) - Theme based in vaporwave colors. | [![npm](https://img.shields.io/npm/dm/hyper-criollo.svg?label=DL)]()
-[hyper-dracula](https://www.npmjs.com/package/hyper-dracula) - A dark theme for Hyper on based [Dracula theme](https://draculatheme.com/hyper/). | [![npm](https://img.shields.io/npm/dm/hyper-dark-dracula.svg?label=DL)]()
+[hyper-dracula](https://www.npmjs.com/package/hyper-dracula) - A dark theme for Hyper on based [Dracula theme](https://draculatheme.com/hyper/). | [![npm](https://img.shields.io/npm/dm/hyper-dracula.svg?label=DL)]()
 [hyper-darkmatter](https://www.npmjs.com/package/hyper-darkmatter) - Dark - Darkmatter theme for Hyper, inspired by [Sublime Darkmatter](https://github.com/patrickemuller/Sublime-Darkmatter-Theme). | [![npm](https://img.shields.io/npm/dm/hyper-darkmatter.svg?label=DL)]()
 [hyper-flat-2](https://www.npmjs.com/package/hyper-flat-2) - Another Flat theme for Hyper based on Flat theme for Terminal. | [![npm](https://img.shields.io/npm/dm/hyper-flat-2.svg?label=DL)]()
 [hyper-flat](https://www.npmjs.com/package/hyper-flat) - A Flat theme for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-flat.svg?label=DL)]()
