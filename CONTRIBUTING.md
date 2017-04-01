@@ -9,7 +9,6 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 ## Table of Contents
 
 - [Adding to this list](#adding-to-this-list)
-- [Creating your own awesome list](#creating-your-own-awesome-list)
 - [Adding something to an awesome list](#adding-something-to-an-awesome-list)
 - [Updating your Pull Request](#updating-your-pull-request)
 
@@ -17,33 +16,31 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 Please ensure your pull request adheres to the following guidelines:
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
-- Make an individual pull request for each suggestion.
-- For Hyper **package** and **theme** names, plese use the title of package's name as is is published to npm, as displayed in the URI of the package. Example: Title of `https://www.npmjs.com/package/hyperterm-snazzy` would be `hyperterm-snazzy`
-- For Hyper **resources**, use [title-casing](http://titlecapitalization.com) (AP style).
-- Use the following format: `[List Name](link) - Your awesome description`
-- Link additions should be added to the bottom of the relevant category.
-- New categories or improvements to the existing categorization are welcome.
+- Search previous requests for additions to awesome-hyper before making a new one - your request may be a duplicate.
+- Make an individual pull request for each suggestion to `awesome-hyper`.
+- For Hyper **package** and **theme** names, please use the package name as published on npm, and as displayed in the URI of the package. 
+  - As an example, the title of `https://www.npmjs.com/package/hyper-snazzy` would be `hyper-snazzy`
+- For new suggestions, use the following formatting `[hyper-plugin-name](link) - Your awesome description | [![npm](https://img.shields.io/npm/dm/hyper-plugin-name.svg?label=DL)]()`
+  - As an example, here's how `hyper-snazzy` would be formatted:
+  - `[hyper-snazzy](https://www.npmjs.com/package/hyper-snazzy) - A super snazzy theme for Hyper, with muted off-neon colors. | [![npm](https://img.shields.io/npm/dm/hyper-snazzy.svg?label=DL)]()`
+- Link additions should be added to the **BOTTOM** or inserted according to the **ALPHABETICAL** order:
+  - If it's a plugin or resource, put your awesome item at the **BOTTOM** of the correct section.
+  - If it's a theme, insert it according to the **ALPHABETICAL** order.
+- New categories or improvements to the existing categorization are _always_ welcome.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a useful title.
-- The body of your commit message should contain a link to the repository.
 
-Thank you for your suggestions!
+Suggestions for ammendments to these guidelines are always welcome - feel free to submit an issue or pull request.
 
-## Creating your own awesome list
+## How to: Add a plugin, theme, or resource to awesome-hyper
 
-To create your own list, check out the [instructions](create-list.md).
+If you have something awesome to contribute to awesome-hyper list, this is how you can do it.
 
-## Adding something to an awesome list
+You'll need to have a GitHub account - you can [register here](https://github.com/join)!
 
-If you have something awesome to contribute to an awesome list, this is how you do it.
-
-You'll need a [GitHub account](https://github.com/join)!
-
-1. Access the awesome list's GitHub page. For example: https://github.com/sindresorhus/awesome
-2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
+1. Access awesome-hyper's GitHub page [here](https://github.com/awesome-hyper)
+2. Click on the `README.md` file: ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
 3. Now click on the edit icon. ![Step 3 - Click on Edit](https://cloud.githubusercontent.com/assets/170270/9402927/6506af22-480c-11e5-8c18-7ea823530099.png)
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
 5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
@@ -51,6 +48,6 @@ You'll need a [GitHub account](https://github.com/join)!
 
 ## Updating your Pull Request
 
-Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
+Sometimes, the maintainers of awesome-hyper will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-hyper list guidelines. We're always happy to help in any way we can.
 
 [Here](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.

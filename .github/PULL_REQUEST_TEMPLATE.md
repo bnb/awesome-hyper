@@ -1,11 +1,16 @@
 <!--- Provide a general summary of your changes in the Title above -->
 
-## Checklist for submitting an `awesome` plugin, theme, or resource:
-<!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
-<!--- More detailed instructions are in the CONTRIBUTING.md document - please read it if you have a question!-->
+## Checklist for submitting a resource to `awesome-hyper`:
+
+<!--- Go over all the following points, and put an `x` in all the boxes that have been completed. -->
+<!--- More detailed instructions are in the project's CONTRIBUTING.md - please read it if you have a question!-->
 <!--- If you're still unsure about any of these, don't hesitate to ask. We're here to help! -->
-- [ ] The title for my package or theme uses its npm title (`hyper-plugin-example`)
-- [ ] The link for my package or theme uses the npmjs.com link (https://www.npmjs.com/package/hyper-plugin-example)
-- [ ] There is a visual representation of what my plugin or theme does in the repo. (Plugin: screenshot or gif || Theme: screenshot of the theme applied to Hyper)
-- [ ] Put your awesome item at the **BOTTOM** of the correct (plugin, theme, or resource) list.
-- [ ] **VERY IMPORTANT:** I've written a short (one sentence) description for my package or theme as the description of the awesome plugin, theme, or resource in the README.md file I'm submitting in the PR.
+
+- [ ] **Title:** The title for the addition uses its npm title (`hyper-example`) or the resource's title.
+- [ ] **Link:** The link for the addition uses the npmjs.com link (`https://www.npmjs.com/package/hyper-example`) or the resource's full URI.
+- [ ] **Visual:** There is a visual representation of what the addition does in the addition's source repository.
+- [ ] **Location:** The awesome addition is at the **BOTTOM** of the correct category or sub-category.
+  - If it's a plugin or resource, put your awesome item at the **BOTTOM** of the correct section.
+  - If it's a theme, insert it according to the **ALPHABETICAL** order.
+- [ ] **Description:** I've written a short (one sentence) description for the addition in the README.md.
+- [ ] **Downloads:** I've added a download stats badge in the second column (`[![npm](https://img.shields.io/npm/dm/hyper-example.svg?label=DL)]()`)
