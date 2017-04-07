@@ -132,6 +132,7 @@ Name and description | Downloads
 [hyper-criollo](https://www.npmjs.com/package/hyper-criollo) - Theme based in vaporwave colors. | [![npm](https://img.shields.io/npm/dm/hyper-criollo.svg?label=DL)]()
 [hyper-darkmatter](https://www.npmjs.com/package/hyper-darkmatter) - Dark - Darkmatter theme for Hyper, inspired by [Sublime Darkmatter](https://github.com/patrickemuller/Sublime-Darkmatter-Theme). | [![npm](https://img.shields.io/npm/dm/hyper-darkmatter.svg?label=DL)]()
 [hyper-dracula](https://www.npmjs.com/package/hyper-dracula) - A dark theme for Hyper based on the [Dracula theme](https://draculatheme.com/hyper/). | [![npm](https://img.shields.io/npm/dm/hyper-dracula.svg?label=DL)]()
+[hyper-firewatch](https://www.npmjs.com/package/hyper-firewatch) - A dark Hyper theme inspired by Campo Santo's Firewatch video game. | [![npm](https://img.shields.io/npm/dm/hyper-firewatch.svg?label=DL)]()
 [hyper-flat-2](https://www.npmjs.com/package/hyper-flat-2) - Another Flat theme for Hyper based on Flat theme for Terminal. | [![npm](https://img.shields.io/npm/dm/hyper-flat-2.svg?label=DL)]()
 [hyper-flat](https://www.npmjs.com/package/hyper-flat) - A Flat theme for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-flat.svg?label=DL)]()
 [hyper-frontend-delight](https://www.npmjs.com/package/hyper-frontend-delight) - Dark - Based on Frontend Delight iTerm2 color scheme. | [![npm](https://img.shields.io/npm/dm/hyper-frontend-delight.svg?label=DL)]()
