@@ -59,6 +59,7 @@ Name and description | Downloads
 [hyperterm-safepaste](https://www.npmjs.com/package/hyperterm-safepaste) - Edit your pastes before executing them. | [![npm](https://img.shields.io/npm/dm/hyperterm-safepaste.svg?label=DL)]()
 [hyper-copycat](https://www.npmjs.com/package/hyper-copycat) - Duplicate text input across all sessions in a tab. | [![npm](https://img.shields.io/npm/dm/hyper-copycat.svg?label=DL)]()
 [hyper-broadcast](https://www.npmjs.com/package/hyper-broadcast) - Broadcast user inputs to multiple terms. | [![npm](https://img.shields.io/npm/dm/hyper-broadcast.svg?label=DL)]()
+[hyperdocs](https://www.npmjs.com/package/hyperdocs) - Get documentation pages right in your terminal. | [![npm](https://img.shields.io/npm/dm/hyperdocs.svg?label=DL)]()
 
 [⬆ Back to top](#contents)
 
