@@ -1,6 +1,9 @@
 language: ruby
 rvm: 2.2
-before_script: gem install awesome_bot
+before_script: 
+  - gem install awesome_bot
+  - gem install danger
+  - danger
 script: awesome_bot README.md --allow-dupe -w issues/new,shields
 notifications:
   email: false
