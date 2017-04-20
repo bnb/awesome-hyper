@@ -96,6 +96,7 @@ Name and description | Downloads
 [hyper-always-on-top](https://www.npmjs.com/package/hyper-always-on-top) - Add a menu item to keep application windows always on top. | [![npm](https://img.shields.io/npm/dm/hyper-always-on-top.svg?label=DL)]()
 [hyper-transparent-dynamic](https://www.npmjs.com/package/hyper-transparent-dynamic) - Dynamically set transparent background based on current theming. | [![npm](https://img.shields.io/npm/dm/hyper-transparent-dynamic.svg?label=DL)]()
 [hyper-vsplit-fix](https://www.npmjs.com/package/hyper-vsplit-fix) - Fixes the vertical split border height in Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-vsplit-fix.svg?label=DL)]()
+[hyper-hide-title](https://www.npmjs.com/package/hyper-hide-title) - Hide the window title when there is only one tab. | [![npm](https://img.shields.io/npm/dm/hyper-hide-title.svg?label=DL)]()
 
 [⬆ Back to top](#contents)
 
