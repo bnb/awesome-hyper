@@ -10,7 +10,7 @@
 
 **Check out the official [Hyper site](https://hyper.is), check out [Zeit](https://zeit.co), and their interesting Hosting product, [Now](https://zeit.co/now).**
 
-Want to add your awesome Hyper package, theme, or resource? [Create an issue](https://github.com/bnb/awesome-hyper/issues/new) or send a PR!
+Want to add your awesome Hyper package, theme, or resource? Make the change and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
 
 Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang), [@matheusfrndes](https://twitter.com/matheusfrndes), and [@iamstarkov](https://twitter.com/iamstarkov) on Twitter and say *hi*! 👋
 
