@@ -8,6 +8,7 @@
 
 - [ ] **Title:** The title for the addition uses its npm title (`hyper-example`) or the resource's title.
 - [ ] **Link:** The link for the addition uses the npmjs.com link (`https://www.npmjs.com/package/hyper-example`) or the resource's full URI.
+- [ ] **Repository:** The `package.json` file of the resource contains repository information.
 - [ ] **Visual:** There is a visual representation of what the addition does in the addition's source repository.
 - [ ] **Location:** The awesome addition is at the **BOTTOM** of the correct category or sub-category.
   - If it's a plugin or resource, put your awesome item at the **BOTTOM** of the correct section.
