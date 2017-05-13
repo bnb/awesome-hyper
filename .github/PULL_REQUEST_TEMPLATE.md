@@ -8,10 +8,10 @@
 
 - [ ] **Title:** The title for the addition uses its npm title (`hyper-example`) or the resource's title.
 - [ ] **Link:** The link for the addition uses the npmjs.com link (`https://www.npmjs.com/package/hyper-example`) or the resource's full URI.
-- [ ] **Repository:** The `package.json` file of the resource contains repository information.
-- [ ] **Visual:** There is a visual representation of what the addition does in the addition's source repository.
-- [ ] **Location:** The awesome addition is at the **BOTTOM** of the correct category or sub-category.
-  - If it's a plugin or resource, put your awesome item at the **BOTTOM** of the correct section.
-  - If it's a theme, insert it according to the **ALPHABETICAL** order.
-- [ ] **Description:** I've written a short (one sentence) description for the addition in the README.md.
+- [ ] **Repository:** The `package.json` file of the resource contains [repository information](https://docs.npmjs.com/files/package.json#repository).
+- [ ] **Visual:** There is a visual representation of what the addition does in its source repository.
+- [ ] **Location:** The awesome addition is in the correct category or sub-category.
+  - If it's a **plugin or resource**, put your awesome item at the **BOTTOM** of the correct section.
+  - If it's a **theme**, insert it according to the **ALPHABETICAL** order.
+- [ ] **Description:** I've written a short (one sentence) description for the addition in the `README.md`.
 - [ ] **Downloads:** I've added a download stats badge in the second column (`[![npm](https://img.shields.io/npm/dm/hyper-example.svg?label=DL)]()`)
