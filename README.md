@@ -60,6 +60,7 @@ Name and description | Downloads
 [hyper-copycat](https://www.npmjs.com/package/hyper-copycat) - Duplicate text input across all sessions in a tab. | [![npm](https://img.shields.io/npm/dm/hyper-copycat.svg?label=DL)]()
 [hyper-broadcast](https://www.npmjs.com/package/hyper-broadcast) - Broadcast user inputs to multiple terms. | [![npm](https://img.shields.io/npm/dm/hyper-broadcast.svg?label=DL)]()
 [hyperdocs](https://www.npmjs.com/package/hyperdocs) - Get documentation pages right in your terminal. | [![npm](https://img.shields.io/npm/dm/hyperdocs.svg?label=DL)]()
+[hyper-transparent](https://www.npmjs.com/package/hyper-transparent) - Easily set window transparency and vibrancy. | [![npm](https://img.shields.io/npm/dm/hyper-transparent.svg?label=DL)]()
 
 [⬆ Back to top](#contents)
 
