@@ -178,6 +178,7 @@ Name and description | Downloads
 [hyperhue](https://www.npmjs.com/package/hyperhue) – Dark/Rainbow - A theme that reacts to the colors of your Philips Hue lights. | [![npm](https://img.shields.io/npm/dm/hyperhue.svg?label=DL)]()
 [hypernasa](https://www.npmjs.com/package/hypernasa) - A theme which replaces the terminal background with NASA's Picture of the Day. | [![npm](https://img.shields.io/npm/dm/hypernasa.svg?label=DL)]()
 [hyperpanic](https://www.npmjs.com/package/hyperpanic) - Dark - A very pretty theme close to the Panic theme's colors. Dark blue background with very bright highlight colors. | [![npm](https://img.shields.io/npm/dm/hyperpanic.svg?label=DL)]()
+[hyperpaste](https://www.npmjs.com/package/hyperpaste) - [Toothpaste](https://github.com/imcatnoone/toothpaste) for your Hyper. | [![npm](https://img.shields.io/npm/dm/hyperpaste.svg?label=DL)]()
 [hyperpunk](https://www.npmjs.com/package/hyperpunk) - Hyper extension to make your terminal look Cyberpunk / Sci-fi. | [![npm](https://img.shields.io/npm/dm/hyperpunk.svg?label=DL)]()
 [hypersolar-dark](https://www.npmjs.com/package/hypersolar-dark) - A dark theme based loosely on Solarized Dark, with a fix for the usual solarized dark colours with blacks that actually show up in your terminal! | [![npm](https://img.shields.io/npm/dm/hypersolar-dark.svg?label=DL)]()
 [hyperterm-adventurous](https://www.npmjs.com/package/hyperterm-adventurous) - An adventure time inspired theme based on the Adventurous Atom theme. | [![npm](https://img.shields.io/npm/dm/hyperterm-adventurous.svg?label=DL)]()
