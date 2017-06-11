@@ -158,7 +158,7 @@ Name and description | Downloads
 [hyper-one-light](https://www.npmjs.com/package/hyper-one-light) - Light - A very cute theme with extra light background based on the [Atom One Light](https://github.com/atom/one-light-syntax) pallete. | [![npm](https://img.shields.io/npm/dm/hyper-one-light.svg?label=DL)]()
 [hyper-papercolor](https://www.npmjs.com/package/hyper-papercolor) - [PaperColor](https://github.com/NLKNguyen/papercolor-theme) theme for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-papercolor.svg?label=DL)]()
 [hyper-peacock](https://www.npmjs.com/package/hyper-peacock) - A Peacock theme for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-peacock.svg?label=DL)]()
-[hyper-pokemon](https://www.npmjs.com/package/hyper-pokemon) - Wondrous, tailor-made Pokémon themes for your Hyper terminal | [![npm](https://img.shields.io/npm/dm/hyper-pokemon.svg?label=DL)]()
+[hyper-pokemon](https://www.npmjs.com/package/hyper-pokemon) - Wondrous, tailor-made Pokémon themes for your Hyper terminal. | [![npm](https://img.shields.io/npm/dm/hyper-pokemon.svg?label=DL)]()
 [hyper-polarbear](https://www.npmjs.com/package/hyper-polarbear) - A beautiful white theme for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-polarbear.svg?label=DL)]()
 [hyper-ramda](https://www.npmjs.com/package/hyper-ramda) - Theme inspired by the RamdaJS REPL. | [![npm](https://img.shields.io/npm/dm/hyper-ramda.svg?label=DL)]()
 [hyper-seashells](https://www.npmjs.com/package/hyper-seashells) - A Hyper port of the [iTerm2 SeaShells](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/screenshots/sea_shells.png) color scheme. | [![npm](https://img.shields.io/npm/dm/hyper-seashells.svg?label=DL)]()
