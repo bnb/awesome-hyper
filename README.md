@@ -135,6 +135,7 @@ Name and description | Downloads
 [hyper-ayu](https://www.npmjs.com/package/hyper-ayu) - Theme based on the Ayu Theme for Sublime Text. | [![npm](https://img.shields.io/npm/dm/hyper-ayu.svg?label=DL)]()
 [hyper-ayu-light](https://www.npmjs.com/package/hyper-ayu-light) - Theme based on the Ayu Light Theme for Sublime Text. | [![npm](https://img.shields.io/npm/dm/hyper-ayu-light.svg?label=DL)]()
 [hyper-ayu-mirage](https://www.npmjs.com/package/hyper-ayu-mirage) - Theme based on the Ayu Mirage Theme for Sublime Text. | [![npm](https://img.shields.io/npm/dm/hyper-ayu-mirage.svg?label=DL)]()
+[hyper-bloody](https://www.npmjs.com/package/hyper-bloody) - An amazing dark theme with awesome vibrant colors. | [![npm](https://img.shields.io/npm/dm/hyper-bloody.svg?label=DL)]()
 [hyper-captain-sweetheart](https://www.npmjs.com/package/hyper-captain-sweetheart) - Tuff but sweet Hyper theme. | [![npm](https://img.shields.io/npm/dm/hyper-captain-sweetheart.svg?label=DL)]()
 [hyper-chesterish](https://www.npmjs.com/package/hyper-chesterish) - Saturated theme based on Chester syntax. | [![npm](https://img.shields.io/npm/dm/hyper-chesterish.svg?label=DL)]()
 [hyper-clean](https://www.npmjs.com/package/hyper-clean) - A clean theme with [IBM Design colors](https://github.com/IBM-Design/colors). | [![npm](https://img.shields.io/npm/dm/hyper-clean.svg?label=DL)]()
