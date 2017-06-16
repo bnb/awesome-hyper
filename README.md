@@ -101,6 +101,7 @@ Name and description | Downloads
 [hyper-hover-header](https://www.npmjs.com/package/hyper-hover-header) - Hidden header/title bar. Move the cursor to the top border of the window to have the header/title bar fade in. | [![npm](https://img.shields.io/npm/dm/hyper-hover-header.svg?label=DL)]()
 [hyper-transparent](https://www.npmjs.com/package/hyper-transparent) - [Hyper](https://hyper.is) plugin to easily set window transparency and vibrancy. | [![npm](https://img.shields.io/npm/dm/hyper-transparent.svg?label=DL)]()
 [hyper-spotify](https://www.npmjs.com/package/hyper-spotify) - Displays currently playing song on Spotify at the bottom of the terminal and allows you to control your favourite music. | [![npm](https://img.shields.io/npm/dm/hyper-spotify.svg?label=DL)]()
+[hyper-cat-cursor](https://www.npmjs.com/package/hyper-cat-cursor) - Replaces the cursor with a cat emoji sequence. | [![npm](https://img.shields.io/npm/dm/hyper-cat-cursor.svg?label=DL)]()
 
 [⬆ Back to top](#contents)
 
