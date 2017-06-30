@@ -61,6 +61,7 @@ Name and description | Downloads
 [hyper-broadcast](https://www.npmjs.com/package/hyper-broadcast) - Broadcast user inputs to multiple terms. | [![npm](https://img.shields.io/npm/dm/hyper-broadcast.svg?label=DL)]()
 [hyperdocs](https://www.npmjs.com/package/hyperdocs) - Get documentation pages right in your terminal. | [![npm](https://img.shields.io/npm/dm/hyperdocs.svg?label=DL)]()
 [hyper-search](https://www.npmjs.com/package/hyper-search) - Search text in your terminal. | [![npm](https://img.shields.io/npm/dm/hyper-search.svg?label=DL)]()
+[hypergoogle](https://www.npmjs.com/package/hypergoogle) - Search Google from your terminal. | [![npm](https://img.shields.io/npm/dm/hypergoogle.svg?label=DL)]()
 
 [⬆ Back to top](#contents)
 
