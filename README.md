@@ -125,6 +125,7 @@ Name and description | Downloads
 [hyper-command-gifs](https://www.npmjs.com/package/hyper-command-gifs) - Gives you matching GIFs for your terminal commands. | [![npm](https://img.shields.io/npm/dm/hyper-command-gifs.svg?label=DL)]()
 [hyper-cat](https://www.npmjs.com/package/hyper-cat) - Turn your terminal into nyan cat while typing. | [![npm](https://img.shields.io/npm/dm/hyper-cat.svg?label=DL)]()
 [hyper-cat-cursor](https://www.npmjs.com/package/hyper-cat-cursor) - Replaces the cursor with a cat emoji sequence. | [![npm](https://img.shields.io/npm/dm/hyper-cat-cursor.svg?label=DL)]()
+[gitrocket](https://www.npmjs.com/package/gitrocket) - Launch a rocket ship in your terminal when you push code with Git! | [![npm](https://img.shields.io/npm/dm/gitrocket.svg?label=DL)]()
 
 [⬆ Back to top](#contents)
 
