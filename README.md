@@ -135,6 +135,7 @@ Name and description | Downloads
 [an-old-hype](https://www.npmjs.com/package/an-old-hype) - A Hyper theme inspired by a galaxy far far away... and by Jesse Leites [atom syntax theme](https://atom.io/themes/an-old-hope-syntax). | [![npm](https://img.shields.io/npm/dm/an-old-hype.svg?label=DL)]()
 [hyper-adventure-time](https://www.npmjs.com/package/hyper-adventure-time) - A Hyper port of the Adventure Time theme from [iTerm2 Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes). | [![npm](https://img.shields.io/npm/dm/hyper-adventure-time.svg?label=DL)]()
 [hyper-atom-dark-transparent](https://www.npmjs.com/package/hyper-atom-dark-transparent) - Hyper theme based on the hyperterm-atom-dark, but with transparency. | [![npm](https://img.shields.io/npm/dm/hyper-atom-dark-transparent.svg?label=DL)]()
+[hyper-aurora](https://www.npmjs.com/package/hyper-aurora) - Theme based on Aurora Borealis. | [![npm](https://img.shields.io/npm/dm/hyper-aurora.svg?label=DL)]()
 [hyper-aww](https://www.npmjs.com/package/hyper-aww) - A theme that changes the terminal background to a different cute animal gif each time you open Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-aww.svg?label=DL)]()
 [hyper-ayu](https://www.npmjs.com/package/hyper-ayu) - Theme based on the Ayu Theme for Sublime Text. | [![npm](https://img.shields.io/npm/dm/hyper-ayu.svg?label=DL)]()
 [hyper-ayu-light](https://www.npmjs.com/package/hyper-ayu-light) - Theme based on the Ayu Light Theme for Sublime Text. | [![npm](https://img.shields.io/npm/dm/hyper-ayu-light.svg?label=DL)]()
