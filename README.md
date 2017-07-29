@@ -174,6 +174,7 @@ Name and description | Downloads
 [hyper-snazzy](https://www.npmjs.com/package/hyper-snazzy) - Dark - Elegant theme with bright colors. | [![npm](https://img.shields.io/npm/dm/hyper-snazzy.svg?label=DL)]()
 [hyper-solarized-dark](https://www.npmjs.com/package/hyper-solarized-dark) - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) palette. | [![npm](https://img.shields.io/npm/dm/hyper-solarized-dark.svg?label=DL)]()
 [hyper-solarized-light](https://www.npmjs.com/package/hyper-solarized-light) - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) palette. | [![npm](https://img.shields.io/npm/dm/hyper-solarized-light.svg?label=DL)]()
+[hyper-star-wars](https://www.npmjs.com/package/hyper-star-wars) - Super awesome, your Hyper terminal shall look. | [![npm](https://img.shields.io/npm/dm/hyper-star-wars.svg?label=DL)]()
 [hyper-thirtyone](https://www.npmjs.com/package/hyper-thirtyone) - A slightly modified classic linux terminal theme for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-thirtyone.svg?label=DL)]()
 [hyper-white-theme](https://www.npmjs.com/package/hyper-white-theme) - White & Purple theme for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-white-theme.svg?label=DL)]()
 [hyper-zenburn](https://www.npmjs.com/package/hyper-zenburn) - A classic low-contrast theme originally made for vim adapted for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-zenburn.svg?label=DL)]()
