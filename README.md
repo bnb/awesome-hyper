@@ -62,6 +62,8 @@ Name and description | Downloads
 [hyperdocs](https://www.npmjs.com/package/hyperdocs) - Get documentation pages right in your terminal. | [![npm](https://img.shields.io/npm/dm/hyperdocs.svg?label=DL)]()
 [hyper-search](https://www.npmjs.com/package/hyper-search) - Search text in your terminal. | [![npm](https://img.shields.io/npm/dm/hyper-search.svg?label=DL)]()
 [hypergoogle](https://www.npmjs.com/package/hypergoogle) - Search Google from your terminal. | [![npm](https://img.shields.io/npm/dm/hypergoogle.svg?label=DL)]()
+[hyper-quit](https://www.npmjs.com/package/hyper-quit) - Quit Hyper on macOS when last window closes. | [![npm](https://img.shields.io/npm/dm/hyper-quit.svg?label=DL)]()
+
 
 [⬆ Back to top](#contents)
 
