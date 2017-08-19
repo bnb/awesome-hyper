@@ -63,6 +63,7 @@ Name and description | Downloads
 [hyper-search](https://www.npmjs.com/package/hyper-search) - Search text in your terminal. | [![npm](https://img.shields.io/npm/dm/hyper-search.svg?label=DL)]()
 [hypergoogle](https://www.npmjs.com/package/hypergoogle) - Search Google from your terminal. | [![npm](https://img.shields.io/npm/dm/hypergoogle.svg?label=DL)]()
 [hyper-quit](https://www.npmjs.com/package/hyper-quit) - Quit Hyper on macOS when last window closes. | [![npm](https://img.shields.io/npm/dm/hyper-quit.svg?label=DL)]()
+[hyper-confirm](https://www.npmjs.com/package/hyper-confirm) - Displays a confirmation dialog before quitting Hyper | [![npm](https://img.shields.io/npm/dm/hyper-confirm.svg?label=DL)]()
 
 
 [⬆ Back to top](#contents)
