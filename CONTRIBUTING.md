@@ -18,11 +18,11 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Search previous requests for additions to awesome-hyper before making a new one - your request may be a duplicate.
 - Make an individual pull request for each suggestion to `awesome-hyper`.
-- For Hyper **package** and **theme** names, please use the package name as published on npm, and as displayed in the URI of the package. 
+- For Hyper **package** and **theme** names, please use the package name as published on npm, and as displayed in the URI of the package.
   - As an example, the title of `https://www.npmjs.com/package/hyper-snazzy` would be `hyper-snazzy`
-- For new suggestions, use the following formatting `[hyper-plugin-name](link) - Your awesome description | [![npm](https://img.shields.io/npm/dm/hyper-plugin-name.svg?label=DL)]()`
+- For new suggestions, use the following formatting `[hyper-plugin-name](link) - Your awesome description | [![npm](https://img.shields.io/npm/dm/hyper-plugin-name.svg?label=DL)](link)`
   - As an example, here's how `hyper-snazzy` would be formatted:
-  - `[hyper-snazzy](https://www.npmjs.com/package/hyper-snazzy) - A super snazzy theme for Hyper, with muted off-neon colors. | [![npm](https://img.shields.io/npm/dm/hyper-snazzy.svg?label=DL)]()`
+  - `[hyper-snazzy](https://www.npmjs.com/package/hyper-snazzy) - A super snazzy theme for Hyper, with muted off-neon colors. | [![npm](https://img.shields.io/npm/dm/hyper-snazzy.svg?label=DL)](https://www.npmjs.com/package/hyper-snazzy)`
 - Link additions should be added to the **BOTTOM** or inserted according to the **ALPHABETICAL** order:
   - If it's a plugin or resource, put your awesome item at the **BOTTOM** of the correct section.
   - If it's a theme, insert it according to the **ALPHABETICAL** order.
