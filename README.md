@@ -107,6 +107,7 @@ Name and description | Downloads
 [hyper-spotify](https://www.npmjs.com/package/hyper-spotify) - Displays currently playing song on Spotify at the bottom of the terminal and allows you to control your favourite music. | [![npm](https://img.shields.io/npm/dm/hyper-spotify.svg?label=DL)](https://www.npmjs.com/package/hyper-spotify)
 [hyper-background](https://www.npmjs.com/package/hyper-background) - Change the background of your Hyper terminal! | [![npm](https://img.shields.io/npm/dm/hyper-background.svg?label=DL)](https://www.npmjs.com/package/hyper-background)
 [hyper-vertical-tabs](https://www.npmjs.com/package/hyper-vertical-tabs) - Put the tabs on a sidebar to the left, as is possible in iTerm2 and ROXTerm. | [![npm](https://img.shields.io/npm/dm/hyper-vertical-tabs.svg?label=DL)](https://www.npmjs.com/package/hyper-vertical-tabs)
+[themer](https://www.npmjs.com/package/themer) - Generate themes for Hyper and all your other development tools | [![npm](https://img.shields.io/npm/dm/themer.svg?label=DL)](https://www.npmjs.com/package/themer)
 
 [⬆ Back to top](#contents)
 
