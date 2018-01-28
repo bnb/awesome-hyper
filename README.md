@@ -229,10 +229,10 @@ Name and description | Downloads
 [hyperterm-sourcerer](https://www.npmjs.com/package/hyperterm-sourcerer) - A 16-bit dark theme based on [xero/sourcerer](https://github.com/xero/sourcerer). | [![npm](https://img.shields.io/npm/dm/hyperterm-sourcerer.svg?label=DL)](https://www.npmjs.com/package/hyperterm-sourcerer)
 [hyperterm-spacegray](https://www.npmjs.com/package/hyperterm-spacegray) - Port of the popular Spacegray theme, optimized for terminal usage. | [![npm](https://img.shields.io/npm/dm/hyperterm-spacegray.svg?label=DL)](https://www.npmjs.com/package/hyperterm-spacegray)
 [hyperterm-tomorrow-night](https://www.npmjs.com/package/hyperterm-tomorrow-night) - Dark - Port of the popular Tomorrow Night theme. | [![npm](https://img.shields.io/npm/dm/hyperterm-tomorrow-night.svg?label=DL)](https://www.npmjs.com/package/hyperterm-tomorrow-night)
+[hyperterm-ubuntu-theme](https://www.npmjs.com/package/hyperterm-ubuntu-theme) - Ubuntu-style theme. | [![npm](https://img.shields.io/npm/dm/hyperterm-ubuntu-them.svg?label=DL)](https://www.npmjs.com/package/hyperterm-ubuntu-theme)
 [hyperterm-unlease](https://www.npmjs.com/package/hyperterm-unlease) - A fresh theme for Hyper that makes you feel like there's one of those pine tree car air fresheners hanging from your terminal. | [![npm](https://img.shields.io/npm/dm/hyperterm-unlease.svg?label=DL)](https://www.npmjs.com/package/hyperterm-unlease)
 [hyperterm-wp-theme](https://www.npmjs.com/package/hyperterm-wp-theme) - An adaptation of the popular JetBrains Darcula Theme with support for colored tabs. | [![npm](https://img.shields.io/npm/dm/hyperterm-wp-theme.svg?label=DL)](https://www.npmjs.com/package/hyperterm-wp-theme)
 [verminal](https://www.npmjs.com/package/verminal) - A dark Hyper theme with beautiful vibrancy. | [![npm](https://img.shields.io/npm/dm/verminal.svg?label=DL)](https://www.npmjs.com/package/verminal)
-[hyperterm-ubuntu-theme](https://www.npmjs.com/package/hyperterm-ubuntu-theme) - Ubuntu-style theme. | [![npm](https://img.shields.io/npm/dm/hyperterm-ubuntu-them.svg?label=DL)](https://www.npmjs.com/package/hyperterm-ubuntu-theme)
 
 Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
