@@ -133,6 +133,7 @@ Name and description | Downloads
 [hyper-cat](https://www.npmjs.com/package/hyper-cat) - Turn your terminal into nyan cat while typing. | [![npm](https://img.shields.io/npm/dm/hyper-cat.svg?label=DL)](https://www.npmjs.com/package/hyper-cat)
 [hyper-cat-cursor](https://www.npmjs.com/package/hyper-cat-cursor) - Replaces the cursor with a cat emoji sequence. | [![npm](https://img.shields.io/npm/dm/hyper-cat-cursor.svg?label=DL)](https://www.npmjs.com/package/hyper-cat-cursor)
 [gitrocket](https://www.npmjs.com/package/gitrocket) - Launch a rocket ship in your terminal when you push code with Git! | [![npm](https://img.shields.io/npm/dm/gitrocket.svg?label=DL)](https://www.npmjs.com/package/gitrocket)
+[hypergravity](https://www.npmjs.com/package/hypergravity) - Add some fancy physics to your terminal! | [![npm](https://img.shields.io/npm/dm/hypergravity.svg?label=DL)](link)
 
 [⬆ Back to top](#contents)
 
