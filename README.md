@@ -65,6 +65,7 @@ Name and description | Downloads
 [hyper-quit](https://www.npmjs.com/package/hyper-quit) - Quit Hyper on macOS when last window closes. | [![npm](https://img.shields.io/npm/dm/hyper-quit.svg?label=DL)](https://www.npmjs.com/package/hyper-quit)
 [hyper-confirm](https://www.npmjs.com/package/hyper-confirm) - Displays a confirmation dialog before quitting Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-confirm.svg?label=DL)](https://www.npmjs.com/package/hyper-confirm)
 [hyper-match](https://www.npmjs.com/package/hyper-match) - Links patterns such as urls, emails and file paths to configured commands. | [![npm](https://img.shields.io/npm/dm/hyper-match.svg?label=DL)](https://www.npmjs.com/package/hyper-match)
+[hyperterm-savetext](https://www.npmjs.com/package/hyperterm-savetext) - Export/save text to file from your terminal. | [![npm](https://img.shields.io/npm/dm/hyperterm-savetext.svg?label=DL)](https://www.npmjs.com/package/hyperterm-savetext)
 
 [⬆ Back to top](#contents)
 
