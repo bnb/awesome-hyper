@@ -110,6 +110,7 @@ Name and description | Downloads
 [hyper-vertical-tabs](https://www.npmjs.com/package/hyper-vertical-tabs) - Put the tabs on a sidebar to the left, as is possible in iTerm2 and ROXTerm. | [![npm](https://img.shields.io/npm/dm/hyper-vertical-tabs.svg?label=DL)](https://www.npmjs.com/package/hyper-vertical-tabs)
 [themer](https://www.npmjs.com/package/themer) - Generate themes for Hyper and all your other development tools | [![npm](https://img.shields.io/npm/dm/themer.svg?label=DL)](https://www.npmjs.com/package/themer)
 [hyper-native-window-decoration](https://www.npmjs.com/package/hyper-native-window-decoration) - Native window decorations in HyperTerm. | [![npm](https://img.shields.io/npm/dm/hyper-native-window-decoration.svg?label=DL)](https://www.npmjs.com/package/hyper-native-window-decoration)
+[hyper-opacity](https://www.npmjs.com/package/hyper-opacity) - Set the opacity of your Hyper window. | [![npm](https://img.shields.io/npm/dm/hyper-opacity.svg?label=DL)](https://www.npmjs.com/package/hyper-opacity)
 
 [⬆ Back to top](#contents)
 
