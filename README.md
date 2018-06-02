@@ -112,6 +112,7 @@ Name and description | Downloads
 [hyper-native-window-decoration](https://www.npmjs.com/package/hyper-native-window-decoration) - Native window decorations in HyperTerm. | [![npm](https://img.shields.io/npm/dm/hyper-native-window-decoration.svg?label=DL)](https://www.npmjs.com/package/hyper-native-window-decoration)
 [hyper-hide-scroll](https://www.npmjs.com/package/hyper-hide-scroll) - Extension to hide the scrollbar from your terminal. | [![npm](https://img.shields.io/npm/dm/hyper-hide-scroll.svg?label=DL)](https://www.npmjs.com/package/hyper-hide-scroll)
 [hyper-systray](https://www.npmjs.com/package/hyper-systray) - Hyper in native Windows Systray. Hide from taskbar. Global shortcut for show/hide window. | [![npm](https://img.shields.io/npm/dm/hyper-systray.svg?label=DL)](https://www.npmjs.com/package/hyper-systray)
+[hyper-folder-icon](https://www.npmjs.com/package/hyper-folder-icon) - Show custom folder's icon for Mac and Linux in tabs. | [![npm](https://img.shields.io/npm/dm/hyper-folder-icon.svg?label=DL)](https://www.npmjs.com/package/hyper-folder-icon)
 
 [⬆ Back to top](#contents)
 
@@ -193,7 +194,7 @@ Name and description | Downloads
 [hyper-solarized-light](https://www.npmjs.com/package/hyper-solarized-light) - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) palette. | [![npm](https://img.shields.io/npm/dm/hyper-solarized-light.svg?label=DL)](https://www.npmjs.com/package/hyper-solarized-light)
 [hyper-star-wars](https://www.npmjs.com/package/hyper-star-wars) - Super awesome, your Hyper terminal shall look. | [![npm](https://img.shields.io/npm/dm/hyper-star-wars.svg?label=DL)](https://www.npmjs.com/package/hyper-star-wars)
 [hyper-teatime](https://www.npmjs.com/package/hyper-teatime) - Light theme with sweet, pastel colors. | [![npm](https://img.shields.io/npm/dm/hyper-teatime.svg?label=DL)](https://www.npmjs.com/package/hyper-teatime)
-[hyper-theme](https://www.npmjs.com/package/hyper-theme) - Hyper colors theme for Hyper terminal. | [![npm](https://img.shields.io/npm/dm/hyper-theme.svg?label=DL)](https://www.npmjs.com/package/hyper-theme) 
+[hyper-theme](https://www.npmjs.com/package/hyper-theme) - Hyper colors theme for Hyper terminal. | [![npm](https://img.shields.io/npm/dm/hyper-theme.svg?label=DL)](https://www.npmjs.com/package/hyper-theme)
 [hyper-thirtyone](https://www.npmjs.com/package/hyper-thirtyone) - A slightly modified classic linux terminal theme for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-thirtyone.svg?label=DL)](https://www.npmjs.com/package/hyper-thirtyone)
 [hyper-white-theme](https://www.npmjs.com/package/hyper-white-theme) - White & Purple theme for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-white-theme.svg?label=DL)](https://www.npmjs.com/package/hyper-white-theme)
 [hyper-zenburn](https://www.npmjs.com/package/hyper-zenburn) - A classic low-contrast theme originally made for vim adapted for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-zenburn.svg?label=DL)](https://www.npmjs.com/package/hyper-zenburn)
