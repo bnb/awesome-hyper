@@ -113,6 +113,7 @@ Name and description | Downloads
 [hyper-hide-scroll](https://www.npmjs.com/package/hyper-hide-scroll) - Extension to hide the scrollbar from your terminal. | [![npm](https://img.shields.io/npm/dm/hyper-hide-scroll.svg?label=DL)](https://www.npmjs.com/package/hyper-hide-scroll)
 [hyper-systray](https://www.npmjs.com/package/hyper-systray) - Hyper in native Windows Systray. Hide from taskbar. Global shortcut for show/hide window. | [![npm](https://img.shields.io/npm/dm/hyper-systray.svg?label=DL)](https://www.npmjs.com/package/hyper-systray)
 [hyper-folder-icon](https://www.npmjs.com/package/hyper-folder-icon) - Show custom folder's icon for Mac and Linux in tabs. | [![npm](https://img.shields.io/npm/dm/hyper-folder-icon.svg?label=DL)](https://www.npmjs.com/package/hyper-folder-icon)
+[hyper-tab-touchbar](https://www.npmjs.com/package/hyper-tab-touchbar) - See and access your terminal's tabs from the Macbook's Pro Touchbar; Supports icons with hyper-folder-icon | [![npm](https://img.shields.io/npm/dm/hyper-tab-touchbar.svg?label=DL)](https://www.npmjs.com/package/hyper-tab-touchbar)
 
 [⬆ Back to top](#contents)
 
