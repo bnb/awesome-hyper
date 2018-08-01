@@ -37,6 +37,7 @@ Know of another Hyper package? [Help add it!](https://github.com/bnb/awesome-hyp
 
 Name and description | Downloads
 -------------------- | -------------
+[hyperalfred](https://www.npmjs.com/package/hyperalfred) - Open Hyper from Alfred 3 | [![npm](https://img.shields.io/npm/dm/hyperalfred.svg?label=DL)](https://www.npmjs.com/package/hyperalfred)
 [hyperline](https://www.npmjs.com/package/hyperline) - A status line at the bottom of your Hyper! | [![npm](https://img.shields.io/npm/dm/hyperline.svg?label=DL)](https://www.npmjs.com/package/hyperline)
 [hypercwd](https://www.npmjs.com/package/hypercwd) - Open new tabs with the same directory as your current tab. | [![npm](https://img.shields.io/npm/dm/hypercwd.svg?label=DL)](https://www.npmjs.com/package/hypercwd)
 [hyperterm-1password](https://www.npmjs.com/package/hyperterm-1password) - Integration with 1Password (password manager). | [![npm](https://img.shields.io/npm/dm/hyperterm-1password.svg?label=DL)](https://www.npmjs.com/package/hyperterm-1password)
