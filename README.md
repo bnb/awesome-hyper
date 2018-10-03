@@ -72,7 +72,6 @@ Name and description | Downloads
 
 Name and description | Downloads
 -------------------- | -------------
-[hpm-cli](https://www.npmjs.com/package/hpm-cli) - A plugin manager for Hyper. | [![npm](https://img.shields.io/npm/dm/hpm-cli.svg?label=DL)](https://www.npmjs.com/package/hpm-cli)
 [hypertheme](https://www.npmjs.com/package/hypertheme) - A theme manager for Hyper, published right off the bat. You should import your favorite text editor or terminal theme and [add it to awesome-hyper](https://github.com/bnb/awesome-hyper/issues/new)! | [![npm](https://img.shields.io/npm/dm/hypertheme.svg?label=DL)](https://www.npmjs.com/package/hypertheme)
 [hyper-blink](https://www.npmjs.com/package/hyper-blink) - Make your cursor blink. | [![npm](https://img.shields.io/npm/dm/hyper-blink.svg?label=DL)](https://www.npmjs.com/package/hyper-blink)
 [hyperborder](https://www.npmjs.com/package/hyperborder) - Add a gradient border with the same colors as in the Hyper logo. | [![npm](https://img.shields.io/npm/dm/hyperborder.svg?label=DL)](https://www.npmjs.com/package/hyperborder)
