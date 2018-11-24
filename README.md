@@ -66,7 +66,7 @@ Name and description | Downloads
 [hyper-match](https://www.npmjs.com/package/hyper-match) - Links patterns such as urls, emails and file paths to configured commands. | [![npm](https://img.shields.io/npm/dm/hyper-match.svg?label=DL)](https://www.npmjs.com/package/hyper-match)
 [hyper-visual](https://www.npmjs.com/package/hyper-visual) - CLI commands from the history and the context now listed in a clickable GUI. | [![npm](https://img.shields.io/npm/dm/hyper-visual.svg?label=DL)](https://www.npmjs.com/package/hyper-visual)
 [hyper-init](https://www.npmjs.com/package/hyper-init) - The ultimate and most complete extension to initialize commands before and after Hyper terminal starts. | [![npm](https://img.shields.io/npm/dm/hyper-init.svg?label=DL)](https://www.npmjs.com/package/hyper-init)
-
+[hyper-gcp-status-line](https://www.npmjs.com/package/hyper-gcp-status-line) - Status line showing the locally configured GCP project, GCE zone, and Kubernetes context, as well as current Google Cloud availability. | [![npm](https://img.shields.io/npm/dm/hyper-gcp-status-line.svg?label=DL)](https://www.npmjs.com/package/hyper-gcp-status-line)
 
 [⬆ Back to top](#contents)
 
