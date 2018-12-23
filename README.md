@@ -39,12 +39,10 @@ Name and description | Downloads
 -------------------- | -------------
 [hyperline](https://www.npmjs.com/package/hyperline) - A status line at the bottom of your Hyper! | [![npm](https://img.shields.io/npm/dm/hyperline.svg?label=DL)](https://www.npmjs.com/package/hyperline)
 [hypercwd](https://www.npmjs.com/package/hypercwd) - Open new tabs with the same directory as your current tab. | [![npm](https://img.shields.io/npm/dm/hypercwd.svg?label=DL)](https://www.npmjs.com/package/hypercwd)
-[hyperterm-1password](https://www.npmjs.com/package/hyperterm-1password) - Integration with 1Password (password manager). | [![npm](https://img.shields.io/npm/dm/hyperterm-1password.svg?label=DL)](https://www.npmjs.com/package/hyperterm-1password)
 [hyperterm-visor](https://www.npmjs.com/package/hyperterm-visor) - Show/hide your Hyper terminal with a global hotkey & more. | [![npm](https://img.shields.io/npm/dm/hyperterm-visor.svg?label=DL)](https://www.npmjs.com/package/hyperterm-visor)
 [hyper-sync-settings](https://www.npmjs.com/package/hyper-sync-settings) - Easy way to backup and restore Hyper settings to Github. | [![npm](https://img.shields.io/npm/dm/hyper-sync-settings.svg?label=DL)](https://www.npmjs.com/package/hyper-sync-settings)
 [hyperterm-summon](https://www.npmjs.com/package/hyperterm-summon) - Summon your Hyper windows with a system-wide hotkey. | [![npm](https://img.shields.io/npm/dm/hyperterm-summon.svg?label=DL)](https://www.npmjs.com/package/hyperterm-summon)
 [hyperterm-paste](https://www.npmjs.com/package/hyperterm-paste) - Pasting into terminal made safe and easy. | [![npm](https://img.shields.io/npm/dm/hyperterm-paste.svg?label=DL)](https://www.npmjs.com/package/hyperterm-paste)
-[hyperterm-alternatescroll](https://www.npmjs.com/package/hyperterm-alternatescroll) - Mousewheel/trackpad scrolling for alternate screen (less, git log, nano, etc...). | [![npm](https://img.shields.io/npm/dm/hyperterm-alternatescroll.svg?label=DL)](https://www.npmjs.com/package/hyperterm-alternatescroll)
 [hyperterm-lastpass](https://www.npmjs.com/package/hyperterm-lastpass) - LastPass plugin for autofilling passwords in Hyper. | [![npm](https://img.shields.io/npm/dm/hyperterm-lastpass.svg?label=DL)](https://www.npmjs.com/package/hyperterm-lastpass)
 [hyperterm-dibdabs](https://www.npmjs.com/package/hyperterm-dibdabs) - Unique colored dot on the left of the tab is added for quick identification of commonly used tabs based on its title. | [![npm](https://img.shields.io/npm/dm/hyperterm-dibdabs.svg?label=DL)](https://www.npmjs.com/package/hyperterm-dibdabs)
 [hyperterm-tabs](https://www.npmjs.com/package/hyperterm-tabs) - Rearrange tabs by drag&dropping them. | [![npm](https://img.shields.io/npm/dm/hyperterm-tabs.svg?label=DL)](https://www.npmjs.com/package/hyperterm-tabs)
@@ -65,6 +63,9 @@ Name and description | Downloads
 [hyper-quit](https://www.npmjs.com/package/hyper-quit) - Quit Hyper on macOS when last window closes. | [![npm](https://img.shields.io/npm/dm/hyper-quit.svg?label=DL)](https://www.npmjs.com/package/hyper-quit)
 [hyper-confirm](https://www.npmjs.com/package/hyper-confirm) - Displays a confirmation dialog before quitting Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-confirm.svg?label=DL)](https://www.npmjs.com/package/hyper-confirm)
 [hyper-match](https://www.npmjs.com/package/hyper-match) - Links patterns such as urls, emails and file paths to configured commands. | [![npm](https://img.shields.io/npm/dm/hyper-match.svg?label=DL)](https://www.npmjs.com/package/hyper-match)
+[hyper-visual](https://www.npmjs.com/package/hyper-visual) - CLI commands from the history and the context now listed in a clickable GUI. | [![npm](https://img.shields.io/npm/dm/hyper-visual.svg?label=DL)](https://www.npmjs.com/package/hyper-visual)
+[hyper-init](https://www.npmjs.com/package/hyper-init) - The ultimate and most complete extension to initialize commands before and after Hyper terminal starts. | [![npm](https://img.shields.io/npm/dm/hyper-init.svg?label=DL)](https://www.npmjs.com/package/hyper-init)
+
 
 [⬆ Back to top](#contents)
 
@@ -72,7 +73,6 @@ Name and description | Downloads
 
 Name and description | Downloads
 -------------------- | -------------
-[hpm-cli](https://www.npmjs.com/package/hpm-cli) - A plugin manager for Hyper. | [![npm](https://img.shields.io/npm/dm/hpm-cli.svg?label=DL)](https://www.npmjs.com/package/hpm-cli)
 [hypertheme](https://www.npmjs.com/package/hypertheme) - A theme manager for Hyper, published right off the bat. You should import your favorite text editor or terminal theme and [add it to awesome-hyper](https://github.com/bnb/awesome-hyper/issues/new)! | [![npm](https://img.shields.io/npm/dm/hypertheme.svg?label=DL)](https://www.npmjs.com/package/hypertheme)
 [hyper-blink](https://www.npmjs.com/package/hyper-blink) - Make your cursor blink. | [![npm](https://img.shields.io/npm/dm/hyper-blink.svg?label=DL)](https://www.npmjs.com/package/hyper-blink)
 [hyperborder](https://www.npmjs.com/package/hyperborder) - Add a gradient border with the same colors as in the Hyper logo. | [![npm](https://img.shields.io/npm/dm/hyperborder.svg?label=DL)](https://www.npmjs.com/package/hyperborder)
@@ -112,6 +112,7 @@ Name and description | Downloads
 [hyper-native-window-decoration](https://www.npmjs.com/package/hyper-native-window-decoration) - Native window decorations in HyperTerm. | [![npm](https://img.shields.io/npm/dm/hyper-native-window-decoration.svg?label=DL)](https://www.npmjs.com/package/hyper-native-window-decoration)
 [hyper-hide-scroll](https://www.npmjs.com/package/hyper-hide-scroll) - Extension to hide the scrollbar from your terminal. | [![npm](https://img.shields.io/npm/dm/hyper-hide-scroll.svg?label=DL)](https://www.npmjs.com/package/hyper-hide-scroll)
 [hyper-systray](https://www.npmjs.com/package/hyper-systray) - Hyper in native Windows Systray. Hide from taskbar. Global shortcut for show/hide window. | [![npm](https://img.shields.io/npm/dm/hyper-systray.svg?label=DL)](https://www.npmjs.com/package/hyper-systray)
+[hyper-window-size](https://www.npmjs.com/package/hyper-window-size) - Set the default window size for Hyper! | [![npm](https://img.shields.io/npm/dm/hyper-window-size.svg?label=DL)](https://www.npmjs.com/package/hyper-window-size)
 [hyper-media-control](https://www.npmjs.com/package/hyper-media-control) - Display and control the current song in a variety of media players. | [![npm](https://img.shields.io/npm/dm/hyper-media-control.svg?label=DL)](https://npmjs.com/package/hyper-media-control)
 
 [⬆ Back to top](#contents)
@@ -148,6 +149,7 @@ Name and description | Downloads
 -------------------- | -------------
 [an-old-hype](https://www.npmjs.com/package/an-old-hype) - A Hyper theme inspired by a galaxy far far away... and by Jesse Leites [atom syntax theme](https://atom.io/themes/an-old-hope-syntax). | [![npm](https://img.shields.io/npm/dm/an-old-hype.svg?label=DL)](https://www.npmjs.com/package/an-old-hype)
 [hyper-adventure-time](https://www.npmjs.com/package/hyper-adventure-time) - A Hyper port of the Adventure Time theme from [iTerm2 Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes). | [![npm](https://img.shields.io/npm/dm/hyper-adventure-time.svg?label=DL)](https://www.npmjs.com/package/hyper-adventure-time)
+[hyper-altair](https://www.npmjs.com/package/hyper-altair) - A theme that is a elegant, customizable and has vivid colors. | [![npm](https://img.shields.io/npm/dm/hyper-altair.svg?label=DL)](https://www.npmjs.com/package/hyper-altair)
 [hyper-atom-dark-transparent](https://www.npmjs.com/package/hyper-atom-dark-transparent) - Hyper theme based on the hyperterm-atom-dark, but with transparency. | [![npm](https://img.shields.io/npm/dm/hyper-atom-dark-transparent.svg?label=DL)](https://www.npmjs.com/package/hyper-atom-dark-transparent)
 [hyper-aurora](https://www.npmjs.com/package/hyper-aurora) - Theme based on Aurora Borealis. | [![npm](https://img.shields.io/npm/dm/hyper-aurora.svg?label=DL)](https://www.npmjs.com/package/hyper-aurora)
 [hyper-aww](https://www.npmjs.com/package/hyper-aww) - A theme that changes the terminal background to a different cute animal gif each time you open Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-aww.svg?label=DL)](https://www.npmjs.com/package/hyper-aww)
@@ -165,6 +167,7 @@ Name and description | Downloads
 [hyper-flat-2](https://www.npmjs.com/package/hyper-flat-2) - Another Flat theme for Hyper based on Flat theme for Terminal. | [![npm](https://img.shields.io/npm/dm/hyper-flat-2.svg?label=DL)](https://www.npmjs.com/package/hyper-flat-2)
 [hyper-flat](https://www.npmjs.com/package/hyper-flat) - A Flat theme for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-flat.svg?label=DL)](https://www.npmjs.com/package/hyper-flat)
 [hyper-frontend-delight](https://www.npmjs.com/package/hyper-frontend-delight) - Dark - Based on Frontend Delight iTerm2 color scheme. | [![npm](https://img.shields.io/npm/dm/hyper-frontend-delight.svg?label=DL)](https://www.npmjs.com/package/hyper-frontend-delight)
+[hyper-gruv](https://www.npmjs.com/package/hyper-gruv) - Dark - Gruvbox Theme based off of [gruvbox](https://github.com/morhetz/gruvbox). | [![npm](https://img.shields.io/npm/dm/hyper-gruv.svg?label=DL)](https://www.npmjs.com/package/hyper-gruv)
 [hyper-hybrid-reduced-contrast](https://www.npmjs.com/package/hyper-hybrid-reduced-contrast) - A port of the reduced contrast version of [vim-hybrid](https://github.com/w0ng/vim-hybrid). | [![npm](https://img.shields.io/npm/dm/hyper-hybrid-reduced-contrast.svg?label=DL)](https://www.npmjs.com/package/hyper-hybrid-reduced-contrast)
 [hyper-loved](https://www.npmjs.com/package/hyper-loved) - A dark, elegant theme. | [![npm](https://img.shields.io/npm/dm/hyper-loved.svg?label=DL)](https://www.npmjs.com/package/hyper-loved)
 [hyper-macos](https://www.npmjs.com/package/hyper-macos) - Native macOS theme with vibrancy support. | [![npm](https://img.shields.io/npm/dm/hyper-macos.svg?label=DL)](https://www.npmjs.com/package/hyper-macos)
@@ -190,8 +193,8 @@ Name and description | Downloads
 [hyper-sierra-vibrancy](https://www.npmjs.com/package/hyper-sierra-vibrancy) - hyper-sierra with vibrancy. | [![npm](https://img.shields.io/npm/dm/hyper-sierra-vibrancy.svg?label=DL)](https://www.npmjs.com/package/hyper-sierra-vibrancy)
 [hyper-sierra](https://www.npmjs.com/package/hyper-sierra) - A dark theme for Hyper inspired by the Sierra Nevada. | [![npm](https://img.shields.io/npm/dm/hyper-sierra.svg?label=DL)](https://www.npmjs.com/package/hyper-sierra)
 [hyper-snazzy](https://www.npmjs.com/package/hyper-snazzy) - Dark - Elegant theme with bright colors. | [![npm](https://img.shields.io/npm/dm/hyper-snazzy.svg?label=DL)](https://www.npmjs.com/package/hyper-snazzy)
-[hyper-solarized-dark](https://www.npmjs.com/package/hyper-solarized-dark) - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) palette. | [![npm](https://img.shields.io/npm/dm/hyper-solarized-dark.svg?label=DL)](https://www.npmjs.com/package/hyper-solarized-dark)
-[hyper-solarized-light](https://www.npmjs.com/package/hyper-solarized-light) - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) palette. | [![npm](https://img.shields.io/npm/dm/hyper-solarized-light.svg?label=DL)](https://www.npmjs.com/package/hyper-solarized-light)
+[hyper-solarized-dark](https://www.npmjs.com/package/hyper-solarized-dark) - Pleasant and carefully chosen colors based on the popular [solarized](https://ethanschoonover.com/solarized/) palette. | [![npm](https://img.shields.io/npm/dm/hyper-solarized-dark.svg?label=DL)](https://www.npmjs.com/package/hyper-solarized-dark)
+[hyper-solarized-light](https://www.npmjs.com/package/hyper-solarized-light) - Pleasant and carefully chosen colors based on the popular [solarized](https://ethanschoonover.com/solarized/) palette. | [![npm](https://img.shields.io/npm/dm/hyper-solarized-light.svg?label=DL)](https://www.npmjs.com/package/hyper-solarized-light)
 [hyper-star-wars](https://www.npmjs.com/package/hyper-star-wars) - Super awesome, your Hyper terminal shall look. | [![npm](https://img.shields.io/npm/dm/hyper-star-wars.svg?label=DL)](https://www.npmjs.com/package/hyper-star-wars)
 [hyper-teatime](https://www.npmjs.com/package/hyper-teatime) - Light theme with sweet, pastel colors. | [![npm](https://img.shields.io/npm/dm/hyper-teatime.svg?label=DL)](https://www.npmjs.com/package/hyper-teatime)
 [hyper-theme](https://www.npmjs.com/package/hyper-theme) - Hyper colors theme for Hyper terminal. | [![npm](https://img.shields.io/npm/dm/hyper-theme.svg?label=DL)](https://www.npmjs.com/package/hyper-theme) 
