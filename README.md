@@ -39,7 +39,6 @@ Name and description | Downloads
 -------------------- | -------------
 [hyperline](https://www.npmjs.com/package/hyperline) - A status line at the bottom of your Hyper! | [![npm](https://img.shields.io/npm/dm/hyperline.svg?label=DL)](https://www.npmjs.com/package/hyperline)
 [hypercwd](https://www.npmjs.com/package/hypercwd) - Open new tabs with the same directory as your current tab. | [![npm](https://img.shields.io/npm/dm/hypercwd.svg?label=DL)](https://www.npmjs.com/package/hypercwd)
-[hyperterm-1password](https://www.npmjs.com/package/hyperterm-1password) - Integration with 1Password (password manager). | [![npm](https://img.shields.io/npm/dm/hyperterm-1password.svg?label=DL)](https://www.npmjs.com/package/hyperterm-1password)
 [hyperterm-visor](https://www.npmjs.com/package/hyperterm-visor) - Show/hide your Hyper terminal with a global hotkey & more. | [![npm](https://img.shields.io/npm/dm/hyperterm-visor.svg?label=DL)](https://www.npmjs.com/package/hyperterm-visor)
 [hyper-sync-settings](https://www.npmjs.com/package/hyper-sync-settings) - Easy way to backup and restore Hyper settings to Github. | [![npm](https://img.shields.io/npm/dm/hyper-sync-settings.svg?label=DL)](https://www.npmjs.com/package/hyper-sync-settings)
 [hyperterm-summon](https://www.npmjs.com/package/hyperterm-summon) - Summon your Hyper windows with a system-wide hotkey. | [![npm](https://img.shields.io/npm/dm/hyperterm-summon.svg?label=DL)](https://www.npmjs.com/package/hyperterm-summon)
