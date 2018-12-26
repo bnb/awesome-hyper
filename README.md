@@ -138,7 +138,7 @@ Name and description | Downloads
 [hypergravity](https://www.npmjs.com/package/hypergravity) - Add some fancy physics to your terminal! | [![npm](https://img.shields.io/npm/dm/hypergravity.svg?label=DL)](https://www.npmjs.com/package/hypergravity)
 [space-pull](https://www.npmjs.com/package/space-pull) - Add animation of landing rocket in your terminal when pulling code with git. | [![npm](https://img.shields.io/npm/dm/space-pull.svg?label=DL)](https://www.npmjs.com/package/space-pull)
 [hyper-bloodbath](https://www.npmjs.com/package/hyper-bloodbath) - A brutal re-imagining of hyperpower. Dripping blood from your cursor. | [![npm](https://img.shields.io/npm/dm/hyper-bloodbath.svg?label=DL)](https://www.npmjs.com/package/hyper-bloodbath)
-[git-falcon9](https://www.npmjs.com/package/git-falcon9) - Launch and Land SpaceX's Falcon Rockets when pushing and pulling code with git! | [![npm](https://img.shields.io/npm/dm/git-falcon9.svg?label=DL)](https://www.npmjs.com/package/git-falcon9)
+[git-falcon9](https://www.npmjs.com/package/git-falcon9) - Launch and land SpaceX's Falcon rockets when pushing and pulling code with git! | [![npm](https://img.shields.io/npm/dm/git-falcon9.svg?label=DL)](https://www.npmjs.com/package/git-falcon9)
 
 [⬆ Back to top](#contents)
 
