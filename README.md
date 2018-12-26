@@ -66,6 +66,7 @@ Name and description | Downloads
 [hyper-savetext](https://www.npmjs.com/package/hyper-savetext) - Save your terminal's text to a file. | [![npm](https://img.shields.io/npm/dm/hyper-savetext.svg?label=DL)](https://www.npmjs.com/package/hyper-savetext)
 [hyper-visual](https://www.npmjs.com/package/hyper-visual) - CLI commands from the history and the context now listed in a clickable GUI. | [![npm](https://img.shields.io/npm/dm/hyper-visual.svg?label=DL)](https://www.npmjs.com/package/hyper-visual)
 [hyper-init](https://www.npmjs.com/package/hyper-init) - The ultimate and most complete extension to initialize commands before and after Hyper terminal starts. | [![npm](https://img.shields.io/npm/dm/hyper-init.svg?label=DL)](https://www.npmjs.com/package/hyper-init)
+[hyper-gcp-status-line](https://www.npmjs.com/package/hyper-gcp-status-line) - Status line showing the locally configured GCP project, GCE zone, and Kubernetes context, as well as current Google Cloud availability. | [![npm](https://img.shields.io/npm/dm/hyper-gcp-status-line.svg?label=DL)](https://www.npmjs.com/package/hyper-gcp-status-line)
 [hyperalfred](https://www.npmjs.com/package/hyperalfred) - Open Hyper from Alfred 3. | [![npm](https://img.shields.io/npm/dm/hyperalfred.svg?label=DL)](https://www.npmjs.com/package/hyperalfred)
 
 [⬆ Back to top](#contents)
