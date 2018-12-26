@@ -117,6 +117,7 @@ Name and description | Downloads
 [hyper-media-control](https://www.npmjs.com/package/hyper-media-control) - Display and control the current song in a variety of media players. | [![npm](https://img.shields.io/npm/dm/hyper-media-control.svg?label=DL)](https://npmjs.com/package/hyper-media-control)
 [hyper-folder-icon](https://www.npmjs.com/package/hyper-folder-icon) - Show custom folder's icon for Mac and Linux in tabs. | [![npm](https://img.shields.io/npm/dm/hyper-folder-icon.svg?label=DL)](https://www.npmjs.com/package/hyper-folder-icon)
 [hyper-tab-touchbar](https://www.npmjs.com/package/hyper-tab-touchbar) - See and access your terminal tabs from the MacBook Pro Touchbar. Supports icons with `hyper-folder-icon`. | [![npm](https://img.shields.io/npm/dm/hyper-tab-touchbar.svg?label=DL)](https://www.npmjs.com/package/hyper-tab-touchbar)
+[hyper-opacity](https://www.npmjs.com/package/hyper-opacity) - Set the opacity of your Hyper window. | [![npm](https://img.shields.io/npm/dm/hyper-opacity.svg?label=DL)](https://www.npmjs.com/package/hyper-opacity)
 
 [⬆ Back to top](#contents)
 
