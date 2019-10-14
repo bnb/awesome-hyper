@@ -1,6 +1,6 @@
 # Awesome Hyper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome](https://img.shields.io/travis/bnb/awesome-hyper.svg)](https://travis-ci.org/bnb/awesome-hyper)
 
-[<img src="https://raw.githubusercontent.com/bnb/awesome-hyper/master/hyper-3-color-logo.svg" align="right" width="240">](https://hyper.is)
+[<img src="hyper-3-color-logo.svg" align="right" width="240">](https://hyper.is)
 
 > A curated list of sweet Hyper [packages](#packages), [themes](#themes), and [resources](#resources).
 
