@@ -69,7 +69,7 @@ Name and description | Downloads
 [hyper-gcp-status-line](https://www.npmjs.com/package/hyper-gcp-status-line) - Status line showing the locally configured GCP project, GCE zone, and Kubernetes context, as well as current Google Cloud availability. | [![npm](https://img.shields.io/npm/dm/hyper-gcp-status-line.svg?label=DL)](https://www.npmjs.com/package/hyper-gcp-status-line)
 [hyperalfred](https://www.npmjs.com/package/hyperalfred) - Open Hyper from Alfred 3. | [![npm](https://img.shields.io/npm/dm/hyperalfred.svg?label=DL)](https://www.npmjs.com/package/hyperalfred)
 [hyperinator](https://www.npmjs.com/package/hyperinator) - Layout automation tool likes tmuxinator for Hyper. | [![npm](https://img.shields.io/npm/dm/hyperinator.svg?label=DL)](https://www.npmjs.com/package/hyperinator)
-[hyper-drop-file](https://www.npmjs.com/package/hyper-drop-file) - Drop file path from file explorer into your terminal. | [![npm](https://img.shields.io/npm/dm/hypercwd.svg?label=DL)](https://www.npmjs.com/package/hyper-drop-file)
+[hyper-drop-file](https://www.npmjs.com/package/hyper-drop-file) - Drop file path from file explorer into your terminal. | [![npm](https://img.shields.io/npm/dm/hyper-drop-file.svg?label=DL)](https://www.npmjs.com/package/hyper-drop-file)
 
 [⬆ Back to top](#contents)
 
