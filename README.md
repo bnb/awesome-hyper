@@ -8,7 +8,7 @@
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
-**Check out the official [Hyper site](https://hyper.is), check out [Zeit](https://zeit.co), and their interesting Hosting product, [Now](https://zeit.co/now).**
+**Check out the official [Hyper site](https://hyper.is), check out [Zeit](https://zeit.co), and their interesting Hosting product, [Now](https://zeit.co/home).**
 
 Want to add your awesome Hyper package, theme, or resource? Make the change and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
 
@@ -49,7 +49,7 @@ Name and description | Downloads
 [hyperterm-focus-reporting](https://www.npmjs.com/package/hyperterm-focus-reporting) - Adds focus reporting to Hyper - similar to iTerm2. | [![npm](https://img.shields.io/npm/dm/hyperterm-focus-reporting.svg?label=DL)](https://www.npmjs.com/package/hyperterm-focus-reporting)
 [hyperlinks](https://www.npmjs.com/package/hyperlinks) - Extension for Hyper that automatically links URLs. | [![npm](https://img.shields.io/npm/dm/hyperlinks.svg?label=DL)](https://www.npmjs.com/package/hyperlinks)
 [hyper-statusline](https://www.npmjs.com/package/hyper-statusline) - Status line showing current cwd and git branch status. | [![npm](https://img.shields.io/npm/dm/hyper-statusline.svg?label=DL)](https://www.npmjs.com/package/hyper-statusline)
-[hyper-statusline-extended](https://npmjs.com/package/hyper-statusline-extended) hyper-statusline rewritten and extended with more features for Hyper 3. | [![npm](https://img.shields.io/npm/dm/hyper-statusline-extended.svg?label=DL)]((https://npmjs.com/package/hyper-statusline-extended))
+[hyper-statusline-extended](https://www.npmjs.com/package/hyper-statusline-extended) hyper-statusline rewritten and extended with more features for Hyper 3. | [![npm](https://img.shields.io/npm/dm/hyper-statusline-extended.svg?label=DL)]((https://www.npmjs.com/package/hyper-statusline-extended))
 [hypernpm](https://www.npmjs.com/package/hypernpm) - Use keyboard shortcuts to run npm script commands. | [![npm](https://img.shields.io/npm/dm/hypernpm.svg?label=DL)](https://www.npmjs.com/package/hypernpm)
 [hyper-startup](https://www.npmjs.com/package/hyper-startup) - Executes any configured commands when Hyper loads. | [![npm](https://img.shields.io/npm/dm/hyper-startup.svg?label=DL)](https://www.npmjs.com/package/hyper-startup)
 [hyper-fileio](https://www.npmjs.com/package/hyper-fileio) - Ephemeral file sharing direct from Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-fileio.svg?label=DL)](https://www.npmjs.com/package/hyper-fileio)
@@ -69,6 +69,7 @@ Name and description | Downloads
 [hyper-gcp-status-line](https://www.npmjs.com/package/hyper-gcp-status-line) - Status line showing the locally configured GCP project, GCE zone, and Kubernetes context, as well as current Google Cloud availability. | [![npm](https://img.shields.io/npm/dm/hyper-gcp-status-line.svg?label=DL)](https://www.npmjs.com/package/hyper-gcp-status-line)
 [hyperalfred](https://www.npmjs.com/package/hyperalfred) - Open Hyper from Alfred 3. | [![npm](https://img.shields.io/npm/dm/hyperalfred.svg?label=DL)](https://www.npmjs.com/package/hyperalfred)
 [hyperinator](https://www.npmjs.com/package/hyperinator) - Layout automation tool likes tmuxinator for Hyper. | [![npm](https://img.shields.io/npm/dm/hyperinator.svg?label=DL)](https://www.npmjs.com/package/hyperinator)
+[hyper-drop-file](https://www.npmjs.com/package/hyper-drop-file) - Drop file path from file explorer into your terminal. | [![npm](https://img.shields.io/npm/dm/hyper-drop-file.svg?label=DL)](https://www.npmjs.com/package/hyper-drop-file)
 
 [⬆ Back to top](#contents)
 
