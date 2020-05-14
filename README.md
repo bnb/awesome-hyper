@@ -8,7 +8,7 @@
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
-**Check out the official [Hyper site](https://hyper.is), check out [Zeit](https://zeit.co), and their interesting Hosting product, [Now](https://zeit.co/home).**
+**Check out the official [Hyper site](https://hyper.is), check out [Vercel](https://vercel.com), and their interesting Hosting product, [Now](https://vercel.com/home).**
 
 Want to add your awesome Hyper package, theme, or resource? Make the change and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
 
