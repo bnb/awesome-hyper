@@ -71,6 +71,7 @@ Name and description | Downloads
 [hyperalfred](https://www.npmjs.com/package/hyperalfred) - Open Hyper from Alfred 3. | [![npm](https://img.shields.io/npm/dm/hyperalfred.svg?label=DL)](https://www.npmjs.com/package/hyperalfred)
 [hyperinator](https://www.npmjs.com/package/hyperinator) - Layout automation tool likes tmuxinator for Hyper. | [![npm](https://img.shields.io/npm/dm/hyperinator.svg?label=DL)](https://www.npmjs.com/package/hyperinator)
 [hyper-drop-file](https://www.npmjs.com/package/hyper-drop-file) - Drop file path from file explorer into your terminal. | [![npm](https://img.shields.io/npm/dm/hyper-drop-file.svg?label=DL)](https://www.npmjs.com/package/hyper-drop-file)
+[hyper-dnd-tabs](https://www.npmjs.com/package/hyper-dnd-tabs) - Drag and drop tabs. | [![npm](https://img.shields.io/npm/dm/hyper-dnd-tabs.svg?label=DL)](https://www.npmjs.com/package/hyper-dnd-tabs)
 
 [⬆ Back to top](#contents)
 
