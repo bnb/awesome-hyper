@@ -276,6 +276,7 @@ Name and description | Downloads
 [hyperterm-wp-theme](https://www.npmjs.com/package/hyperterm-wp-theme) - An adaptation of the popular JetBrains Darcula Theme with support for colored tabs. | [![npm](https://img.shields.io/npm/dm/hyperterm-wp-theme.svg?label=DL)](https://www.npmjs.com/package/hyperterm-wp-theme)
 [shades-of-purple-hyper](https://www.npmjs.com/package/shades-of-purple-hyper) - Professional Hyper™ theme with hand-picked & bold shades of purple. Purple can be genius. | [![npm](https://img.shields.io/npm/dm/shades-of-purple-hyper.svg?label=DL)](https://www.npmjs.com/package/shades-of-purple-hyper)
 [verminal](https://www.npmjs.com/package/verminal) - A dark Hyper theme with beautiful vibrancy. | [![npm](https://img.shields.io/npm/dm/verminal.svg?label=DL)](https://www.npmjs.com/package/verminal)
+[hyper-tender](https://www.npmjs.com/package/hyper-tender) - A dark theme inspired by tender.vim. | [![npm](https://img.shields.io/npm/dm/hyper-tender.svg?label=DL)](https://www.npmjs.com/package/hyper-tender)
 
 Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
