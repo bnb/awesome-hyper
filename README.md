@@ -269,6 +269,7 @@ Name and description | Downloads
 [hyperterm-retro](https://www.npmjs.com/package/hyperterm-retro) - A retro Hyper theme inspired by the [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) terminal emulator. | [![npm](https://img.shields.io/npm/dm/hyperterm-retro.svg?label=DL)](https://www.npmjs.com/package/hyperterm-retro)
 [hyperterm-sourcerer](https://www.npmjs.com/package/hyperterm-sourcerer) - A 16-bit dark theme based on [xero/sourcerer](https://github.com/xero/sourcerer). | [![npm](https://img.shields.io/npm/dm/hyperterm-sourcerer.svg?label=DL)](https://www.npmjs.com/package/hyperterm-sourcerer)
 [hyperterm-spacegray](https://www.npmjs.com/package/hyperterm-spacegray) - Port of the popular Spacegray theme, optimized for terminal usage. | [![npm](https://img.shields.io/npm/dm/hyperterm-spacegray.svg?label=DL)](https://www.npmjs.com/package/hyperterm-spacegray)
+[hyper-tender](https://www.npmjs.com/package/hyper-tender) - A dark theme inspired by tender.vim. | [![npm](https://img.shields.io/npm/dm/hyper-tender.svg?label=DL)](https://www.npmjs.com/package/hyper-tender)
 [hyperterm-tomorrow-night](https://www.npmjs.com/package/hyperterm-tomorrow-night) - Dark - Port of the popular Tomorrow Night theme. | [![npm](https://img.shields.io/npm/dm/hyperterm-tomorrow-night.svg?label=DL)](https://www.npmjs.com/package/hyperterm-tomorrow-night)
 [hyperterm-ubuntu-theme](https://www.npmjs.com/package/hyperterm-ubuntu-theme) - Ubuntu-style theme. | [![npm](https://img.shields.io/npm/dm/hyperterm-ubuntu-theme.svg?label=DL)](https://www.npmjs.com/package/hyperterm-ubuntu-theme)
 [hyperterm-ultrasweet](https://www.npmjs.com/package/hyperterm-ultrasweet) - A dark theme with nebula hues for Hyper. | [![npm](https://img.shields.io/npm/dm/hyperterm-ultrasweet.svg?label=DL)](https://www.npmjs.com/package/hyperterm-ultrasweet)
@@ -276,7 +277,6 @@ Name and description | Downloads
 [hyperterm-wp-theme](https://www.npmjs.com/package/hyperterm-wp-theme) - An adaptation of the popular JetBrains Darcula Theme with support for colored tabs. | [![npm](https://img.shields.io/npm/dm/hyperterm-wp-theme.svg?label=DL)](https://www.npmjs.com/package/hyperterm-wp-theme)
 [shades-of-purple-hyper](https://www.npmjs.com/package/shades-of-purple-hyper) - Professional Hyper™ theme with hand-picked & bold shades of purple. Purple can be genius. | [![npm](https://img.shields.io/npm/dm/shades-of-purple-hyper.svg?label=DL)](https://www.npmjs.com/package/shades-of-purple-hyper)
 [verminal](https://www.npmjs.com/package/verminal) - A dark Hyper theme with beautiful vibrancy. | [![npm](https://img.shields.io/npm/dm/verminal.svg?label=DL)](https://www.npmjs.com/package/verminal)
-[hyper-tender](https://www.npmjs.com/package/hyper-tender) - A dark theme inspired by tender.vim. | [![npm](https://img.shields.io/npm/dm/hyper-tender.svg?label=DL)](https://www.npmjs.com/package/hyper-tender)
 
 Know of another really awesome theme? [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
