@@ -72,6 +72,7 @@ Name and description | Downloads
 [hyperinator](https://www.npmjs.com/package/hyperinator) - Layout automation tool likes tmuxinator for Hyper. | [![npm](https://img.shields.io/npm/dm/hyperinator.svg?label=DL)](https://www.npmjs.com/package/hyperinator)
 [hyper-drop-file](https://www.npmjs.com/package/hyper-drop-file) - Drop file path from file explorer into your terminal. | [![npm](https://img.shields.io/npm/dm/hyper-drop-file.svg?label=DL)](https://www.npmjs.com/package/hyper-drop-file)
 [hyper-dnd-tabs](https://www.npmjs.com/package/hyper-dnd-tabs) - Drag and drop tabs. | [![npm](https://img.shields.io/npm/dm/hyper-dnd-tabs.svg?label=DL)](https://www.npmjs.com/package/hyper-dnd-tabs)
+[hyper-manager](https://www.npmjs.com/package/hyper-manager) - The ultimate and most complete extension to manage all your connections in one place. | [![npm](https://img.shields.io/npm/dm/hyper-manager.svg?label=DL)](https://www.npmjs.com/package/hyper-manager)
 
 [⬆ Back to top](#contents)
 
