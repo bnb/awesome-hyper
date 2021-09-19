@@ -22,6 +22,8 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 
 # Contents
 
+- [Awesome Hyper ![Awesome](https://github.com/sindresorhus/awesome) [![Awesome](https://img.shields.io/travis/bnb/awesome-hyper.svg)](https://travis-ci.org/bnb/awesome-hyper)](#awesome-hyper--)
+- [Contents](#contents)
 - [Packages](#packages)
   - [Productivity](#productivity)
   - [Customization](#customization)
@@ -214,6 +216,7 @@ Name and description | Downloads
 [hyper-polarbear](https://www.npmjs.com/package/hyper-polarbear) - A beautiful white theme for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-polarbear.svg?label=DL)](https://www.npmjs.com/package/hyper-polarbear)
 [hyper-ramda](https://www.npmjs.com/package/hyper-ramda) - Theme inspired by the RamdaJS REPL. | [![npm](https://img.shields.io/npm/dm/hyper-ramda.svg?label=DL)](https://www.npmjs.com/package/hyper-ramda)
 [hyper-relaxed](https://www.npmjs.com/package/hyper-relaxed) - A theme to take a more relaxed view of things. | [![npm](https://img.shields.io/npm/dm/hyper-relaxed.svg?label=DL)](https://www.npmjs.com/package/hyper-relaxed)
+[hyper-rmaki-theme](https://www.npmjs.com/package/hyper-rmaki-theme) - Rmaki theme for Hyper Term. Basic dark theme with green accent. | [![npm](https://img.shields.io/npm/dm/hyper-rmaki-theme.svg?label=DL)](https://www.npmjs.com/package/hyper-rmaki-theme)
 [hyper-rose-pine](https://www.npmjs.com/package/hyper-rose-pine) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist. | [![npm](https://img.shields.io/npm/dm/hyper-rose-pine.svg?label=DL)](https://www.npmjs.com/package/hyper-rose-pine)
 [hyper-seashells](https://www.npmjs.com/package/hyper-seashells) - A Hyper port of the [iTerm2 SeaShells](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/screenshots/sea_shells.png) color scheme. | [![npm](https://img.shields.io/npm/dm/hyper-seashells.svg?label=DL)](https://www.npmjs.com/package/hyper-seashells)
 [hyper-sierra-vibrancy](https://www.npmjs.com/package/hyper-sierra-vibrancy) - hyper-sierra with vibrancy. | [![npm](https://img.shields.io/npm/dm/hyper-sierra-vibrancy.svg?label=DL)](https://www.npmjs.com/package/hyper-sierra-vibrancy)
