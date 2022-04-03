@@ -73,6 +73,7 @@ Name and description | Downloads
 [hyper-drop-file](https://www.npmjs.com/package/hyper-drop-file) - Drop file path from file explorer into your terminal. | [![npm](https://img.shields.io/npm/dm/hyper-drop-file.svg?label=DL)](https://www.npmjs.com/package/hyper-drop-file)
 [hyper-dnd-tabs](https://www.npmjs.com/package/hyper-dnd-tabs) - Drag and drop tabs. | [![npm](https://img.shields.io/npm/dm/hyper-dnd-tabs.svg?label=DL)](https://www.npmjs.com/package/hyper-dnd-tabs)
 [hyper-manager](https://www.npmjs.com/package/hyper-manager) - The ultimate and most complete extension to manage all your connections in one place. | [![npm](https://img.shields.io/npm/dm/hyper-manager.svg?label=DL)](https://www.npmjs.com/package/hyper-manager)
+[hyper-copy-as-html](https://www.npmjs.com/package/hyper-copy-as-html) - Copy your terminal output as html. | [![npm](https://img.shields.io/npm/dm/hyper-copy-as-html.svg?label=DL)](https://www.npmjs.com/package/hyper-copy-as-html)
 
 [⬆ Back to top](#contents)
 
