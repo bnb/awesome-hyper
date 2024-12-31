@@ -156,6 +156,7 @@ Name and description | Downloads
 [hyper-bloodbath](https://www.npmjs.com/package/hyper-bloodbath) - A brutal re-imagining of hyperpower. Dripping blood from your cursor. | [![npm](https://img.shields.io/npm/dm/hyper-bloodbath.svg?label=DL)](https://www.npmjs.com/package/hyper-bloodbath)
 [hyper-postprocessing](https://www.npmjs.com/package/hyper-postprocessing) - Add fragment shaders to the Hyper terminal. | [![npm](https://img.shields.io/npm/dm/hyper-postprocessing.svg?label=DL)](https://www.npmjs.com/package/hyper-postprocessing)
 [git-falcon9](https://www.npmjs.com/package/git-falcon9) - Launch and land SpaceX's Falcon rockets when pushing and pulling code with git! | [![npm](https://img.shields.io/npm/dm/git-falcon9.svg?label=DL)](https://www.npmjs.com/package/git-falcon9)
+[cool-retro-hyper](https://www.npmjs.com/package/cool-retro-hyper) - A Hyper terminal plugin that applies a retro CRT monitor effect | [![npm](https://img.shields.io/npm/dm/cool-retro-hyper.svg?label=DL)](https://www.npmjs.com/package/cool-retro-hyper)
 
 [⬆ Back to top](#contents)
 
