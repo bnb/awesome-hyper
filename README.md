@@ -17,6 +17,7 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 <!-- AWESOME ITEM TEMPLATE --
 
 * [Hyper Awesome Name](hyper.awesome.link) - Kick-arse description of why the Package, Theme, or resource is AWESOME!
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for terminal-based multi-agent orchestration, automated task management, and development workflow coordination. MIT licensed.
 
 -- /AWESOME ITEM TEMPLATE -->
 
