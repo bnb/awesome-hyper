@@ -20,6 +20,7 @@ Like `awesome-hyper`? Reach out to [@bitandbang](https://twitter.com/bitandbang)
 
 -- /AWESOME ITEM TEMPLATE -->
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=bnb_awesome-hyper) - Follow developers on GitHub and get a feed of what they star and build.
 # Contents
 
 - [Packages](#packages)
